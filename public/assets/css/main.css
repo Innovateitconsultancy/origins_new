@@ -3384,7 +3384,9 @@ span {
   gap: 20px;
   justify-content: space-between;
 }
-
+.header-main .logo a.header-logo img {
+    max-width: 110px;
+}
 @media (max-width: 991px) {
   .header-main .main-menu ul li .has-homemenu .homemenu-items {
     flex-wrap: wrap;
