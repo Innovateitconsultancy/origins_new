@@ -19,20 +19,18 @@ export default function AboutSection() {
                             <div className="col-lg-6 offset-lg-1 mt-4 mt-lg-0">
                                 <div className="about-content">
                                     <div className="section-title">
-                                        <h2 className="text-white wow fadeInUp" data-wow-delay=".3s">
-                                            About <span>Origins</span>
+                                        <h2 className=" wow fadeInUp" data-wow-delay=".3s">
+                                            How it works
                                         </h2>
                                     </div>
-                                    <p className="text-white mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                                        Our therapies are developed by a team of doctors and scientists and are independently laboratory tested for safety. By delivering essential nutrients, vitamins, electrolytes, minerals and antioxidants our therapies can help to maintain your nutritional health.
+                                    <p className=" mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
+                                      Experience seamless wellness with our at-home IV therapy, designed for your convenience and comfort.
                                     </p>
-                                    <p className="text-white mt-3 wow fadeInUp" data-wow-delay=".7s">
-                                        IV drip therapy and vitamin booster shots are an alternative way to supplement your body’s nutritional health. IV nutrition offers 100% absorption into the bloodstream.
-                                    </p>
+                                  
                                     <div className="about-author">
                                         <div className="about-button wow fadeInUp" data-wow-delay=".9s">
-                                            <Link href="/about" className="theme-btn">
-                                                Know More
+                                            <Link href="/about" className="btnGreen">
+                                                Know More 
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
                                         </div>

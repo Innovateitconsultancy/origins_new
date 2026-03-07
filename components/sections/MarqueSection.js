@@ -1,7 +1,7 @@
 export default function MarqueSection() {
     return (
         <>
-            <div className="marque-section">
+            {/* <div className="marque-section">
                 <div className="marquee-wrapper text-slider">
                     <div className="marquee-inner to-left">
                         <ul className="marqee-list d-flex">
@@ -22,7 +22,7 @@ export default function MarqueSection() {
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     )
 }

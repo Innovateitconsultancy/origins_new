@@ -6,8 +6,8 @@ export default function BlogSection() {
             <section className="news-section section-padding fix productList" id="blog">
                 <div className="container">
                     <div className="section-title text-center">
-                        <span className="wow fadeInUp">Article</span>
-                        <h2 className="wow fadeInUp" data-wow-delay=".3s">Read Our Latest Blog</h2>
+                        {/* <span className="wow fadeInUp">dfds</span> */}
+                        <h2 className="wow fadeInUp" data-wow-delay=".3s">Like us, love us, follow us</h2>
                     </div>
                 </div>
                 <div className="news-wrapper">

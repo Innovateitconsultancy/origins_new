@@ -1,5 +1,8 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
+import HeroSection from "@/components/sections/HeroSection"
+// import HeroAboutUsSection from "@/iv-drip-therapy/HeroAboutUsSection"
+
 
 export const metadata = {
     title: 'Miniboost || Origins',
@@ -9,91 +12,67 @@ export const metadata = {
 export default function Miniboost() {
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Miniboost">
-                <section className="Project-details-section fix section-padding inner">
+            {/* <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Miniboost"> */}
+                <Layout headerStyle={1} footerStyle={1} >
+                 <section className="hero-section fix hero-1 bg-cover">
+               
+                <div className="heroBanner">
+                    <div className="heroBannerInfo">
+<div className="heroBannerText">
+<div className="bannerContent">
+<h1>Dehydration IV Treatment</h1>
+<div className="text">
+    Drip Hydration brings IV therapy and wellness treatments to your home, nationwide.
+    </div>
+        <div className="heroBannerBtns">
+                                    <a href="" >BOOK IV THERAPY</a>
+                                    <a href="" >VIEW ALL SERVICES</a>
+                                    <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a>
+        </div>
+       
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </section>
+                <section className="Project-details-section fix section-padding1 inner bgLightYellow sectionPdTopBottom80">
                     <div className="container">
                         <div className="project-details-wrapper">
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="project-details-items">
-                                        <div className="details-image">
-                                            <img src="/assets/img/therapy/miniboost-img1.jpg" alt="img" />
-                                        </div>
+                                       
                                         <div className="row g-4 justify-content-between">
-                                            <div className="col-lg-7">
+                                           
+                                            <div className="col-lg-6">
                                                 <div className="details-content pt-5">
-                                                    <h3>Small & Mighty</h3>
+                                                    <h3>Small & Mighty 1</h3>
                                                     <p>Maintain your nutritional balance with Miniboost, a compact yet powerful option inspired by the Megaboost. Though smaller in size, Miniboost delivers an effective combination of B vitamins, vitamin C, and antioxidants, making it a strong choice for everyday wellness support. It helps boost energy levels, supports immune function, and promotes overall vitality. Ideal for regular use, Miniboost fits seamlessly into a busy, health-focused lifestyle.</p>
                                                 </div>
                                             </div>
-                                            <div className="col-lg-4">
-                                                <div className="project-catagory">
-                                                    <img src="/assets/img/therapy/miniboost.jpg" alt="img" />
-                                                </div>
+                                             <div className="col-lg-6">
+                                                 <img src="/assets/img/therapy/miniboost-img1.jpg" alt="img" className="imgMax" />
                                             </div>
                                         </div>
-                                        <div className="row g-lg-5 g-4 pt-5">
-                                            <div className="col-lg-12">
-                                                <div className="section-title mb-0">
-                                                    <h1>Key Nutrients</h1>
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-4">
-                                                <Link href="/nutrients/vitamin-c">
-                                                    <div className="service-box-items box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/nutrients/vitamin-c.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <h4>Vitamin C</h4>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                            <div className="col-lg-4">
-                                                <Link href="/nutrients/vitamin-b12">
-                                                    <div className="service-box-items box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/nutrients/vitamin-b12.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <h4>Vitamin B12</h4>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                            <div className="col-lg-4">
-                                                <Link href="/nutrients/sodium-chloride-solution">
-                                                    <div className="service-box-items box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/nutrients/sodium-chloride-solution.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <h4>Sodium Chloride Solution</h4>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                            <div className="col-lg-4">
-                                                <Link href="/nutrients/n-acetylcysteine">
-                                                    <div className="service-box-items box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/nutrients/n-acetylcysteine.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <h4>N-Acetylcysteine</h4>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                        </div>
-                                        <div className="row g-lg-5 g-4 pt-5 mt-lg-5">
-                                            <div className="col-lg-5">
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </section>
+                                     <section className="Project-details-section fix section-padding1 inner bgLightGreen sectionPdTopBottom80">
+                    <div className="container">
+                        <div className="project-details-wrapper">
+                            <div className="row">
+                                <div className="col-lg-12">
+                                    <div className="project-details-items">
+                                        <div className="row ">
+                                            <div className="col-lg-6">
                                                 <div className="thumb">
                                                     <img src="/assets/img/therapy/miniboost-img2.jpg" alt="img" />
                                                 </div>
                                             </div>
-                                            <div className="col-lg-7">
+                                            <div className="col-lg-6">
                                                 <div className="details-content">
                                                     <h3>How does it work?</h3>
                                                     <p className="mb-3">Miniboost’s key nutrients help support energy production, reduce fatigue, and maintain the healthy functioning of the nervous system, immune system, bones, and teeth.</p>
@@ -123,39 +102,7 @@ export default function Miniboost() {
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="row g-lg-5 g-4 pt-5 mt-lg-5">
-                                            <div className="col-lg-5 order-lg-2 offset-lg-1">
-                                                <div className="section-title mb-0">
-                                                    <h1>Works Well With</h1>
-                                                </div>
-                                            </div>
-                                            <div className="col-lg-3">
-                                                <Link href="/vitamin-shots/b-family">
-                                                    <div className="service-box-items style box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/vitamin-shots/b-family.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <p>From helping to reduce feelings of tiredness and fatigue to supporting the normal functioning of the immune system, B vitamins play a vital role in maintaining overall health and well-being.</p>
-                                                            <Link href="/vitamin-shots/b-family" className="theme-btn-2">Find More</Link>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                            <div className="col-lg-3 pt-lg-5">
-                                                <Link href="/vitamin-shots/coq10-family">
-                                                    <div className="service-box-items style box-shadow">
-                                                        <div className="icon">
-                                                            <img src="/assets/img/vitamin-shots/coq10-family.svg" alt="icon-img" />
-                                                        </div>
-                                                        <div className="content">
-                                                            <p>Support your physical well-being with coenzyme Q10 (CoQ10), a naturally occurring compound present in almost every cell of the body that plays a key role in cellular energy and overall health.</p>
-                                                            <Link href="/vitamin-shots/coq10-family" className="theme-btn-2">Find More</Link>
-                                                        </div>
-                                                    </div>
-                                                </Link>
-                                            </div>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>

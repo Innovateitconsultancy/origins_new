@@ -11,6 +11,8 @@ Version: 1.0.0
   --white: #fff;
   --theme: #009194;
   --theme2: #009194;
+  --theme3: #f8eadd;
+  --theme4: #c6dbdb;
   --header: #009194;
   --text: #585858;
   --text-2: #ffffffcc;
@@ -301,7 +303,8 @@ span {
 }
 
 .about-section {
-  background-color: var(--header);
+  background-color: var(--theme4);
+  color: var(--black);
 }
 
 .about-wrapper .about-image-items {
@@ -3384,9 +3387,11 @@ span {
   gap: 20px;
   justify-content: space-between;
 }
+
 .header-main .logo a.header-logo img {
-    max-width: 110px;
+  max-width: 110px;
 }
+
 @media (max-width: 991px) {
   .header-main .main-menu ul li .has-homemenu .homemenu-items {
     flex-wrap: wrap;
@@ -9066,7 +9071,7 @@ input.main-search-input::placeholder {
 }
 
 .productList {
-  background-color: var(--bg4);
+  background-color: var(--theme3);
 }
 
 @media (max-width: 1899px) {
@@ -9214,3 +9219,261 @@ html {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.heroBanner {
+  background: url(../../assets/img/banner-frontpage-Drip.jpg) no-repeat;
+  background-size: cover;
+  position: relative;
+  min-height: 634px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.heroBanner .heroBannerInfo {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 1300px;
+  padding: 84px 15px 43px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  min-height: 634px;
+}
+
+.heroBanner .heroBannerInfo div,
+.heroBanner .heroBannerInfo div p {
+  font-size: 18px !important;
+  line-height: 26px !important;
+  font-weight: 400 !important;
+  color: var(--neutral-06);
+}
+
+.heroBanner .heroBannerInfo .heroBannerText {
+  margin: auto 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent h1 {
+  max-width: 507px;
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .intro__btns {
+  display: flex;
+  align-content: center;
+  gap: 16px;
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
+  background-color: var(--theme);
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--white);
+  border-radius: 40px;
+  padding: 16px;
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a:hover {
+  background-color: var(--blackLight);
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a.btnOutlineWhite {
+  text-transform: uppercase;
+  color: var(--white);
+  border: 1px solid var(--theme);
+  background: none;
+  color: var(--theme);
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a.btnOutlineWhite:hover {
+  background-color: var(--blackLight);
+  color: var(--white);
+}
+
+.heroBanner .heroBannerInfo .heroBannerBtns {
+  gap: 16px;
+  display: flex;
+}
+
+.marque-section {
+  display: none;
+}
+
+a.btnOutlineWhite {
+  text-transform: uppercase;
+  border: 1px solid var(--white);
+  background: none;
+  color: var(--white);
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 40px;
+  padding: 16px;
+}
+
+a.btnOutlineWhite:hover {
+  background-color: var(--blackLight);
+  color: var(--white);
+}
+
+
+.btnGreen {
+  background-color: var(--theme);
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--white);
+  border-radius: 40px;
+  padding: 16px;
+}
+
+.btnGreen:hover {
+  background-color: var(--blackLight);
+}
+
+.subcribeContent {
+  background-color: var(--theme4);
+  border-radius: 20px;
+  padding: 61px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  max-width: 1246px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.subcribeContent h2 {
+  font-size: 40px !important;
+  font-weight: 400 !important;
+  line-height: 46px !important;
+  margin-bottom: 16px;
+  color: var(--black);
+  max-width: 591px;
+}
+
+.subcribeContent h2 strong {
+  font-weight: 600 !important;
+}
+
+.subcribeContent form {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: visible;
+  max-width: 450px;
+  margin: 0px auto;
+  border-radius: 2px;
+  border-style: none;
+  border-width: 0px;
+  border-color: var(--black);
+  padding: 0px;
+  flex: 1 1 0%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    position: relative;
+
+}
+.subcribeContent form div {
+    display: flex;
+    justify-content: flex-start;
+    padding: 32px 10px 31px 0px;
+    position: relative;
+    flex: 1 0 0px;
+}
+.subcribeContent form input {
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 0px 0px 0px 16px;
+  height: 54px;
+  text-align: left;
+  color: var(--black);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  background-color: var(--white);
+  border: 1px solid var(--theme);
+  border-radius: 40px !important;
+  padding: 0 20px !important;
+  min-width: 390px;
+}
+.accordionSection {
+  background: var(--theme3);
+  color: var(--black);
+}
+.accordion {
+  /* width: 600px; */
+  margin: auto;
+  font-family: Arial;
+  font-size: 20px;
+}
+.accordion
+details {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+.accordion
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.accordion
+summary::after {
+  content: "+";
+  font-size: 20px;
+}
+.accordion
+details[open] summary::after {
+  content: "−";
+}
+.accordion
+details p {
+  margin-top: 10px;
+}
+.imgMax{
+  max-width: 100%;
+}
+.sectionBannerPdTop30{
+  padding-top: 30px;
+}
+.bgLightYellow{
+  background: var(--theme3);
+}
+.bgLightGreen{
+  background: var(--theme4);
+}
+.sectionPdTopBottom80{
+  padding: 80px 0;
+}
