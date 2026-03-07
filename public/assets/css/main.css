@@ -9396,19 +9396,21 @@ a.btnOutlineWhite:hover {
   padding: 0px;
   flex: 1 1 0%;
 
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
-    position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  position: relative;
 
 }
+
 .subcribeContent form div {
-    display: flex;
-    justify-content: flex-start;
-    padding: 32px 10px 31px 0px;
-    position: relative;
-    flex: 1 0 0px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 32px 10px 31px 0px;
+  position: relative;
+  flex: 1 0 0px;
 }
+
 .subcribeContent form input {
   box-sizing: border-box;
   border-radius: 4px;
@@ -9425,23 +9427,25 @@ a.btnOutlineWhite:hover {
   padding: 0 20px !important;
   min-width: 390px;
 }
+
 .accordionSection {
   background: var(--theme3);
   color: var(--black);
 }
+
 .accordion {
   /* width: 600px; */
   margin: auto;
   font-family: Arial;
   font-size: 20px;
 }
-.accordion
-details {
+
+.accordion details {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
-.accordion
-summary {
+
+.accordion summary {
   cursor: pointer;
   font-weight: bold;
   list-style: none;
@@ -9449,31 +9453,36 @@ summary {
   justify-content: space-between;
   font-size: 20px;
 }
-.accordion
-summary::after {
+
+.accordion summary::after {
   content: "+";
   font-size: 20px;
 }
-.accordion
-details[open] summary::after {
+
+.accordion details[open] summary::after {
   content: "−";
 }
-.accordion
-details p {
+
+.accordion details p {
   margin-top: 10px;
 }
-.imgMax{
+
+.imgMax {
   max-width: 100%;
 }
-.sectionBannerPdTop30{
+
+.sectionBannerPdTop30 {
   padding-top: 30px;
 }
-.bgLightYellow{
+
+.bgLightYellow {
   background: var(--theme3);
 }
-.bgLightGreen{
+
+.bgLightGreen {
   background: var(--theme4);
 }
-.sectionPdTopBottom80{
+
+.sectionPdTopBottom80 {
   padding: 80px 0;
 }
