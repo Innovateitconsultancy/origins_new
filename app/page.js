@@ -7,7 +7,7 @@ import DiscoverSection from "@/components/sections/DiscoverSection"
 import AboutSection from "@/components/sections/AboutSection"
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
-import AccordionSection from "@/components/sections/accordionSection"
+import AccordionSection from "@/components/sections/AccordionSection"
 export default function Home() {
 
     return (
