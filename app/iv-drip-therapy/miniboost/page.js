@@ -33,7 +33,7 @@ export default function Miniboost() {
                     </div>
                     </div>
                     </div>
-                </div>
+                </div> 
             </section>
                 <section className="Project-details-section fix section-padding1 inner bgLightYellow sectionPdTopBottom80">
                     <div className="container">
