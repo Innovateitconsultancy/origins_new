@@ -106,6 +106,18 @@ export default function Menu() {
                         </li>
                     </ul>
                 </li>
+                 <li>
+                    <Link href="/">Memberships</Link>
+                </li>
+                 <li>
+                    <Link href="/">Community</Link>
+                </li>
+                 <li>
+                    <Link href="/">About Us</Link>
+                </li>
+                 {/* <li>
+                    <Link href="/">Book Now CTA</Link>
+                </li> */}
                 {/* <li className="has-dropdown active menu-thumb">
                     <Link href="#">
                         Vitamin Shots
@@ -177,7 +189,7 @@ export default function Menu() {
                         </li>
                     </ul>
                 </li> */}
-                <li className="has-dropdown active menu-thumb">
+                {/* <li className="has-dropdown active menu-thumb">
                     <Link href="#">
                         Our Services
                         <i className="fas fa-angle-down ps-1" />
@@ -204,7 +216,7 @@ export default function Menu() {
                             </div>
                         </li>
                     </ul>
-                </li>
+                </li> */}
                 {/* <li className="has-dropdown active menu-thumb">
                     <Link href="#">
                         Genetics
@@ -314,9 +326,9 @@ export default function Menu() {
                         </li>
                     </ul>
                 </li> */}
-                <li>
+                {/* <li>
                     <Link href="/">Memberships</Link>
-                </li>
+                </li> */}
             </ul>
         </>
     )

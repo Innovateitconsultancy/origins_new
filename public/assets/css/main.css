@@ -3098,7 +3098,7 @@ span {
 .header-top-wrapper {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: end;
 }
 
 .header-top-wrapper .contact-list {
@@ -4761,7 +4761,8 @@ span {
 .hero-1 {
   position: relative;
   padding-top: 0px;
-  height: calc(100vh - 230px);
+  /* height: calc(100vh - 230px); */
+   height:100vh;
 }
 
 @media (max-width: 1199px) {
@@ -9224,7 +9225,7 @@ html {
   background: url(../../assets/img/banner-frontpage-Drip.jpg) no-repeat;
   background-size: cover;
   position: relative;
-  min-height: 634px;
+  min-height: 100vh;
   display: flex;
   box-sizing: border-box;
 }
@@ -9467,6 +9468,43 @@ a.btnOutlineWhite:hover {
   margin-top: 10px;
 }
 
+.accordion.accordionHowItWork {
+  padding-top: 30px;
+  margin-top: 60px;
+  border-top:1px solid var(--theme2);
+}
+.accordion.accordionHowItWork summary::after {
+  content: "";
+  font-size: 20px;
+}
+
+.accordion.accordionHowItWork details[open] summary::after {
+  content: "";
+}
+.accordion.accordionHowItWork summary {
+    justify-content: start;
+    line-height: 40px;
+}
+.accordion.accordionHowItWork details{
+  border:0;
+}
+.accordion.accordionHowItWork details i {
+    background: var(--theme3);
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color:var(--black);
+    border-radius: 100%;
+    font-style: normal;
+    margin-right: 20px;
+}
+
+.accordion.accordionHowItWork details[open] i {
+    background: var(--theme2);
+       color:var(--bg);
+}
 .imgMax {
   max-width: 100%;
 }

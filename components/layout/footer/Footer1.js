@@ -11,7 +11,7 @@ export default function Footer1() {
                 <div className="footer-widgets-wrapper">
                     <div className="container">
                         <div className="row">
-                            <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                            <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <h3>About Us</h3>
@@ -31,7 +31,7 @@ export default function Footer1() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-2 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                            <div className="col-xl-4 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <h3>Quick Links</h3>
@@ -76,7 +76,7 @@ export default function Footer1() {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                            {/* <div className="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
                                 <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
                                         <h3>Services</h3>
@@ -102,7 +102,7 @@ export default function Footer1() {
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                                 <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
@@ -121,24 +121,24 @@ export default function Footer1() {
                                                 Blog
                                             </Link>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <Link href="/">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 FAQs
                                             </Link>
-                                        </li>
+                                        </li> */}
                                         <li>
                                             <Link href="/">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Memberships
                                             </Link>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <Link href="/contact-us">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Contact Us
                                             </Link>
-                                        </li>
+                                        </li> */}
                                     </ul>
                                 </div>
                             </div>

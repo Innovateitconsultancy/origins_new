@@ -4,10 +4,10 @@ import MarqueSection from "@/components/sections/MarqueSection"
 import TherapySection from "@/components/sections/TherapySection"
 // import AchievementSection from "@/components/sections/AchievementSection"
 import DiscoverSection from "@/components/sections/DiscoverSection"
-import AboutSection from "@/components/sections/AboutSection"
+import HowItWorks from "@/components/sections/HowItWorks"
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
-import AccordionSection from "@/components/sections/AccordionSection"
+import FaqSection from "@/components/sections/FaqSection"
 export default function Home() {
 
     return (
@@ -16,13 +16,13 @@ export default function Home() {
                 <HeroSection />
                 <MarqueSection />
                 <TherapySection />
-                 <AboutSection />
+                 <HowItWorks />
                 {/* <AchievementSection /> */}
                 <DiscoverSection />
                
                 <BlogSection />
                 <SubscribeSection />
-                <AccordionSection />
+                <FaqSection />
             </Layout>
         </>
     )
