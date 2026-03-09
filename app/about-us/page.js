@@ -8,8 +8,8 @@ export const metadata = {
 export default function AboutUs() {
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us">
-                <div>Mukesh</div>
+            {/* <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us"> */}
+             <Layout headerStyle={1} footerStyle={1} >
               
                    <section className="hero-section fix hero-1 bg-cover">
                 {/* <video
@@ -36,71 +36,89 @@ export default function AboutUs() {
                     <div className="heroBannerInfo">
 <div className="heroBannerText">
 <div className="bannerContent">
-<h1>The Global Leader in Mobile IV Therapy</h1>
+<h1>About Us</h1>
 <div className="text">
-    Drip Hydration brings IV therapy and wellness treatments to your home, nationwide.
+    IV BAR Hydration brings IV therapy and wellness treatments to your home, nationwide.
     </div>
         <div className="heroBannerBtns">
                                     <a href="" >BOOK IV THERAPY</a>
                                     <a href="" >VIEW ALL SERVICES</a>
-                                    <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a>
+                                    {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
         </div>
-        <div className="intro__patients">
-                            <div className="intro_patients-card">
-                                                                <svg width="160" height="32" viewBox="0 0 160 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M15.1033 5.81663C15.4701 5.07346 16.5299 5.07346 16.8967 5.81663L19.4756 11.0411C19.6211 11.3359 19.9023 11.5404 20.2276 11.588L25.9962 12.4311C26.8161 12.551 27.1429 13.5588 26.5493 14.137L22.3768 18.201C22.1409 18.4307 22.0333 18.7619 22.0889 19.0864L23.0734 24.8266C23.2135 25.6436 22.356 26.2666 21.6224 25.8807L16.4655 23.1688C16.1741 23.0155 15.8259 23.0155 15.5345 23.1688L10.3776 25.8807C9.644 26.2666 8.78645 25.6436 8.92657 24.8266L9.91109 19.0864C9.96675 18.7619 9.85909 18.4307 9.62321 18.201L5.45068 14.137C4.85708 13.5588 5.18387 12.551 6.00378 12.4311L11.7724 11.588C12.0977 11.5404 12.3789 11.3359 12.5244 11.0411L15.1033 5.81663Z" fill="#1B262A"></path>
-                                    <path d="M47.1033 5.81663C47.4701 5.07346 48.5299 5.07346 48.8967 5.81663L51.4756 11.0411C51.6211 11.3359 51.9023 11.5404 52.2276 11.588L57.9962 12.4311C58.8161 12.551 59.1429 13.5588 58.5493 14.137L54.3768 18.201C54.1409 18.4307 54.0333 18.7619 54.0889 19.0864L55.0734 24.8266C55.2135 25.6436 54.356 26.2666 53.6224 25.8807L48.4655 23.1688C48.1741 23.0155 47.8259 23.0155 47.5345 23.1688L42.3776 25.8807C41.644 26.2666 40.7865 25.6436 40.9266 24.8266L41.9111 19.0864C41.9667 18.7619 41.8591 18.4307 41.6232 18.201L37.4507 14.137C36.8571 13.5588 37.1839 12.551 38.0038 12.4311L43.7724 11.588C44.0977 11.5404 44.3789 11.3359 44.5244 11.0411L47.1033 5.81663Z" fill="#1B262A"></path>
-                                    <path d="M79.1033 5.81663C79.4701 5.07346 80.5299 5.07346 80.8967 5.81663L83.4756 11.0411C83.6211 11.3359 83.9023 11.5404 84.2276 11.588L89.9962 12.4311C90.8161 12.551 91.1429 13.5588 90.5493 14.137L86.3768 18.201C86.1409 18.4307 86.0333 18.7619 86.0889 19.0864L87.0734 24.8266C87.2135 25.6436 86.356 26.2666 85.6224 25.8807L80.4655 23.1688C80.1741 23.0155 79.8259 23.0155 79.5345 23.1688L74.3776 25.8807C73.644 26.2666 72.7865 25.6436 72.9266 24.8266L73.9111 19.0864C73.9667 18.7619 73.8591 18.4307 73.6232 18.201L69.4507 14.137C68.8571 13.5588 69.1839 12.551 70.0038 12.4311L75.7724 11.588C76.0977 11.5404 76.3789 11.3359 76.5244 11.0411L79.1033 5.81663Z" fill="#1B262A"></path>
-                                    <path d="M111.103 5.81663C111.47 5.07346 112.53 5.07346 112.897 5.81663L115.476 11.0411C115.621 11.3359 115.902 11.5404 116.228 11.588L121.996 12.4311C122.816 12.551 123.143 13.5588 122.549 14.137L118.377 18.201C118.141 18.4307 118.033 18.7619 118.089 19.0864L119.073 24.8266C119.214 25.6436 118.356 26.2666 117.622 25.8807L112.465 23.1688C112.174 23.0155 111.826 23.0155 111.535 23.1688L106.378 25.8807C105.644 26.2666 104.786 25.6436 104.927 24.8266L105.911 19.0864C105.967 18.7619 105.859 18.4307 105.623 18.201L101.451 14.137C100.857 13.5588 101.184 12.551 102.004 12.4311L107.772 11.588C108.098 11.5404 108.379 11.3359 108.524 11.0411L111.103 5.81663Z" fill="#1B262A"></path>
-                                    <path d="M143.103 5.81663C143.47 5.07346 144.53 5.07346 144.897 5.81663L147.476 11.0411C147.621 11.3359 147.902 11.5404 148.228 11.588L153.996 12.4311C154.816 12.551 155.143 13.5588 154.549 14.137L150.377 18.201C150.141 18.4307 150.033 18.7619 150.089 19.0864L151.073 24.8266C151.214 25.6436 150.356 26.2666 149.622 25.8807L144.465 23.1688C144.174 23.0155 143.826 23.0155 143.535 23.1688L138.378 25.8807C137.644 26.2666 136.786 25.6436 136.927 24.8266L137.911 19.0864C137.967 18.7619 137.859 18.4307 137.623 18.201L133.451 14.137C132.857 13.5588 133.184 12.551 134.004 12.4311L139.772 11.588C140.098 11.5404 140.379 11.3359 140.524 11.0411L143.103 5.81663Z" fill="#1B262A"></path>
-                                </svg>
-                                                                    <p>150,000+ happy patients served</p>
-                                                                                            </div>
-                        </div>
+     
                     </div>
                     </div>
                     </div>
                 </div>
             </section>
-                <section className="Project-details-section fix section-padding inner">
+                <section className="Project-details-section fix  inner sectionPdTopBottom80">
                     <div className="container">
                         <div className="project-details-wrapper">
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="project-details-items">
-                                        <div className="details-image">
+                                       
+                                        <div className="row g-4 justify-content-between">
+<div className="col-lg-6">
+     <div className="details-image">
                                             <img src="/assets/img/about-img1.jpg" alt="img" />
                                         </div>
-                                        <div className="row g-4 justify-content-between">
-                                            <div className="col-lg-7">
+</div>
+                                            
+                                            <div className="col-lg-6">
                                                 <div className="details-content pt-5">
-                                                    <h3>Dedicated to redefining human wellness</h3>
-                                                    <p>As a global authority in precision nutrition, Origins is a multidisciplinary team of doctors, pharmacists, and scientists committed to developing nutritional therapies grounded in scientific evidence. We are ushering in a new era of healthcare by making precision nutrition accessible and easy to understand for everyone. Our goal is to empower individuals to take control of their health with personalized, science-backed solutions.</p>
+                                                    <h3>Our story</h3>
+                                                    <p>
+                                                        What began in 2016 as a mobile IV therapy service has grown into a leading global provider of on-demand wellness care. Drip Hydration now delivers a comprehensive suite of cutting-edge treatments, including IV infusions, diagnostic testing, peptide therapies, and more – all in the comfort of home. With a presence in 100+ cities worldwide, we’ve helped thousands of clients take control of their health with personalized, accessible medical care wherever they are.
+                                                    </p>
+                                                   
                                                 </div>
                                             </div>
-                                            <div className="col-lg-4">
-                                                <div className="project-catagory">
-                                                    <img src="/assets/img/about-img2.jpg" alt="img" />
-                                                </div>
+                                            <div className="row g-lg-5  ">
+                                                  <div className="col-lg-12">
+                                                     <div>
+                                                        <h3 className="h3Other text-center">What makes us different</h3> 
+                                                    </div>
+                                                    <div className="aboutDifferentInfo">
+                                                       <div className="aboutIconInfo">
+                                                        <div className="aboutIcon">
+                                                            <i class="fa-classic fa-solid fa-earth-americas"></i>
+                                                        </div>
+                                                        <div className="aboutIconName">
+                                                            100+ cities worldwide
+                                                        </div>
+                                                        </div> 
+                                                         <div className="aboutIconInfo">
+                                                            <div className="aboutIcon">
+                                                                <i class="fa-classic fa-solid fa-user-doctor"></i>
+                                                            </div>
+                                                            <div className="aboutIconName">
+                                                                Expert medical team
+                                                            </div>
+                                                        </div> 
+                                                         <div className="aboutIconInfo">
+                                                            <div className="aboutIcon">
+                                                               <i class="fa-regular fa-comment-dots"></i>
+                                                            </div>
+                                                            <div className="aboutIconName">
+                                                               3,000+ 5-star reviews
+                                                            </div>
+                                                        </div> 
+                                                          <div className="aboutIconInfo">
+                                                            <div className="aboutIcon">
+                                                               <i class="fa-solid fa-hand-holding-medical"></i>
+                                                            </div>
+                                                            <div className="aboutIconName">
+                                                              Modern, Comprehensive Care
+                                                            </div>
+                                                        </div> 
+                                                    </div>
+                                                    </div> 
                                             </div>
                                         </div>
+                                       
                                         <div className="row g-lg-5 g-4 pt-5">
-                                            <div className="col-lg-12">
-                                                <div className="details-content">
-                                                    <h3>Pioneering the way in targeted nutrition</h3>
-                                                    <p className="mb-4">Since our founding, we have grown from a single clinic in Miami into a worldwide brand, offering safe and effective IV drip therapies and vitamin booster shots. Our mission is to empower individuals to make proactive health decisions by understanding their bodies and unique nutritional needs, supporting long-term well-being.</p>
-                                                    <h3>Investing in life sciences and genetics to unlock new possibilities</h3>
-                                                    <p className="mb-3">As a leading authority in precision nutrition, Origins’ Life Science team is dedicated to designing and advancing personalized intravenous and intramuscular therapies based on robust scientific evidence.</p>
-                                                    <p>By exploring the fields of genetics, epigenetics, and nutrigenomics, we have built a specialized team committed to ongoing research and the continuous development of our products and services. Through rigorous clinical studies, we assess both the effectiveness and safety of our nutritional therapies, ensuring that science remains at the heart of everything we deliver.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="row g-lg-5 g-4 pt-5">
-                                            <div className="col-lg-5">
-                                                <div className="thumb">
-                                                    <img src="/assets/img/about-img3.jpg" alt="img" />
-                                                </div>
-                                            </div>
+                                            
                                             <div className="col-lg-7">
                                                 <div className="details-content">
                                                     <h3>Our multidisciplinary team, a wealth of knowledge</h3>
@@ -131,6 +149,11 @@ export default function AboutUs() {
                                                     <h3>Our journey</h3>
                                                     <p className="mb-3">Origins is at the forefront of precision nutrition, driving a scientific movement to deliver personalized solutions worldwide. We believe that optimal nutrition is the foundation of good health, and our mission is to enhance your well-being through tailored recommendations, nourishing therapies, and genetic insights. By taking a proactive approach to your health, you can support your long-term wellness-start your Origins journey today.</p>
                                                     <p>Our broader mission is to empower individual health and wellness journeys across the global population.</p>
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-5">
+                                                <div className="thumb">
+                                                    <img src="/assets/img/about-img3.jpg" alt="img" />
                                                 </div>
                                             </div>
                                         </div>

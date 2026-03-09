@@ -3,6 +3,7 @@ Version: 1.0.0
 */
 /*CSS Table Of Content Ends Here*/
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 :root {
   --body: #fff;
@@ -4762,7 +4763,7 @@ span {
   position: relative;
   padding-top: 0px;
   /* height: calc(100vh - 230px); */
-   height:100vh;
+  height: 100vh;
 }
 
 @media (max-width: 1199px) {
@@ -9471,8 +9472,9 @@ a.btnOutlineWhite:hover {
 .accordion.accordionHowItWork {
   padding-top: 30px;
   margin-top: 60px;
-  border-top:1px solid var(--theme2);
+  border-top: 1px solid var(--theme2);
 }
+
 .accordion.accordionHowItWork summary::after {
   content: "";
   font-size: 20px;
@@ -9481,30 +9483,34 @@ a.btnOutlineWhite:hover {
 .accordion.accordionHowItWork details[open] summary::after {
   content: "";
 }
+
 .accordion.accordionHowItWork summary {
-    justify-content: start;
-    line-height: 40px;
+  justify-content: start;
+  line-height: 40px;
 }
-.accordion.accordionHowItWork details{
-  border:0;
+
+.accordion.accordionHowItWork details {
+  border: 0;
 }
+
 .accordion.accordionHowItWork details i {
-    background: var(--theme3);
-    width: 40px;
-    height: 40px;
-    text-align: center;
-    line-height: 40px;
-    font-size: 20px;
-    color:var(--black);
-    border-radius: 100%;
-    font-style: normal;
-    margin-right: 20px;
+  background: var(--theme3);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  color: var(--black);
+  border-radius: 100%;
+  font-style: normal;
+  margin-right: 20px;
 }
 
 .accordion.accordionHowItWork details[open] i {
-    background: var(--theme2);
-       color:var(--bg);
+  background: var(--theme2);
+  color: var(--bg);
 }
+
 .imgMax {
   max-width: 100%;
 }
@@ -9523,4 +9529,25 @@ a.btnOutlineWhite:hover {
 
 .sectionPdTopBottom80 {
   padding: 80px 0;
+}
+
+.aboutDifferentInfo {
+  display: flex;
+  /* flex-wrap: wrap; */
+  gap: 20px;
+  justify-content: space-around;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.aboutIcon {
+  font-size: 80px;
+  color: var(--theme2);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.h3Other{
+  font-size: 30px;
 }

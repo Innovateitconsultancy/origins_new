@@ -82,6 +82,12 @@ export default function Contact() {
                                                     </div>
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
                                                         <div className="form-clt">
+                                                            <span>Phone No.*</span>
+                                                            <input type="number" name="phoneno" id="phone_no" placeholder="Your Phone Number" />
+                                                        </div>
+                                                    </div>
+                                                     <div className="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
+                                                        <div className="form-clt">
                                                             <span>Your Email*</span>
                                                             <input type="text" name="email" id="email" placeholder="Your Email" />
                                                         </div>

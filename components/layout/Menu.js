@@ -113,7 +113,7 @@ export default function Menu() {
                     <Link href="/">Community</Link>
                 </li>
                  <li>
-                    <Link href="/">About Us</Link>
+                    <Link href="/about-us">About Us</Link>
                 </li>
                  {/* <li>
                     <Link href="/">Book Now CTA</Link>
