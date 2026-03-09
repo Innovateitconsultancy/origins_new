@@ -28,17 +28,17 @@ export default function HeroSection() {
                     <div className="heroBannerInfo">
 <div className="heroBannerText">
 <div className="bannerContent">
-<h1>The Global Leader in Mobile IV Therapy</h1>
+<h1>Rehydrate. Rejuvenate. Restore Your Energy.</h1>
 <div className="text">
-    Drip Hydration brings IV therapy and wellness treatments to your home, nationwide.
+   Premium IV Therapy designed to boost hydration, immunity, and overall wellness. Experience fast and effective nutrient delivery at IV Bar Wellness Clinic.
     </div>
         <div className="heroBannerBtns">
                                     <a href="" >BOOK IV THERAPY</a>
-                                    <a href="" >VIEW ALL SERVICES</a>
-                                    <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a>
+                                    {/* <a href="" >VIEW ALL SERVICES</a> */}
+                                    {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
         </div>
         <div className="intro__patients">
-                            <div className="intro_patients-card">
+                            {/* <div className="intro_patients-card">
                                                                 <svg width="160" height="32" viewBox="0 0 160 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M15.1033 5.81663C15.4701 5.07346 16.5299 5.07346 16.8967 5.81663L19.4756 11.0411C19.6211 11.3359 19.9023 11.5404 20.2276 11.588L25.9962 12.4311C26.8161 12.551 27.1429 13.5588 26.5493 14.137L22.3768 18.201C22.1409 18.4307 22.0333 18.7619 22.0889 19.0864L23.0734 24.8266C23.2135 25.6436 22.356 26.2666 21.6224 25.8807L16.4655 23.1688C16.1741 23.0155 15.8259 23.0155 15.5345 23.1688L10.3776 25.8807C9.644 26.2666 8.78645 25.6436 8.92657 24.8266L9.91109 19.0864C9.96675 18.7619 9.85909 18.4307 9.62321 18.201L5.45068 14.137C4.85708 13.5588 5.18387 12.551 6.00378 12.4311L11.7724 11.588C12.0977 11.5404 12.3789 11.3359 12.5244 11.0411L15.1033 5.81663Z" fill="#1B262A"></path>
                                     <path d="M47.1033 5.81663C47.4701 5.07346 48.5299 5.07346 48.8967 5.81663L51.4756 11.0411C51.6211 11.3359 51.9023 11.5404 52.2276 11.588L57.9962 12.4311C58.8161 12.551 59.1429 13.5588 58.5493 14.137L54.3768 18.201C54.1409 18.4307 54.0333 18.7619 54.0889 19.0864L55.0734 24.8266C55.2135 25.6436 54.356 26.2666 53.6224 25.8807L48.4655 23.1688C48.1741 23.0155 47.8259 23.0155 47.5345 23.1688L42.3776 25.8807C41.644 26.2666 40.7865 25.6436 40.9266 24.8266L41.9111 19.0864C41.9667 18.7619 41.8591 18.4307 41.6232 18.201L37.4507 14.137C36.8571 13.5588 37.1839 12.551 38.0038 12.4311L43.7724 11.588C44.0977 11.5404 44.3789 11.3359 44.5244 11.0411L47.1033 5.81663Z" fill="#1B262A"></path>
@@ -47,7 +47,7 @@ export default function HeroSection() {
                                     <path d="M143.103 5.81663C143.47 5.07346 144.53 5.07346 144.897 5.81663L147.476 11.0411C147.621 11.3359 147.902 11.5404 148.228 11.588L153.996 12.4311C154.816 12.551 155.143 13.5588 154.549 14.137L150.377 18.201C150.141 18.4307 150.033 18.7619 150.089 19.0864L151.073 24.8266C151.214 25.6436 150.356 26.2666 149.622 25.8807L144.465 23.1688C144.174 23.0155 143.826 23.0155 143.535 23.1688L138.378 25.8807C137.644 26.2666 136.786 25.6436 136.927 24.8266L137.911 19.0864C137.967 18.7619 137.859 18.4307 137.623 18.201L133.451 14.137C132.857 13.5588 133.184 12.551 134.004 12.4311L139.772 11.588C140.098 11.5404 140.379 11.3359 140.524 11.0411L143.103 5.81663Z" fill="#1B262A"></path>
                                 </svg>
                                                                     <p>150,000+ happy patients served</p>
-                                                                                            </div>
+                                                                                            </div> */}
                         </div>
                     </div>
                     </div>

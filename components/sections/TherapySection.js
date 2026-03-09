@@ -48,6 +48,10 @@ export default function TherapySection() {
                                 IV Drip Therapy
                             </h2>
                         </div>
+
+                        {/* <div className='tabsHome'>
+tabs
+                        </div> */}
                         <div className="array-button">
                             <button className="array-prev"><i className="fal fa-arrow-right" /></button>
                             <button className="array-next"><i className="fal fa-arrow-left" /></button>

@@ -27,20 +27,20 @@ export default function HowItWorks() {
                                       Experience seamless wellness with our at-home IV therapy, designed for your convenience and comfort.
                                     </p>
                                   
-                                    <div className="about-author">
+                                    {/* <div className="about-author">
                                         <div className="about-button wow fadeInUp" data-wow-delay=".9s">
                                             <Link href="/about" className="btnGreen">
                                                 Know More 
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
                                         </div>
-                                    </div>
+                                    </div> */}
                                     <div class="accordion accordionHowItWork">
 
   <details name="accordion">
     <summary> <i>1</i> Book Your Appointment</summary>
     <p>
-Schedule your session online or contact our clinic to book a convenient time for your IV therapy treatment.
+Schedule your session online or contact our clinic to book a convenient time for your IV therapy treatment.<br/>
 ✔ Quick consultation <br/>
 ✔ Flexible appointment slots
 
@@ -49,7 +49,7 @@ Schedule your session online or contact our clinic to book a convenient time for
   <details name="accordion">
     <summary><i>2</i>Personal Health Assessment</summary>
     <p>
-       Our trained medical professionals will discuss your health goals and recommend the most suitable IV therapy for your needs.
+       Our trained medical professionals will discuss your health goals and recommend the most suitable IV therapy for your needs.<br/>
 ✔ Wellness evaluation <br/>
 ✔ Personalized treatment plan <br/>
 ✔ Safe medical guidance
@@ -59,7 +59,7 @@ Schedule your session online or contact our clinic to book a convenient time for
   <details name="accordion">
     <summary><i>3</i>Relax During Your IV Therapy</summary>
     <p>
-      Once your IV drip is prepared, a small catheter is placed in your arm to deliver vitamins and hydration directly into your bloodstream.
+      Once your IV drip is prepared, a small catheter is placed in your arm to deliver vitamins and hydration directly into your bloodstream.<br/>
 ✔ Comfortable treatment <br/>
 ✔ Takes about 30–45 minutes <br/>
 ✔ Relax in a calm environment
@@ -69,7 +69,7 @@ Schedule your session online or contact our clinic to book a convenient time for
   <details name="accordion">
     <summary><i>4</i>Feel Revitalized</summary>
     <p>
-      After your session, you may begin to feel refreshed, hydrated, and energized as your body absorbs the essential nutrients.
+      After your session, you may begin to feel refreshed, hydrated, and energized as your body absorbs the essential nutrients.<br/>
 ✔ Boost energy levels <br/>
 ✔ Improve hydration <br/>
 ✔ Support immunity and recovery

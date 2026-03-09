@@ -34,8 +34,8 @@ export default function HeroAboutUsSection() {
     </div>
         <div className="heroBannerBtns">
                                     <a href="" >BOOK IV THERAPY</a>
-                                    <a href="" >VIEW ALL SERVICES</a>
-                                    <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a>
+                                    {/* <a href="" >VIEW ALL SERVICES</a> */}
+                                    {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
         </div>
         <div className="intro__patients">
                             <div className="intro_patients-card">

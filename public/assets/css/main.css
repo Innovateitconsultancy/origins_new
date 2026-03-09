@@ -175,7 +175,8 @@ Version: 1.0.0
     Template Default Fonts & Fonts Styles
  ---------------------------------------------- */
 body {
-  font-family: var(--body-font);
+  /* font-family: var(--body-font); */
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 28px;
@@ -9551,3 +9552,7 @@ a.btnOutlineWhite:hover {
 .h3Other{
   font-size: 30px;
 }
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent {
+    width: 50%;
+}
+
