@@ -1,4 +1,5 @@
 'use client'
+import { useState } from "react"
 import Link from 'next/link'
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
@@ -38,26 +39,93 @@ const swiperOptions = {
 }
 
 export default function TherapySection() {
+    const [activeTab, setActiveTab] = useState("immunity")
     return (
         <>
             <section className="service-section fix section-padding bg-cover productList">
                 <div className="container">
-                    <div className="section-title-area">
+                    <div className="section-title-area therapyTaps">
                         <div className="section-title">
                             <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 IV Drip Therapy
                             </h2>
                         </div>
 
-                        {/* <div className='tabsHome'>
-tabs
-                        </div> */}
-                        <div className="array-button">
-                            <button className="array-prev"><i className="fal fa-arrow-right" /></button>
-                            <button className="array-next"><i className="fal fa-arrow-left" /></button>
-                        </div>
-                    </div>
-                    <div className="service-wrapper">
+                        <div className='tabsHomeMain'>
+ {/* Tabs */}
+        <div className="tabsHome">
+
+          <button
+            className={activeTab === "immunity" ? "active" : ""}
+            onClick={() => setActiveTab("immunity")}
+          >
+           IMMUNITY & RECOVERY
+          </button>
+
+          <button
+            className={activeTab === "detoxify" ? "active" : ""}
+            onClick={() => setActiveTab("detoxify")}
+          >
+           DETOXIFY & CLEANSE
+          </button>
+
+          <button
+            className={activeTab === "weight" ? "active" : ""}
+            onClick={() => setActiveTab("weight")}
+          >
+            WEIGHT & PERFORMANCE
+          </button>
+           <button
+            className={activeTab === "enrgy" ? "active" : ""}
+            onClick={() => setActiveTab("enrgy")}
+          >
+            ENERGY & BRAIN
+          </button>
+             <button
+            className={activeTab === "glutathione" ? "active" : ""}
+            onClick={() => setActiveTab("glutathione")}
+          >
+            GLUTATHIONE
+          </button>
+            <button
+            className={activeTab === "hair" ? "active" : ""}
+            onClick={() => setActiveTab("hair")}
+          >
+            HAIR, NAILS & SKIN
+          </button>
+          <button
+            className={activeTab === "fertlity" ? "active" : ""}
+            onClick={() => setActiveTab("fertlity")}
+          >
+            FERTILITY
+          </button>
+          <button
+            className={activeTab === "nad" ? "active" : ""}
+            onClick={() => setActiveTab("nad")}
+          >
+            NAD+
+          </button>
+            <button
+            className={activeTab === "customerisediv" ? "active" : ""}
+            onClick={() => setActiveTab("customerisediv")}
+          >
+           CUSTOMERISED IV'S
+          </button>
+            <button
+            className={activeTab === "boostershorts" ? "active" : ""}
+            onClick={() => setActiveTab("boostershorts")}
+          >
+           BOOSTER SHOTS
+          </button>
+          
+        </div>
+
+        {/* Tab Content */}
+        <div className="mt-4 therapytapShow">
+
+          {activeTab === "immunity" && (
+            <div>
+              <div className="service-wrapper">
                         <div className="swiper service-slider">
                             <Swiper {...swiperOptions} className="swiper-wrapper">
                                 <SwiperSlide>
@@ -66,9 +134,17 @@ tabs
                                             <img src="/assets/img/therapy/miniboost.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Miniboost</h4>
-                                            <h5>Small & Mighty</h5>
-                                            <p>Maintain your nutritional balance with Miniboost, a compact yet powerful...</p>
+                                            <h4>Hydrate| Ultimate Hydration</h4>
+                                            {/* <h5>Small & Mighty</h5> */}
+                                            <p>This deep tissue replenishment therapy is designed to restore
+optimal fluid balance and vitality. By delivering essential
+fluids and electrolytes directly into your system, it rapidly
+alleviates symptoms of dehydration, fatigue, and burnout,
+leaving your skin radiant and your body revitalized. Perfect
+for post-travel recovery or after intense physical exertion.</p>
+<p className="productIngr"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
+Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
+</p>
                                             <Link href="/iv-drip-therapy/miniboost" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
@@ -207,6 +283,64 @@ tabs
                             </Swiper>
                         </div>
                     </div>
+            </div>
+          )}
+
+          {activeTab === "detoxify" && (
+            <div>
+              <p>Energy Boost Therapies</p>
+            </div>
+          )}
+
+          {activeTab === "weight" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+
+          {activeTab === "enrgy" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+          {activeTab === "glutathione" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+          {activeTab === "hair" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+            {activeTab === "fertlity" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+             {activeTab === "nad" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+           {activeTab === "customerisediv" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+              {activeTab === "boostershorts" && (
+            <div>
+              <p>Beauty & Glow Therapies</p>
+            </div>
+          )}
+        </div>
+                        </div>
+                        <div className="array-button">
+                            <button className="array-prev"><i className="fal fa-arrow-right" /></button>
+                            <button className="array-next"><i className="fal fa-arrow-left" /></button>
+                        </div>
+                    </div>
+                   
                 </div>
             </section>
         </>

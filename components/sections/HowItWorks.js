@@ -38,7 +38,7 @@ export default function HowItWorks() {
                                     <div class="accordion accordionHowItWork">
 
   <details name="accordion">
-    <summary> <i>1</i> Book Your Appointment</summary>
+    <summary> <i class="fa-regular fa-calendar-days"></i> Book Your Appointment</summary>
     <p>
 Schedule your session online or contact our clinic to book a convenient time for your IV therapy treatment.<br/>
 ✔ Quick consultation <br/>
@@ -47,7 +47,7 @@ Schedule your session online or contact our clinic to book a convenient time for
     </p>
   </details>
   <details name="accordion">
-    <summary><i>2</i>Personal Health Assessment</summary>
+    <summary><i class="fa-solid fa-user-doctor"></i> Personal Health Assessment</summary>
     <p>
        Our trained medical professionals will discuss your health goals and recommend the most suitable IV therapy for your needs.<br/>
 ✔ Wellness evaluation <br/>
@@ -57,7 +57,7 @@ Schedule your session online or contact our clinic to book a convenient time for
     </p>
   </details>
   <details name="accordion">
-    <summary><i>3</i>Relax During Your IV Therapy</summary>
+    <summary><i class="fa-solid fa-hospital-user"></i> Relax During Your IV Therapy</summary>
     <p>
       Once your IV drip is prepared, a small catheter is placed in your arm to deliver vitamins and hydration directly into your bloodstream.<br/>
 ✔ Comfortable treatment <br/>
@@ -67,7 +67,7 @@ Schedule your session online or contact our clinic to book a convenient time for
     </p>
   </details>
   <details name="accordion">
-    <summary><i>4</i>Feel Revitalized</summary>
+    <summary><i class="fa-solid fa-bolt-lightning"></i> Feel Revitalized</summary>
     <p>
       After your session, you may begin to feel refreshed, hydrated, and energized as your body absorbs the essential nutrients.<br/>
 ✔ Boost energy levels <br/>
@@ -77,6 +77,23 @@ Schedule your session online or contact our clinic to book a convenient time for
     </p>
   </details>
                                 </div>
+
+                                <div className='howitBtnBook'>
+                                    <h3>Start your wellness journey today.</h3>
+                                    <p>
+                                        
+                                        Book your IV therapy session and experience the benefits of fast nutrient absorption.
+                                    </p>
+                                     <div className="about-author">
+                                        <div className="about-button wow fadeInUp" data-wow-delay=".9s">
+                                            <Link href="/about" className="btnGreen">
+                                               Book Your IV Therapy 
+                                                {/* <i className="fa-solid fa-arrow-right-long" /> */}
+                                            </Link>
+                                        </div>
+                                    </div>
+                                    </div>
+                            
                             </div>
                         </div>
                     </div>

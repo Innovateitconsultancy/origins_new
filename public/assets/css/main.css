@@ -9471,9 +9471,10 @@ a.btnOutlineWhite:hover {
 }
 
 .accordion.accordionHowItWork {
-  padding-top: 30px;
-  margin-top: 60px;
-  border-top: 1px solid var(--theme2);
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 1px solid var(--theme2);
 }
 
 .accordion.accordionHowItWork summary::after {
@@ -9549,13 +9550,86 @@ a.btnOutlineWhite:hover {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-.h3Other{
+
+.h3Other {
   font-size: 30px;
 }
+
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent {
-    width: 50%;
+  width: 50%;
 }
 
 h1 {
-    font-size: 40px;
+  font-size: 40px;
+}
+.tabsHome{
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;     /* enables horizontal scroll */
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding-bottom: 10px;
+  scrollbar-width: thin;   /* Firefox */
+}
+
+.tabsHome button {
+  flex: 0 0 auto;
+  padding: 10px 18px;
+  border: none;
+  background: #eee;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 8px 20px;
+  border: none;
+  background: #eee;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.tabsHome button.active {
+  background:var(--black);
+  color: white;
+}
+
+.tabsHome button {
+    background-color: var(--theme);
+    color: var(--white);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-transform: capitalize;
+    -webkit-transition: all 0.3s ease-in-out; 
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    z-index: 1;
+    line-height: 20px;
+    overflow: hidden;
+    display: inline-block;
+}
+.tabsHome button:hover  {
+  background: var(--black);
+  color: var(--white);
+}
+.tabsHome::-webkit-scrollbar{
+  height: 6px;
+}
+/* Track (background) */
+.tabsHome::-webkit-scrollbar-track{
+  background:var(--theme3);
+  border-radius: 10px;
+}
+
+
+/* Hover color */
+.tabsHome::-webkit-scrollbar-thumb:hover{
+  background: var(--theme);
+}
+.section-title-area.therapyTaps {
+    display: block;
+}
+.productIngr {
+    font-size: 12px;
+    line-height: normal!important;
+    margin-top: 10px;
 }
