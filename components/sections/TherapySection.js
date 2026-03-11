@@ -126,7 +126,7 @@ export default function TherapySection() {
 
         {/* Tab Content */}
         <div className="mt-4 therapytapShow">
-
+{/* immunity */}
           {activeTab === "immunity" && (
             <div>
               <div className="service-wrapper">
@@ -135,7 +135,7 @@ export default function TherapySection() {
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/miniboost.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Hydrate| Ultimate Hydration</h4>
@@ -159,7 +159,7 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/vitamin_c_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Vitamin C (varied doses)</h4>
@@ -185,7 +185,7 @@ specific wellness needs for maximum benefit.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Immunity | Cold & Flu Booster
@@ -203,7 +203,7 @@ seasons or times of stress.</p>
 D, Selenium.
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv-drip-therapy/immunity_booster" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -226,7 +226,7 @@ D, Selenium.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/miniboost.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/toxic_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Heavy Metal Chelation | Toxic Cleanse
@@ -250,7 +250,7 @@ build-up, promoting enhanced clarity and vitality.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/detoxic_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Detox | Liver & Gut Cleanse
@@ -279,7 +279,7 @@ Cysteine, Probiotic Blend, Psyllium Husk.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/hangover_recovery.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Post Party Hangover Recovery
@@ -320,7 +320,7 @@ Ondansetron, Ketorolac.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/miniboost.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fat Burner | Fat Burning & Detoxification
@@ -350,7 +350,7 @@ feeling.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/fitness_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>The Athlete | Fitness & Performance
@@ -387,10 +387,10 @@ Taurine, Glutamine, Arginine.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/healing_recovery_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Recovery |Healing &
+                                            <h4>Recovery | Healing &
 Recovery
 
 </h4>
@@ -458,7 +458,7 @@ combating anemia and enhancing overall vitality.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/hydration_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>The Wellness
@@ -820,7 +820,7 @@ power of targeted hydration and nutrient delivery.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Sunshine</h4>
@@ -836,7 +836,7 @@ power of targeted hydration and nutrient delivery.</p>
                                  <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Biotin</h4>
@@ -868,7 +868,7 @@ power of targeted hydration and nutrient delivery.</p>
                                  <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>B12 Energy Booster
