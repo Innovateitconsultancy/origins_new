@@ -28,28 +28,27 @@ export default function Menu() {
                                 <div className="homemenu">
                                     <div className="demo-button">
                                         <Link href="/iv-drip-therapy/miniboost" className="theme-btn">
-                                            Miniboost
-                                            <span>Wellness & Detox</span>
+                                            IMMUNITY & RECOVERY                                          
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/hydromax" className="theme-btn">
-                                            Hydromax
-                                            <span>Hydration & Recovery</span>
+                                            DETOXIFY & CLEANSE  
+                                            {/* <span>Hydration & Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/ultraviv" className="theme-btn">
-                                            Ultraviv
-                                            <span>Recovery</span>
+                                            WEIGHT & PERFORMANCE
+                                            {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/megaboost" className="theme-btn">
-                                            Megaboost
-                                            <span>Wellness</span>
+                                            ENERGY & BRAIN
+                                            {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/vitaglow" className="theme-btn">
-                                            Vitaglow
-                                            <span>Beauty & Pro-Aging</span>
+                                            GLUTATHIONE
+                                            {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                     </div>
@@ -57,51 +56,34 @@ export default function Menu() {
                                 <div className="homemenu">
                                     <div className="demo-button">
                                         <Link href="/iv-drip-therapy/royal-flush" className="theme-btn">
-                                            Royal Flush
-                                            <span>Recovery</span>
+                                           HAIR, NAILS & SKIN
+                                            {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/formerly-heliix" className="theme-btn">
-                                            Formerly HELIIX
-                                            <span>Detox</span>
+                                           FERTILITY
+                                            {/* <span>Detox</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/nad" className="theme-btn">
                                             NAD+
-                                            <span>Wellness</span>
+                                            {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         <Link href="/iv-drip-therapy/personalised-iv" className="theme-btn">
-                                            Personalised IV
-                                            <span>Tailored to your Goals</span>
+                                            CUSTOMERISED IV'S
+
+                                            {/* <span>Tailored to your Goals</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
+                                         <Link href="/iv-drip-therapy/ultraviv-pro" className="theme-btn">
+                                           BOOSTER SHOTS
+                                            {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                     </div>
                                 </div>
-                                <div className="homemenu">
-                                    <div className="demo-button">
-                                        <Link href="/iv-drip-therapy/ultraviv-pro" className="theme-btn">
-                                            Ultraviv PRO
-                                            <span>Recovery</span>
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
-                                        <Link href="/iv-drip-therapy/the-signature-10x-iv" className="theme-btn">
-                                            The Signature 10X IV
-                                            <span>Specialty / Wellness</span>
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
-                                        <Link href="/iv-drip-therapy/harrods-signature-iv-therapy" className="theme-btn">
-                                            Harrods Signature IV Therapy
-                                            <span>Advanced Formulation for Wellness</span>
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
-                                        <Link href="/iv-drip-therapy/methylene-blue" className="theme-btn">
-                                            Methylene Blue
-                                            <span>Cellular Energy & Brain Support</span>
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </li>
                     </ul>

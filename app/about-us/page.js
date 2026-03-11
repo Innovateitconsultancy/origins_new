@@ -11,7 +11,7 @@ export default function AboutUs() {
             {/* <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us"> */}
              <Layout headerStyle={1} footerStyle={1} >
               
-                   <section className="hero-section fix hero-1 bg-cover">
+                   <section className="hero-section fix hero-11111 bg-cover otherBanner">
                 {/* <video
                     autoPlay
                     loop
@@ -58,105 +58,101 @@ export default function AboutUs() {
                                 <div className="col-lg-12">
                                     <div className="project-details-items">
                                        
-                                        <div className="row g-4 justify-content-between">
-<div className="col-lg-6">
-     <div className="details-image">
-                                            <img src="/assets/img/about-img1.jpg" alt="img" />
-                                        </div>
-</div>
+                                        <div className="row g-4 justify-content-between topBottm30">
+                                                <div className="col-lg-6">
+                                                    <div className="details-image">
+                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                        </div>
+                                                </div>
                                             
                                             <div className="col-lg-6">
                                                 <div className="details-content pt-5">
-                                                    <h3>Our story</h3>
-                                                    <p>
-                                                        What began in 2016 as a mobile IV therapy service has grown into a leading global provider of on-demand wellness care. Drip Hydration now delivers a comprehensive suite of cutting-edge treatments, including IV infusions, diagnostic testing, peptide therapies, and more – all in the comfort of home. With a presence in 100+ cities worldwide, we’ve helped thousands of clients take control of their health with personalized, accessible medical care wherever they are.
+                                                    <h3>Your Partner in Modern Wellness</h3>
+                                                    <p>At <b>IV Bar Wellness Clinic</b>, we are dedicated to helping individuals achieve better health, improved energy, and enhanced wellness through advanced IV therapy treatments. Our clinic focuses on delivering essential vitamins, minerals, and hydration directly into the bloodstream, allowing your body to absorb nutrients quickly and effectively.
+We believe that wellness should be accessible, personalized, and results-driven. That’s why our IV therapy treatments are carefully designed to support a variety of health goals, including hydration, immune support, energy recovery, and overall vitality.
                                                     </p>
                                                    
                                                 </div>
                                             </div>
-                                            <div className="row g-lg-5  ">
-                                                  <div className="col-lg-12">
-                                                     <div>
-                                                        <h3 className="h3Other text-center">What makes us different</h3> 
-                                                    </div>
-                                                    <div className="aboutDifferentInfo">
-                                                       <div className="aboutIconInfo">
-                                                        <div className="aboutIcon">
-                                                            <i class="fa-classic fa-solid fa-earth-americas"></i>
-                                                        </div>
-                                                        <div className="aboutIconName">
-                                                            100+ cities worldwide
-                                                        </div>
-                                                        </div> 
-                                                         <div className="aboutIconInfo">
-                                                            <div className="aboutIcon">
-                                                                <i class="fa-classic fa-solid fa-user-doctor"></i>
-                                                            </div>
-                                                            <div className="aboutIconName">
-                                                                Expert medical team
-                                                            </div>
-                                                        </div> 
-                                                         <div className="aboutIconInfo">
-                                                            <div className="aboutIcon">
-                                                               <i class="fa-regular fa-comment-dots"></i>
-                                                            </div>
-                                                            <div className="aboutIconName">
-                                                               3,000+ 5-star reviews
-                                                            </div>
-                                                        </div> 
-                                                          <div className="aboutIconInfo">
-                                                            <div className="aboutIcon">
-                                                               <i class="fa-solid fa-hand-holding-medical"></i>
-                                                            </div>
-                                                            <div className="aboutIconName">
-                                                              Modern, Comprehensive Care
-                                                            </div>
-                                                        </div> 
-                                                    </div>
-                                                    </div> 
                                             </div>
-                                        </div>
-                                       
-                                        <div className="row g-lg-5 g-4 pt-5">
+                                            <div className="row g-4 justify-content-between topBottm30">                                    
                                             
-                                            <div className="col-lg-7">
-                                                <div className="details-content">
-                                                    <h3>Our multidisciplinary team, a wealth of knowledge</h3>
-                                                    <p className="mb-3">At Origins, we are a collaborative team pushing the boundaries of human science. Experts from multiple disciplines come together to design and deliver innovative therapies focused on optimizing personalized nutritional solutions.</p>
-                                                    <p className="mb-3"><b>Our team consists of experts in</b></p>
-                                                    <ul className="list mb-4">
-                                                        <li>
-                                                            <i className="fa-regular fa-circle-check" />
-                                                            Clinical Medicine & Nursing
-                                                        </li>
-                                                        <li>
-                                                            <i className="fa-regular fa-circle-check" />
-                                                            Pharmacology
-                                                        </li>
-                                                        <li>
-                                                            <i className="fa-regular fa-circle-check" />
-                                                            Biomedical Science
-                                                        </li>
-                                                        <li>
-                                                            <i className="fa-regular fa-circle-check" />
-                                                            Food & Nutritional Science
-                                                        </li>
-                                                        <li>
-                                                            <i className="fa-regular fa-circle-check" />
-                                                            Genetics
-                                                        </li>
-                                                    </ul>
-                                                    <h3>Our journey</h3>
-                                                    <p className="mb-3">Origins is at the forefront of precision nutrition, driving a scientific movement to deliver personalized solutions worldwide. We believe that optimal nutrition is the foundation of good health, and our mission is to enhance your well-being through tailored recommendations, nourishing therapies, and genetic insights. By taking a proactive approach to your health, you can support your long-term wellness-start your Origins journey today.</p>
-                                                    <p>Our broader mission is to empower individual health and wellness journeys across the global population.</p>
+                                            <div className="col-lg-6">
+                                                <div className="details-content pt-5">
+                                                    <h3>Our Approach to Wellness</h3>
+                                                    <p>
+                                                        At  IV Bar Wellness Clinic, we <b>combine modern medical practices with a personalized wellness approach</b>.
+                                                         Every client receives individual attention to ensure the most suitable IV therapy solution for their needs.
+                                                         </p>
+                                                         <p>
+                                                Our process begins with a brief consultation to understand your health goals, after which our trained professionals recommend the most appropriate IV therapy treatment.
+                                                </p>
+                                                <p>
+                                                Our focus is on providing a <b>safe, comfortable, and relaxing environment </b> where you can recharge your body and feel revitalized.
+
+                                                    </p>
+                                                   
                                                 </div>
                                             </div>
-                                            <div className="col-lg-5">
-                                                <div className="thumb">
-                                                    <img src="/assets/img/about-img3.jpg" alt="img" />
+                                             <div className="col-lg-6">
+                                                    <div className="details-image">
+                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                        </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                            <div className="row g-4 justify-content-between topBottm30">
+                                                <div className="col-lg-6">
+                                                    <div className="details-image">
+                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                        </div>
+                                                </div>
+                                            
+                                            <div className="col-lg-6">
+                                                <div className="details-content pt-5">
+                                                    <h3>Our Mission</h3>
+                                                    <p>Our mission is to help individuals improve their health and well-being by providing safe, effective, and high-quality IV therapy treatments that support modern lifestyles. </p>
+                                                   
+                                                </div>
+                                            </div>
+                                            </div>
+                                             <div className="row g-4 justify-content-between topBottm30">                                    
+                                            
+                                            <div className="col-lg-6">
+                                                <div className="details-content pt-5">
+                                                    <h3>Our Vision</h3>
+                                                    <p>
+                                                       To become a trusted wellness destination where people can enhance their health, restore balance, and experience the benefits of advanced nutrient therapy. </p>
+                                                        
+                                                </div>
+                                            </div>
+                                             <div className="col-lg-6">
+                                                    <div className="details-image">
+                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                        </div>
+                                                </div>
+                                            </div>
+                                               <div className="row g-4 justify-content-between">
+                                                <div className="col-lg-6">
+                                                    <div className="details-image">
+                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                        </div>
+                                                </div>
+                                            
+                                            <div className="col-lg-6">
+                                                <div className="details-content pt-5">
+                                                    <h3>Why Choose IV Bar Wellness Clinic</h3>
+                                                    <div>
+                                                        <ul className="list mb-4">
+                                                            <li><i className="fa-regular fa-circle-check"></i> Professional and trained healthcare staff</li>
+                                                            <li><i className="fa-regular fa-circle-check"></i> Safe and medically supervised treatments</li>
+                                                            <li><i className="fa-regular fa-circle-check"></i> High-quality vitamins and nutrients</li>
+                                                            <li><i className="fa-regular fa-circle-check"></i> Comfortable and relaxing clinic environment</li>
+                                                            <li><i className="fa-regular fa-circle-check"></i> Personalized wellness solutions</li></ul>
+                                                       
+                                                        </div>                                                   
+                                                </div>
+                                            </div>
+                                            </div>
                                     </div>
                                 </div>
                             </div>

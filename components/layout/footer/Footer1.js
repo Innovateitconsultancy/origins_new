@@ -13,8 +13,10 @@ export default function Footer1() {
                         <div className="row">
                             <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
-                                    <div className="widget-head">
-                                        <h3>About Us</h3>
+                                    <div className="widget-head footerLogo">
+                                        <Link href="/">
+                                    <img src="/assets/img/logo/logo.png" alt="logo-img" />
+                                </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
@@ -31,88 +33,107 @@ export default function Footer1() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-4 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                            <div className="col-xl-3 col-lg-3 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <h3>Quick Links</h3>
                                     </div>
                                     <ul className="list-area">
+                                         <li>
+                                            <Link href="iv-drip-therapy">
+                                                <i className="fa-solid fa-chevron-right" />
+                                               IMMUNITY & RECOVERY  
+                                            </Link>
+                                        </li>
+                                         <li>
+                                            <Link href="iv-drip-therapy">
+                                                <i className="fa-solid fa-chevron-right" />
+                                               DETOXIFY & CLEANSE 
+                                            </Link>
+                                        </li>
+                                         <li>
+                                            <Link href="iv-drip-therapy">
+                                                <i className="fa-solid fa-chevron-right" />
+                                                WEIGHT & PERFORMANCE
+                                            </Link>
+                                        </li>
+                                         <li>
+                                            <Link href="iv-drip-therapy">
+                                                <i className="fa-solid fa-chevron-right" />
+                                               ENERGY & BRAIN
+                                            </Link>
+                                        </li>
                                         <li>
                                             <Link href="iv-drip-therapy">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                IV Drip Therapy
+                                               GLUTATHIONE
                                             </Link>
                                         </li>
-                                        <li>
-                                            <Link href="/vitamin-shots">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Vitamin Shots
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Nutrients
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Precision Nutrition
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Precision IV
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Blood Testing
-                                            </Link>
-                                        </li>
+                                       
                                     </ul>
                                 </div>
                             </div>
-                            {/* <div className="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                           <div className="col-xl-3 col-lg-3 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
                                 <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
-                                        <h3>Services</h3>
+                                        <h3></h3>
                                     </div>
                                     <ul className="list-area">
-                                        <li>
-                                            <Link href="/">
+                                       <li>
+                                            <Link href="/vitamin-shots">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Mobile IV Therapy
+                                                HAIR, NAILS & SKIN
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Group Bookings
+                                                FERTILITY
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="/">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Corporate Events
+                                                NAD+
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/">
+                                                <i className="fa-solid fa-chevron-right" />
+                                               CUSTOMERISED IV'S
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/">
+                                                <i className="fa-solid fa-chevron-right" />
+                                                BOOSTER SHOTS
                                             </Link>
                                         </li>
                                     </ul>
                                 </div>
-                            </div> */}
-                            <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                            </div> 
+                            <div className="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                                 <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
-                                        <h3>Company</h3>
+                                        <h3>Other link</h3>
                                     </div>
                                     <ul className="list-area">
                                         <li>
                                             <Link href="/about-us">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 About Us
+                                            </Link>
+                                        </li>
+                                         <li>
+                                            <Link href="/">
+                                                <i className="fa-solid fa-chevron-right" />
+                                                Community
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/">
+                                                <i className="fa-solid fa-chevron-right" />
+                                                Memberships
                                             </Link>
                                         </li>
                                         <li>
@@ -127,12 +148,7 @@ export default function Footer1() {
                                                 FAQs
                                             </Link>
                                         </li> */}
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                Memberships
-                                            </Link>
-                                        </li>
+                                        
                                         {/* <li>
                                             <Link href="/contact-us">
                                                 <i className="fa-solid fa-chevron-right" />
@@ -149,9 +165,9 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-between">
                             <div className="footer-logo wow fadeInLeft" data-wow-delay=".3s">
-                                <Link href="/">
-                                    <img src="/assets/img/logo/logo-white.png" alt="logo-img" />
-                                </Link>
+                                {/* <Link href="/">
+                                    <img src="/assets/img/logo/logo.png" alt="logo-img" />
+                                </Link> */}
                             </div>
                             <p className="wow fadeInRight color-2" data-wow-delay=".5s">
                                 Copyright &copy; {new Date().getFullYear()}. All Rights Reserved.

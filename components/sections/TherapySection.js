@@ -61,64 +61,54 @@ export default function TherapySection() {
 
           <button
             className={activeTab === "immunity" ? "active" : ""}
-            onClick={() => setActiveTab("immunity")}
-          >
+            onClick={() => setActiveTab("immunity")}>
            IMMUNITY & RECOVERY
           </button>
 
           <button
             className={activeTab === "detoxify" ? "active" : ""}
-            onClick={() => setActiveTab("detoxify")}
-          >
+            onClick={() => setActiveTab("detoxify")}>
            DETOXIFY & CLEANSE
           </button>
 
           <button
             className={activeTab === "weight" ? "active" : ""}
-            onClick={() => setActiveTab("weight")}
-          >
+            onClick={() => setActiveTab("weight")}>
             WEIGHT & PERFORMANCE
           </button>
            <button
             className={activeTab === "enrgy" ? "active" : ""}
-            onClick={() => setActiveTab("enrgy")}
-          >
+            onClick={() => setActiveTab("enrgy")}>
             ENERGY & BRAIN
           </button>
              <button
             className={activeTab === "glutathione" ? "active" : ""}
-            onClick={() => setActiveTab("glutathione")}
-          >
+            onClick={() => setActiveTab("glutathione")}>
             GLUTATHIONE
           </button>
             <button
             className={activeTab === "hair" ? "active" : ""}
-            onClick={() => setActiveTab("hair")}
-          >
+            onClick={() => setActiveTab("hair")}>
             HAIR, NAILS & SKIN
           </button>
           <button
             className={activeTab === "fertlity" ? "active" : ""}
-            onClick={() => setActiveTab("fertlity")}
-          >
+            onClick={() => setActiveTab("fertlity")}>
             FERTILITY
           </button>
           <button
             className={activeTab === "nad" ? "active" : ""}
-            onClick={() => setActiveTab("nad")}
-          >
+            onClick={() => setActiveTab("nad")}>
             NAD+
           </button>
             <button
             className={activeTab === "customerisediv" ? "active" : ""}
-            onClick={() => setActiveTab("customerisediv")}
-          >
+            onClick={() => setActiveTab("customerisediv")}>
            CUSTOMERISED IV'S
           </button>
             <button
             className={activeTab === "boostershorts" ? "active" : ""}
-            onClick={() => setActiveTab("boostershorts")}
-          >
+            onClick={() => setActiveTab("boostershorts")}>
            BOOSTER SHOTS
           </button>
           
@@ -431,7 +421,7 @@ bounce back quickly.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Blood Boost Iron |
@@ -458,7 +448,7 @@ combating anemia and enhancing overall vitality.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydration_img.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>The Wellness
@@ -498,7 +488,7 @@ Magnesium, Calcium, Zinc, Glutathione, Biotin.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>The Wellness
@@ -539,7 +529,7 @@ promoting overall wellness from within.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Hair, Nails & Skin
@@ -570,7 +560,7 @@ Vitamin E, Zinc, Silica.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Skin Glow (Vitamin C +
@@ -613,7 +603,7 @@ Acid, Alpha Lipoic Acid.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fatherhood | Male Fertility
@@ -645,7 +635,7 @@ Extract, Ashwagandha Extract.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/hydromax.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Motherhood Female Fertility
@@ -677,7 +667,7 @@ NAC (N-Acetyl Cysteine), CoQ10, Black Cohosh, Vitex Agnus-Castus.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fatherhood | Male Fertility
@@ -722,7 +712,7 @@ Extract, Ashwagandha Extract.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fatherhood | Male Fertility
@@ -766,7 +756,7 @@ optimized cellular health.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/b_complex.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Super B's Booster</h4>
@@ -804,7 +794,7 @@ power of targeted hydration and nutrient delivery.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/b_complex.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Super B's Booster</h4>
@@ -852,7 +842,7 @@ power of targeted hydration and nutrient delivery.</p>
                                  <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Slim Boost</h4>
@@ -885,7 +875,7 @@ power of targeted hydration and nutrient delivery.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ultraviv.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Co-Enzyme Q10</h4>
