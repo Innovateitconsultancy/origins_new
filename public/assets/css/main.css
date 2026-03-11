@@ -9562,14 +9562,17 @@ a.btnOutlineWhite:hover {
 h1 {
   font-size: 40px;
 }
-.tabsHome{
+
+.tabsHome {
   display: flex;
   gap: 10px;
-  overflow-x: auto;     /* enables horizontal scroll */
+  overflow-x: auto;
+  /* enables horizontal scroll */
   overflow-y: hidden;
   white-space: nowrap;
   padding-bottom: 10px;
-  scrollbar-width: thin;   /* Firefox */
+  scrollbar-width: thin;
+  /* Firefox */
 }
 
 .tabsHome button {
@@ -9587,49 +9590,72 @@ h1 {
 }
 
 .tabsHome button.active {
-  background:var(--black);
+  background: var(--black);
   color: white;
 }
 
 .tabsHome button {
-    background-color: var(--theme);
-    color: var(--white);
-    font-size: 14px;
-    font-weight: 600;
-    padding: 10px 20px;
-    border-radius: 6px;
-    text-transform: capitalize;
-    -webkit-transition: all 0.3s ease-in-out; 
-    transition: all 0.3s ease-in-out;
-    position: relative;
-    z-index: 1;
-    line-height: 20px;
-    overflow: hidden;
-    display: inline-block;
+  background-color: var(--theme);
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-transform: capitalize;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  z-index: 1;
+  line-height: 20px;
+  overflow: hidden;
+  display: inline-block;
 }
-.tabsHome button:hover  {
+
+.tabsHome button:hover {
   background: var(--black);
   color: var(--white);
 }
-.tabsHome::-webkit-scrollbar{
+
+.tabsHome::-webkit-scrollbar {
   height: 6px;
 }
+
 /* Track (background) */
-.tabsHome::-webkit-scrollbar-track{
-  background:var(--theme3);
+.tabsHome::-webkit-scrollbar-track {
+  background: var(--theme3);
   border-radius: 10px;
 }
 
 
 /* Hover color */
-.tabsHome::-webkit-scrollbar-thumb:hover{
+.tabsHome::-webkit-scrollbar-thumb:hover {
   background: var(--theme);
 }
+
 .section-title-area.therapyTaps {
-    display: block;
+  display: block;
 }
+
 .productIngr {
-    font-size: 12px;
-    line-height: normal!important;
-    margin-top: 10px;
+  font-size: 12px;
+  line-height: normal !important;
+  margin-top: 10px;
+}
+
+.threeDotLine {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  /* number of lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.twoDotLine {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  /* number of lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
