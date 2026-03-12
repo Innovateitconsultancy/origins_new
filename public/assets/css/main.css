@@ -9681,9 +9681,11 @@ h1 {
 .footer-widgets-wrapper .single-footer-widget .list-area li:not(:last-child) {
     margin-bottom: 8px;
 }
-.heroBanner.otherBanner  {
+.otherBanner
+.heroBanner  {
     min-height: 400px;
 }
-.heroBanner.otherBanner .heroBannerInfo {
+.otherBanner
+.heroBanner .heroBannerInfo {
     min-height: 400px;
 }
