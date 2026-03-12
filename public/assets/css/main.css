@@ -4,6 +4,7 @@ Version: 1.0.0
 /*CSS Table Of Content Ends Here*/
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
   --body: #fff;
@@ -26,10 +27,12 @@ Version: 1.0.0
   --bg4: #e4ebeb;
   --box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.06);
   --box-shadow-2: 0px 4px 25px rgba(56, 75, 255, 0.1);
-  --heading-font: $heading-font ;
+  /* --heading-font: $heading-font ; */
   --body-font: $body-font ;
 }
-
+body{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif!important;
+}
 .theme-btn {
   background-color: var(--theme);
   color: var(--white);
@@ -214,7 +217,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--heading-font);
+  /* font-family: var(--heading-font); */
   margin: 0px;
   padding: 0;
   color: var(--header);
@@ -6823,7 +6826,7 @@ span {
 }
 
 .preloader .animation-preloader .txt-loading {
-  font: bold 5em var(--heading-font), var(--body-font);
+  /* font: bold 5em var(--heading-font), var(--body-font); */
   text-align: center;
   user-select: none;
 }
@@ -6873,7 +6876,7 @@ span {
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
-  font-family: var(--heading-font);
+  /* font-family: var(--heading-font); */
   position: absolute;
   top: -3px;
   transform: rotateY(-90deg);
