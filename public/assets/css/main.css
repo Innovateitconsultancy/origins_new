@@ -9689,3 +9689,17 @@ h1 {
 .heroBanner .heroBannerInfo {
     min-height: 400px;
 }
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  max-width: 100%;
+  height: auto;
+}
+.swiper-wrapper {
+
+    justify-content: center;
+}
