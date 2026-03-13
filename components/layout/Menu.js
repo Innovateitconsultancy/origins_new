@@ -7,7 +7,7 @@ export default function Menu() {
 
             <ul>
                 <li className="has-dropdown active menu-thumb">
-                    <Link href="#">
+                      <Link href="/iv_drip_therapy_pro">
                         IV Drip Therapy
                         <i className="fas fa-angle-down ps-1" />
                     </Link>
@@ -17,7 +17,7 @@ export default function Menu() {
                                 <div className="homemenu">
                                     <div className="homemenu-content">
                                         <h4 className="homemenu-title">
-                                            <Link href="/iv-drip-therapy">
+                                            <Link href="/iv_drip_therapy_pro">
                                                 IV Drip Therapy
                                             </Link>
                                         </h4>
@@ -27,7 +27,7 @@ export default function Menu() {
                             <div className="homemenu-items">
                                 <div className="homemenu">
                                     <div className="demo-button">
-                                        <Link href="/iv-drip-therapy/miniboost" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/immunity-recovery" className="theme-btn">
                                             IMMUNITY & RECOVERY                                          
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
