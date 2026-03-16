@@ -8,8 +8,8 @@ Version: 1.0.0
 
 :root {
   --body: #fff;
-  --black: #000;
-  --blackLight: #0f0f0f;
+  --black: #1b262a;
+  --blackLight: #425962;
   --white: #fff;
   --theme: #009194;
   --theme2: #009194;
@@ -32,6 +32,7 @@ Version: 1.0.0
 }
 body{
   font-family: 'Poppins', Arial, Helvetica, sans-serif!important;
+  --blackLight: #425962;
 }
 .theme-btn {
   background-color: var(--theme);
@@ -7930,6 +7931,7 @@ input.main-search-input::placeholder {
 
 .service-card-items .service-content p {
   line-height: 22px;
+  margin-bottom: 30px;
 }
 
 .service-card-items:hover .icon {
@@ -9343,7 +9345,7 @@ a.btnOutlineWhite:hover {
 
 
 .btnGreen {
-  background-color: var(--blackLight);
+  background-color: var(--black);
   font-family: Poppins;
   font-weight: 500;
   font-size: 18px;
@@ -9640,7 +9642,7 @@ h1 {
 }
 
 .productIngr {
-  font-size: 12px;
+  /* font-size: 12px; */
   line-height: normal !important;
   margin-top: 10px;
 }
@@ -9808,6 +9810,7 @@ h1 {
 .service-card-items .service-content h4 {
       font-size: 30px;
        color: var(--black);
+           margin-bottom: 40px;
 }
 h1, h2, h3, h4, h5, h6 {
   color: var(--black);
@@ -9831,3 +9834,13 @@ h1, h2, h3, h4, h5, h6 {
 .single-news-items .news-content h3 a:hover{
    color: var(--theme);
 }
+.section-title.text-center h2, .therapyTapsInfo {
+  
+     max-width: 600px;  
+     margin: 0 auto; 
+      margin-bottom: 60px;
+}
+/* .therapyTapsInfo{
+  max-width: 600px;
+
+} */

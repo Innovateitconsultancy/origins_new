@@ -49,10 +49,14 @@ export default function TherapySection() {
                             <button className="array-prev"><i className="fal fa-arrow-right" /></button>
                             <button className="array-next"><i className="fal fa-arrow-left" /></button>
                         </div> */}
-                        <div className="section-title">
+                        <div className="section-title text-center">
                             <h2 className="wow fadeInUp" data-wow-delay=".3s">
-                                IV Drip Therapy
+                                {/* IV Drip Therapy */}
+                                Your journey to better health  starts with <b>Just one Drip</b>.
                             </h2>
+                            <p className="therapyTapsInfo">
+                                Explore our range of in-home vitamin IV treatments designed to support optimal health and wellness.
+                            </p>
                         </div>
 
                         <div className='tabsHomeMain'>
