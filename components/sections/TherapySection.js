@@ -21,7 +21,7 @@ const swiperOptions = {
 
     breakpoints: {
         1199: {
-            slidesPerView: 4,
+            slidesPerView: 3,
         },
         991: {
             slidesPerView: 2,
@@ -94,7 +94,7 @@ export default function TherapySection() {
           <button
             className={activeTab === "fertlity" ? "active" : ""}
             onClick={() => setActiveTab("fertlity")}>
-            FERTILITY
+            FERTILITY 
           </button>
           <button
             className={activeTab === "nad" ? "active" : ""}

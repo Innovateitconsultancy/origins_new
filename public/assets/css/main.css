@@ -13,7 +13,7 @@ Version: 1.0.0
   --white: #fff;
   --theme: #009194;
   --theme2: #009194;
-  --theme3: #f8eadd;
+  --theme3: #fbf2e9;
   --theme4: #c6dbdb;
   --header: #009194;
   --text: #585858;
@@ -9343,7 +9343,7 @@ a.btnOutlineWhite:hover {
 
 
 .btnGreen {
-  background-color: var(--theme);
+  background-color: var(--blackLight);
   font-family: Poppins;
   font-weight: 500;
   font-size: 18px;
@@ -9357,7 +9357,7 @@ a.btnOutlineWhite:hover {
 }
 
 .btnGreen:hover {
-  background-color: var(--blackLight);
+  background-color: var(--theme);
 }
 
 .subcribeContent {
@@ -9721,4 +9721,113 @@ h1 {
 }
 .theme-btn-new:hover {
     background-color: var(--black);
+}
+
+/*new css*/
+.header-main .main-menu ul li a {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--black);
+}
+.header-main .main-menu ul li a:hover {
+    color: var(--header);
+}
+.header-main .main-menu ul li {
+    margin-inline-end: 26px;
+}
+.header-main .logo a.header-logo img {
+    max-width: 90px;
+}
+.header-1 .header-main .header-right .header-button .theme-btn {
+    padding: 14px 20px;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+.header-1 .header-main .header-right {
+    gap: 26px;
+}
+
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-title a {
+    font-size: 16px;
+    text-decoration: none;
+}
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu 
+.demo-button a {
+    color: var(--black);
+    padding: 3px 0px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    overflow: hidden;
+    background: none;
+    font-size: 14px;
+    font-weight: normal;
+}
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a:hover {
+  background: none!important;
+    color: var(--theme) !important;
+}
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a.theme-btn::before,
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a.theme-btn::after{
+  background: none!important;  
+}
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent h1 {
+    color:var(--black);
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
+    background-color: var(--theme);
+  
+}
+.theme-btn {
+    background-color: var(--black);
+    color: var(--white);
+    
+}
+.theme-btn:hover {
+    background-color: var(--theme);
+}
+
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
+    background-color: var(--black);
+}
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a:hover {
+    background-color: var(--theme);
+}
+.section-title {
+    text-align: center;
+}
+.service-card-items .service-content {
+    text-align: left;
+}
+
+.service-card-items .service-content:hover {
+    background: none;
+    color: var(--black);
+}
+.service-card-items .service-content h4 {
+      font-size: 30px;
+       color: var(--black);
+}
+h1, h2, h3, h4, h5, h6 {
+  color: var(--black);
+}
+.section-title {
+    text-align: LEFT;
+}
+
+.service-card-items .service-content:hover, .team-card-items .team-content:hover, .single-news-items:hover, .single-news-items:hover a {
+    background: var(--white);
+    color: var(--black);
+    border-radius: 0px 0px 10px 10px;
+}
+.service-card-items .service-content:hover a, .service-card-items .service-content:hover h4, .service-card-items .service-content:hover h5, .team-card-items .team-content:hover a, .team-card-items .team-content:hover h3, .team-card-items .team-content:hover p, .single-news-items:hover, .single-news-items:hover h3, .single-news-items:hover a, .single-news-items:hover p, .single-news-items:hover .news-content .theme-btn-2:hover {
+    color: var(--black);
+}
+.single-news-items .news-content h3 a{
+   color: var(--black);
+}
+
+.single-news-items .news-content h3 a:hover{
+   color: var(--theme);
 }
