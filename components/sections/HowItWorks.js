@@ -35,7 +35,7 @@ export default function HowItWorks() {
                                             </Link>
                                         </div>
                                     </div> */}
-                                    <div class="accordion accordionHowItWork">
+                                    <div className="accordion accordionHowItWork">
 
   <details name="accordion">
     <summary> <i className="fa-regular fa-calendar-days"></i> Book Your Appointment</summary>

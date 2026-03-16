@@ -63,55 +63,45 @@ export default function TherapySection() {
  {/* Tabs */}
         <div className="tabsHome">
 
-          <button
-            className={activeTab === "immunity" ? "active" : ""}
+          <button className={activeTab === "immunity" ? "active" : ""}
             onClick={() => setActiveTab("immunity")}>
            IMMUNITY & RECOVERY
           </button>
 
-          <button
-            className={activeTab === "detoxify" ? "active" : ""}
+          <button className={activeTab === "detoxify" ? "active" : ""}
             onClick={() => setActiveTab("detoxify")}>
            DETOXIFY & CLEANSE
           </button>
 
-          <button
-            className={activeTab === "weight" ? "active" : ""}
+          <button  className={activeTab === "weight" ? "active" : ""}
             onClick={() => setActiveTab("weight")}>
             WEIGHT & PERFORMANCE
           </button>
-           <button
-            className={activeTab === "enrgy" ? "active" : ""}
+           <button  className={activeTab === "enrgy" ? "active" : ""}
             onClick={() => setActiveTab("enrgy")}>
             ENERGY & BRAIN
           </button>
-             <button
-            className={activeTab === "glutathione" ? "active" : ""}
+             <button className={activeTab === "glutathione" ? "active" : ""}
             onClick={() => setActiveTab("glutathione")}>
             GLUTATHIONE
           </button>
-            <button
-            className={activeTab === "hair" ? "active" : ""}
+            <button className={activeTab === "hair" ? "active" : ""}
             onClick={() => setActiveTab("hair")}>
             HAIR, NAILS & SKIN
           </button>
-          <button
-            className={activeTab === "fertlity" ? "active" : ""}
+          <button className={activeTab === "fertlity" ? "active" : ""}
             onClick={() => setActiveTab("fertlity")}>
             FERTILITY 
           </button>
-          <button
-            className={activeTab === "nad" ? "active" : ""}
+          <button  className={activeTab === "nad" ? "active" : ""}
             onClick={() => setActiveTab("nad")}>
             NAD+
           </button>
-            <button
-            className={activeTab === "customerisediv" ? "active" : ""}
+            <button  className={activeTab === "customerisediv" ? "active" : ""}
             onClick={() => setActiveTab("customerisediv")}>
            CUSTOMERISED IV'S
           </button>
-            <button
-            className={activeTab === "boostershorts" ? "active" : ""}
+            <button  className={activeTab === "boostershorts" ? "active" : ""}
             onClick={() => setActiveTab("boostershorts")}>
            BOOSTER SHOTS
           </button>
