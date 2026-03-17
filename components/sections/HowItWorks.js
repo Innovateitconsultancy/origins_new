@@ -37,7 +37,7 @@ export default function HowItWorks() {
                                     </div> */}
                                     <div className="accordion accordionHowItWork">
 
-  <details name="accordion">
+  <details name="accordion" open>
     <summary> <i className="fa-regular fa-calendar-days"></i> Book Your Appointment</summary>
     <p>
 Schedule your session online or contact our clinic to book a convenient time for your IV therapy treatment.<br/>

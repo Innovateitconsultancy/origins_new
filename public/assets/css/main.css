@@ -14,7 +14,7 @@ Version: 1.0.0
   --theme: #009194;
   --theme2: #009194;
   --theme3: #fbf2e9;
-  --theme4: #c6dbdb;
+  --theme4: #e1f4f4;
   --header: #009194;
   --text: #585858;
   --text-2: #ffffffcc;
@@ -30,10 +30,12 @@ Version: 1.0.0
   /* --heading-font: $heading-font ; */
   --body-font: $body-font ;
 }
-body{
-  font-family: 'Poppins', Arial, Helvetica, sans-serif!important;
+
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif !important;
   --blackLight: #425962;
 }
+
 .theme-btn {
   background-color: var(--theme);
   color: var(--white);
@@ -7538,7 +7540,7 @@ input.main-search-input::placeholder {
 }
 
 .section-padding {
-  padding: 120px 0;
+  padding: 70px 0;
 }
 
 @media (max-width: 1199px) {
@@ -7842,7 +7844,7 @@ input.main-search-input::placeholder {
   margin-top: 30px;
   margin-bottom: 25px;
   background-color: var(--white);
-  border-radius: 10px;
+  border-radius: 20px;
   box-shadow: var(--box-shadow);
   position: relative;
   overflow: hidden;
@@ -9273,7 +9275,7 @@ html {
 }
 
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent h1 {
-  max-width: 507px;
+  max-width: 590px;
 }
 
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent .intro__btns {
@@ -9361,7 +9363,9 @@ a.btnOutlineWhite:hover {
 .btnGreen:hover {
   background-color: var(--theme);
 }
-
+section.subcribeSection {
+    padding: 60px 0;
+}
 .subcribeContent {
   background-color: var(--theme4);
   border-radius: 20px;
@@ -9375,7 +9379,7 @@ a.btnOutlineWhite:hover {
   box-sizing: border-box;
   margin: 0 auto;
 }
-
+.subcribeContent p{ max-width: 480px;}
 .subcribeContent h2 {
   font-size: 40px !important;
   font-weight: 400 !important;
@@ -9444,18 +9448,18 @@ a.btnOutlineWhite:hover {
 .accordion {
   /* width: 600px; */
   margin: auto;
-  font-family: Arial;
+  /* font-family: Arial; */
   font-size: 20px;
 }
 
 .accordion details {
   border-bottom: 1px solid #ddd;
-  padding: 10px 0;
+  padding: 20px 0 30px;
 }
 
 .accordion summary {
   cursor: pointer;
-  font-weight: bold;
+  font-weight: 600;
   list-style: none;
   display: flex;
   justify-content: space-between;
@@ -9473,6 +9477,8 @@ a.btnOutlineWhite:hover {
 
 .accordion details p {
   margin-top: 10px;
+  color: var(--blackLight);
+  font-size: 17px;
 }
 
 .accordion.accordionHowItWork {
@@ -9494,12 +9500,19 @@ a.btnOutlineWhite:hover {
 .accordion.accordionHowItWork summary {
   justify-content: start;
   line-height: 40px;
+  font-size: 30px;
 }
 
+.accordion.accordionHowItWork details[open] {
+    border: 0;
+    padding: 10px 0 10px;
+    opacity: 1;
+}
 .accordion.accordionHowItWork details {
-  border: 0;
+    border: 0;
+    padding: 10px 0 10px;
+    opacity: .3;
 }
-
 .accordion.accordionHowItWork details i {
   background: var(--theme);
   width: 40px;
@@ -9664,33 +9677,39 @@ h1 {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.topBottm30{
+
+.topBottm30 {
   padding: 30px 0;
 }
+
 .header-1 .header-main .main-menu ul li .has-homemenu {
-    left: 0;
+  left: 0;
 }
+
 .header-main .main-menu ul li .has-homemenu {
-    width: 590px;
+  width: 590px;
 }
-.footerLogo img{
+
+.footerLogo img {
   max-width: 150px;
 }
 
 .footer-widgets-wrapper .single-footer-widget .list-area li a {
-    font-size: 14px;
+  font-size: 14px;
 }
+
 .footer-widgets-wrapper .single-footer-widget .list-area li:not(:last-child) {
-    margin-bottom: 8px;
+  margin-bottom: 8px;
 }
-.otherBanner
-.heroBanner  {
-    min-height: 400px;
+
+.otherBanner .heroBanner {
+  min-height: 400px;
 }
-.otherBanner
-.heroBanner .heroBannerInfo {
-    min-height: 400px;
+
+.otherBanner .heroBanner .heroBannerInfo {
+  min-height: 400px;
 }
+
 .swiper-slide {
   display: flex;
   justify-content: center;
@@ -9701,145 +9720,193 @@ h1 {
   max-width: 100%;
   height: auto;
 }
+
 .swiper-wrapper {
 
-    justify-content: center;
+  justify-content: center;
 }
+
 .theme-btn-new {
-    background-color: var(--theme);
-    color: var(--white);
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 24px 40px;
-    border-radius: 6px;
-    text-transform: capitalize;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    position: relative;
-    z-index: 1;
-    line-height: 1;
-    overflow: hidden;
+  background-color: var(--theme);
+  color: var(--white);
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 24px 40px;
+  border-radius: 6px;
+  text-transform: capitalize;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  z-index: 1;
+  line-height: 1;
+  overflow: hidden;
 }
+
 .theme-btn-new:hover {
-    background-color: var(--black);
+  background-color: var(--black);
 }
 
 /*new css*/
 .header-main .main-menu ul li a {
-    font-size: 14px;
-    font-weight: 600;
-    color: var(--black);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--black);
 }
+
 .header-main .main-menu ul li a:hover {
-    color: var(--header);
+  color: var(--header);
 }
+
 .header-main .main-menu ul li {
-    margin-inline-end: 26px;
+  margin-inline-end: 26px;
 }
+
 .header-main .logo a.header-logo img {
-    max-width: 90px;
+  max-width: 80px;
 }
+
 .header-1 .header-main .header-right .header-button .theme-btn {
-    padding: 14px 20px;
-    font-size: 14px;
-    text-transform: uppercase;
-    border-radius: 40px;
+  padding: 14px 20px;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 40px;
 }
+
 .header-1 .header-main .header-right {
-    gap: 26px;
+  gap: 26px;
 }
 
 .header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-title a {
-    font-size: 16px;
-    text-decoration: none;
+  font-size: 16px;
+  text-decoration: none;
 }
-.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu 
-.demo-button a {
-    color: var(--black);
-    padding: 3px 0px;
-    margin-bottom: 10px;
-    border-radius: 6px;
-    overflow: hidden;
-    background: none;
-    font-size: 14px;
-    font-weight: normal;
+
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a {
+  color: var(--black);
+  padding: 3px 0px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: none;
+  font-size: 14px;
+  font-weight: normal;
 }
+
 .header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a:hover {
-  background: none!important;
-    color: var(--theme) !important;
+  background: none !important;
+  color: var(--theme) !important;
 }
+
 .header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a.theme-btn::before,
-.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a.theme-btn::after{
-  background: none!important;  
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a.theme-btn::after {
+  background: none !important;
+}
+.header-main {
+    padding: 4px 0;
 }
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent h1 {
-    color:var(--black);
+  color: var(--black);
 }
 
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
-    background-color: var(--theme);
-  
+  background-color: var(--theme);
+
 }
+
 .theme-btn {
-    background-color: var(--black);
-    color: var(--white);
-    
+  background-color: var(--black);
+  color: var(--white);
+
 }
+
 .theme-btn:hover {
-    background-color: var(--theme);
+  background-color: var(--theme);
 }
 
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
-    background-color: var(--black);
+  background-color: var(--black);
 }
+
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a:hover {
-    background-color: var(--theme);
+  background-color: var(--theme);
 }
+
 .section-title {
-    text-align: center;
+  text-align: center;
 }
+
 .service-card-items .service-content {
-    text-align: left;
+  text-align: left;
 }
 
 .service-card-items .service-content:hover {
-    background: none;
-    color: var(--black);
-}
-.service-card-items .service-content h4 {
-      font-size: 30px;
-       color: var(--black);
-           margin-bottom: 40px;
-}
-h1, h2, h3, h4, h5, h6 {
+  background: none;
   color: var(--black);
 }
+
+.service-card-items .service-content h4 {
+  font-size: 30px;
+  color: var(--black);
+  margin-bottom: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--black);
+}
+
 .section-title {
-    text-align: LEFT;
+  text-align: LEFT;
 }
 
-.service-card-items .service-content:hover, .team-card-items .team-content:hover, .single-news-items:hover, .single-news-items:hover a {
-    background: var(--white);
-    color: var(--black);
-    border-radius: 0px 0px 10px 10px;
-}
-.service-card-items .service-content:hover a, .service-card-items .service-content:hover h4, .service-card-items .service-content:hover h5, .team-card-items .team-content:hover a, .team-card-items .team-content:hover h3, .team-card-items .team-content:hover p, .single-news-items:hover, .single-news-items:hover h3, .single-news-items:hover a, .single-news-items:hover p, .single-news-items:hover .news-content .theme-btn-2:hover {
-    color: var(--black);
-}
-.single-news-items .news-content h3 a{
-   color: var(--black);
+.service-card-items .service-content:hover,
+.team-card-items .team-content:hover,
+.single-news-items:hover,
+.single-news-items:hover a {
+  background: var(--white);
+  color: var(--black);
+  border-radius: 0px 0px 10px 10px;
 }
 
-.single-news-items .news-content h3 a:hover{
-   color: var(--theme);
+.service-card-items .service-content:hover a,
+.service-card-items .service-content:hover h4,
+.service-card-items .service-content:hover h5,
+.team-card-items .team-content:hover a,
+.team-card-items .team-content:hover h3,
+.team-card-items .team-content:hover p,
+.single-news-items:hover,
+.single-news-items:hover h3,
+.single-news-items:hover a,
+.single-news-items:hover p,
+.single-news-items:hover .news-content .theme-btn-2:hover {
+  color: var(--black);
 }
-.section-title.text-center h2, .therapyTapsInfo {
-  
-     max-width: 600px;  
-     margin: 0 auto; 
-      margin-bottom: 60px;
+
+.single-news-items .news-content h3 a {
+  color: var(--black);
 }
+
+.single-news-items .news-content h3 a:hover {
+  color: var(--theme);
+}
+
+.section-title.text-center h2,
+.therapyTapsInfo {
+
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+
+.header-top-section {
+  padding: 4px 0;
+}
+
 /* .therapyTapsInfo{
   max-width: 600px;
 
