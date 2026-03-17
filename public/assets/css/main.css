@@ -9901,8 +9901,10 @@ h6 {
   max-width: 600px;
   margin: 0 auto;
   margin-bottom: 60px;
+  font-weight: 400;
 }
-
+.section-title-area h1,  .section-title-area h2{  font-weight: 400;
+}
 .header-top-section {
   padding: 4px 0;
 }
