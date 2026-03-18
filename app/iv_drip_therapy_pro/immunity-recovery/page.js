@@ -31,21 +31,79 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner">
+                           <div className="heroBanner banner-immunity-recovery">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Immunity Recovery</h1>
+           <h1> Immune Boost IV Treatment
+</h1>
+           <h2><i>$</i>299</h2>
+           <p className="blackText">Strengthen & Protect</p>
+
            <div className="text">
-               IV BAR Hydration brings IV therapy and wellness treatments to your home, nationwide.
+               Our immunity IV includes a blend of IV fluids, vitamins, and antioxidants that can help cleanse your body and supercharge your immune system to fight off illness.
                </div>
+                <p><b className="blackText">Ingredients</b>:  B-Complex Vitamins, Vitamin B12, Vitamin C, Glutathione</p>
                    <div className="heroBannerBtns">
                                                <a href="" >BOOK IV THERAPY</a>
                                                <a href="" >VIEW ALL SERVICES</a>
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
-                
+               
                                </div>
+                               </div>
+                               <div className="heroBannerRight">
+                                <h2 className="titleBannerR">Ideal For:</h2>
+                                <div class="bannerCheckList">
+        <div class="bannerCheckListInfo">
+          <span class="bannerCheckIcon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="bannerCheckabel">Heat Relief</span>
+        </div>
+        <div class="bannerCheckListInfo">
+          <span class="bannerCheckIcon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="bannerCheckabel">Deep Replenish
+</span>
+        </div>
+        <div class="bannerCheckListInfo">
+          <span class="bannerCheckIcon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+          </span>
+          <span class="bannerCheckabel">Vital Balance
+</span>
+        </div>
+      </div>
+      <p><b>Recommended Add-Ons:
+</b></p>
+<ul className="recommendedAddons">
+    <li>
+        <i>+</i> Vitamin C
+    </li>
+    <li>
+        <i>+</i> Biotin
+    </li>
+
+    <li>
+        <i>+</i> B-Complex
+    </li>
+</ul>
+<div className="reviewsInfo">
+    4.9 <i>★</i>
+    <p>Average on Google Reviews</p>
+</div>
+<div className="reviewsInfo">
+    4K 
+    <span>Reviews</span>
+</div>
                                </div>
                                </div>
                            </div>
@@ -80,7 +138,7 @@ for post-travel recovery or after intense physical exertion.</p>
 Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
 </p>
                                             <Link href="iv_drip_therapy_pro/immunity-recovery" className="theme-btn-new mt-3">
-                                               <span>Book Now CTA<i class="fa-solid fa-arrow-right-long"></i></span>
+                                               <span>Book Now CTA<i className="fa-solid fa-arrow-right-long"></i></span>
                                             </Link>
                                           
                                         </div>
