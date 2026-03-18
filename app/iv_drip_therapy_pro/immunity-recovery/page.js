@@ -108,7 +108,7 @@ export default function ImmunityRecovery() {
                                </div>
                            </div>
                        </section>
-                           <section className="Project-details-section fix  inner sectionPdTopBottom80">
+                           <section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
                                <div className="container">
                                    <div className="project-details-wrapper">
                                        <div className="row">
@@ -126,7 +126,7 @@ export default function ImmunityRecovery() {
                                                            <div className="details-content pt-5">
                                                                <h3>Hydrate| Ultimate Hydration</h3>
                                                                  <div className="service-content">
-                                            <h4>Hydrate| Ultimate Hydration</h4>
+                                           
                                            
                                             <p className="threeDotLine">This deep tissue replenishment therapy is designed to restore
 optimal fluid balance and vitality. By delivering essential
