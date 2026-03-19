@@ -10068,7 +10068,9 @@ h6 {
 .otherBanner .heroBanner .heroBannerInfo {
   min-height: 690px;
 }
-
+.radiusImg {
+    border-radius: 20px;
+}
 /* .therapyTapsInfo{
   max-width: 600px;
 

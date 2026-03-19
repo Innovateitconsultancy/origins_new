@@ -18,8 +18,7 @@ export default function Home() {
                 <TherapySection />
                  <HowItWorks />
                 {/* <AchievementSection /> */}
-                <DiscoverSection />
-               
+                <DiscoverSection />               
                 <BlogSection />
                 <SubscribeSection />
                 <FaqSection />

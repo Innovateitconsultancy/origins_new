@@ -1,5 +1,7 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link";
+import BlogSection from "@/components/sections/BlogSection"
+import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
     title: 'Immunity Recovery ',
     description: 'Immunity Recoverys IV Drip Therapy & IV Vitamin Infusions',
@@ -118,7 +120,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -168,14 +170,14 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -199,14 +201,14 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
                                                           <div className="row g-4 justify-content-between">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -231,6 +233,8 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                    </div>
                                </div>
                            </section>
+                          <BlogSection />
+                                          <SubscribeSection />
                        </Layout>
         </>
     )
