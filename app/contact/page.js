@@ -12,7 +12,7 @@ export default function Contact() {
                     <section className="contact-section fix section-padding">
                         <div className="container">
                             <div className="contact-wrapper-2">
-                                <div className="row g-4 align-items-center">
+                                <div className="row g-4 align-items-center1">
                                     <div className="col-lg-6">
                                         <div className="contact-left-items">
                                             <div className="contact-info-area-2">
@@ -60,10 +60,10 @@ export default function Contact() {
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div className="video-image">
+                                            {/* <div className="video-image">
                                                 <img src="/assets/img/video.jpg" alt="img" />
                                                 <VideoPopup style={1} />
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                     <div className="col-lg-6">
@@ -76,14 +76,26 @@ export default function Contact() {
                                                 <div className="row g-4">
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                                         <div className="form-clt">
-                                                            <span>Your name*</span>
+                                                            <span>Full Name*</span>
                                                             <input type="text" name="name" id="name" placeholder="Your Name" />
                                                         </div>
                                                     </div>
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
                                                         <div className="form-clt">
                                                             <span>Phone No.*</span>
-                                                            <input type="number" name="phoneno" id="phone_no" placeholder="Your Phone Number" />
+                                                            <input type="number" name="phoneno" id="phone_no" placeholder="Preferred Date" />
+                                                        </div>
+                                                    </div>
+                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
+                                                        <div className="form-clt">
+                                                            <span>Preferred Date*</span>
+                                                            <input type="date" name="date" id="date" placeholder="Preferred Date" />
+                                                        </div>
+                                                    </div>
+                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
+                                                        <div className="form-clt">
+                                                            <span>Preferred Time*</span>
+                                                            <input type="time" name="time" id="time" placeholder="Preferred Time" />
                                                         </div>
                                                     </div>
                                                      <div className="col-lg-12 wow fadeInUp" data-wow-delay=".5s">

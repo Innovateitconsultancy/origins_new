@@ -47,7 +47,7 @@ export default function Nad() {
                </div>
                 <p><b className="blackText">Ingredients</b>:  B-Complex Vitamins, Vitamin B12, Vitamin C, Glutathione</p>
                    <div className="heroBannerBtns">
-                                               <a href="" >BOOK IV THERAPY</a>
+                                               <Link href="/contact"  >BOOK IV THERAPY</Link >
                                                <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
@@ -139,7 +139,7 @@ for post-travel recovery or after intense physical exertion.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
 Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
 </p>
-                                            <Link href="iv_drip_therapy_pro/immunity-recovery" className="theme-btn-new mt-3">
+                                           <Link href="/contact" className="theme-btn-new mt-3">
                                                <span>Book Now CTA<i className="fa-solid fa-arrow-right-long"></i></span>
                                             </Link>
                                           

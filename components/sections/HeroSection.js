@@ -33,7 +33,7 @@ export default function HeroSection() {
    Premium IV Therapy designed to boost hydration, immunity, and overall wellness. Experience fast and effective nutrient delivery at IV Bar Wellness Clinic.
     </div>
         <div className="heroBannerBtns">
-                                    <a href="" >BOOK IV THERAPY</a>
+                                    <Link href="/contact"  >BOOK IV THERAPY</Link >
                                     {/* <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link> */}
                                     {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
         </div>

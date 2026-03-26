@@ -41,7 +41,7 @@ export default function  IVDripTherapy() {
                IV BAR Hydration brings IV therapy and wellness treatments to your home, nationwide.
                </div>
                    <div className="heroBannerBtns">
-                                               <a href="" >BOOK IV THERAPY</a>
+                                               <Link href="/contact"  >BOOK IV THERAPY</Link >
                                                <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
@@ -76,7 +76,7 @@ for post-travel recovery or after intense physical exertion.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
 Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
 </p>
-                                            <Link href="iv_drip_therapy_pro/immunity-recovery" className="theme-btn-2 mt-3">
+                                            <Link href="iv_drip_therapy_pro" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
