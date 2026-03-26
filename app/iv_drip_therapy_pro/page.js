@@ -42,7 +42,7 @@ export default function  IVDripTherapy() {
                </div>
                    <div className="heroBannerBtns">
                                                <a href="" >BOOK IV THERAPY</a>
-                                               <a href="" >VIEW ALL SERVICES</a>
+                                               <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
                 

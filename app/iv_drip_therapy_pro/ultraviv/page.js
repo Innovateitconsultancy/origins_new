@@ -48,7 +48,7 @@ export default function UltravIV() {
                 <p><b className="blackText">Ingredients</b>:  B-Complex Vitamins, Vitamin B12, Vitamin C, Glutathione</p>
                    <div className="heroBannerBtns">
                                                <a href="" >BOOK IV THERAPY</a>
-                                               <a href="" >VIEW ALL SERVICES</a>
+                                               <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
                
