@@ -11,7 +11,7 @@ export default function FaqSection() {
                 <div className="about-wrapper">
                     <div className="row align-items-center">
                         <div className="col-lg-12">
-<div class="accordion">
+<div className="accordion">
 
   <details name="accordion">
     <summary>What is IV Therapy?</summary>

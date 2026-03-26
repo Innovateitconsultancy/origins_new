@@ -9,7 +9,6 @@ import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 import FaqSection from "@/components/sections/FaqSection"
 export default function Home() {
-
     return (
         <>
             <Layout headerStyle={1} footerStyle={1}>

@@ -38,79 +38,79 @@ export default function MobileMenu() {
                                         <Link href="/iv-drip-therapy">IV Drip Therapy</Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/miniboost">
+                                        <Link href="/iv_drip_therapy_pro/miniboost">
                                             Miniboost
                                             <span>Wellness & Detox</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/hydromax">
+                                        <Link href="/iv_drip_therapy_pro/hydromax">
                                             Hydromax
                                             <span>Hydration & Recovery</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/ultraviv">
+                                        <Link href="/iv_drip_therapy_pro/ultraviv">
                                             Ultraviv
                                             <span>Recovery</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/megaboost">
+                                        <Link href="/iv_drip_therapy_pro/megaboost">
                                             Megaboost
                                             <span>Wellness</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/vitaglow">
+                                        <Link href="/iv_drip_therapy_pro/vitaglow">
                                             Vitaglow
                                             <span>Beauty & Pro-Aging</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/royal-flush">
+                                        <Link href="/iv_drip_therapy_pro/royal-flush">
                                             Royal Flush
                                             <span>Recovery</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/formerly-heliix">
+                                        <Link href="/iv_drip_therapy_pro/formerly-heliix">
                                             Formerly HELIIX
                                             <span>Detox</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/nad">
+                                        <Link href="/iv_drip_therapy_pro/nad">
                                             NAD+
                                             <span>Wellness</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/personalised-iv">
+                                        <Link href="/iv_drip_therapy_pro/personalised-iv">
                                             Personalised IV
                                             <span>Tailored to your Goals</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/ultraviv-pro">
+                                        <Link href="/iv_drip_therapy_pro/ultraviv-pro">
                                             Ultraviv PRO
                                             <span>Recovery</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/the-signature-10x-iv">
+                                        <Link href="/iv_drip_therapy_pro/the-signature-10x-iv">
                                             The Signature 10X IV
                                             <span>Specialty / Wellness</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/harrods-signature-iv-therapy">
+                                        <Link href="/iv_drip_therapy_pro/harrods-signature-iv-therapy">
                                             Harrods Signature IV Therapy
                                             <span>Advanced Formulation for Wellness</span>
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/iv-drip-therapy/methylene-blue">
+                                        <Link href="/iv_drip_therapy_pro/methylene-blue">
                                             Methylene Blue
                                             <span>Cellular Energy & Brain Support</span>
                                         </Link>

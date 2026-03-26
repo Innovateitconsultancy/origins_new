@@ -105,6 +105,14 @@ export default function TherapySection() {
             onClick={() => setActiveTab("boostershorts")}>
            BOOSTER SHOTS
           </button>
+           <button  className={activeTab === "munjaroozempic" ? "active" : ""}
+            onClick={() => setActiveTab("munjaroozempic")}>
+          Munjaro & Ozempic
+          </button>
+           <button  className={activeTab === "botox" ? "active" : ""}
+            onClick={() => setActiveTab("botox")}>
+           Botox
+          </button>
           
         </div>
 
@@ -133,7 +141,7 @@ for post-travel recovery or after intense physical exertion.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
 Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
 </p>
-                                            <Link href="/iv-drip-therapy/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -159,7 +167,7 @@ specific wellness needs for maximum benefit.</p>
      Ascorbic Acid (Vitamin C), Zinc, B-Complex Vitamins, Alpha-Lipoic Acid.
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -187,7 +195,7 @@ seasons or times of stress.</p>
 D, Selenium.
 
 </p>
-                                            <Link href="/iv-drip-therapy/immunity_booster" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/immunity_booster" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -224,7 +232,7 @@ and alleviate chronic symptoms associated with toxic
 build-up, promoting enhanced clarity and vitality.</p>
 <p className="productIngr twoDotLine"><b>Key Ingredients:</b>  EDTA, DMPS, Vitamin C, Glutathione, Alpha Lipoic Acid.
 </p>
-                                            <Link href="/iv-drip-therapy/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -253,7 +261,7 @@ digestive system and clearer complexion.</p>
 Cysteine, Probiotic Blend, Psyllium Husk.
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -282,7 +290,7 @@ faster and feel refreshed.</p>
 Ondansetron, Ketorolac.
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -324,7 +332,7 @@ feeling.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>   Vitamin B12, B- Complex, L-Carnitine, MIC
 (Methionine, Inositol, Choline).
 </p>
-                                            <Link href="/iv-drip-therapy/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -361,7 +369,7 @@ Taurine, Glutamine, Arginine.
 
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -392,7 +400,7 @@ bounce back quickly.</p>
   Vitamin C, B-Complex, Magnesium, Zinc, Glutathione, Selenium, Lysine.
 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -432,7 +440,7 @@ combating anemia and enhancing overall vitality.
     <b>Ingredients:</b>
     Iron Sucrose, Vitamin C, B12, Folic Acid.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -458,7 +466,7 @@ combating the effects of stress and dehydration. It offers a complete reset for 
   Vitamin C, B-Complex, B12,
 Magnesium, Calcium, Zinc, Glutathione, Biotin.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -498,7 +506,7 @@ promoting overall wellness from within.</p>
 <p className="productIngr twoDotLine">
     <b>600mg: Kes </b> <b>1200mg: Kes</b> <b>2400mg: Kes</b>
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -544,7 +552,7 @@ appearance.
 Collagen Peptides,
 Vitamin E, Zinc, Silica.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -575,7 +583,7 @@ support.</p>
 Glutathione, Hyaluronic
 Acid, Alpha Lipoic Acid.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -619,7 +627,7 @@ reproductive wellness.
     <b>Ingredients:  </b> CoQ10, L-Carnitine, Zinc, Selenium, Vitamin C, Vitamin E, Folate, Maca Root
 Extract, Ashwagandha Extract.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -651,7 +659,7 @@ tailored plan that encompasses all aspects of female reproductive health.
     Myo-Inositol, D-Chiro-Inositol, Folate, Vitamin D3, Omega-3 Fatty Acids,
 NAC (N-Acetyl Cysteine), CoQ10, Black Cohosh, Vitex Agnus-Castus.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -683,7 +691,7 @@ reproductive wellness.
     <b>Ingredients:  </b> CoQ10, L-Carnitine, Zinc, Selenium, Vitamin C, Vitamin E, Folate, Maca Root
 Extract, Ashwagandha Extract.
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -726,7 +734,7 @@ optimized cellular health.
     <b>250mg: $450</b>
     <b>500mg: $800</b>
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -765,7 +773,7 @@ power of targeted hydration and nutrient delivery.</p>
 <p className="productIngr twoDotLine">
     <b>Starting From  $350</b> 
 </p>
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -794,7 +802,7 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Super B's Booster</h4>
                                             <h5>B-Complex</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -810,7 +818,7 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Sunshine</h4>
                                             <h5>Vitamin D</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -826,7 +834,7 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Biotin</h4>
                                             <h5>Vitamin B7</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -842,7 +850,7 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Slim Boost</h4>
                                             <h5>Fat Burner</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -859,7 +867,7 @@ power of targeted hydration and nutrient delivery.</p>
 </h4>
                                             <h5>Vitamin B12</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -875,7 +883,225 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Co-Enzyme Q10</h4>
                                             <h5>Energy & Recovery</h5>
                                             
-                                            <Link href="/iv-drip-therapy/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                            </Swiper>
+                        </div>
+                    </div>
+            </div>
+          )}
+           {/* munjaroozempic */}
+              {activeTab === "munjaroozempic" && (
+              <div>
+              <div className="service-wrapper">
+                        <div className="swiper service-slider">
+                            <Swiper {...swiperOptions} className="swiper-wrapper">
+                                                             
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/b_complex.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Super B's Booster</h4>
+                                            <h5>B-Complex</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Sunshine</h4>
+                                            <h5>Vitamin D</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Biotin</h4>
+                                            <h5>Vitamin B7</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Slim Boost</h4>
+                                            <h5>Fat Burner</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>B12 Energy Booster
+</h4>
+                                            <h5>Vitamin B12</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Co-Enzyme Q10</h4>
+                                            <h5>Energy & Recovery</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                            </Swiper>
+                        </div>
+                    </div>
+            </div>
+          )}
+          {/* Botox */}
+              {activeTab === "botox" && (
+              <div>
+              <div className="service-wrapper">
+                        <div className="swiper service-slider">
+                            <Swiper {...swiperOptions} className="swiper-wrapper">
+                                                             
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/botox_img.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Botox</h4>
+                                            <h5>The Art of Ageless Expression</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Sunshine</h4>
+                                            <h5>Vitamin D</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Biotin</h4>
+                                            <h5>Vitamin B7</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Slim Boost</h4>
+                                            <h5>Fat Burner</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                 <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>B12 Energy Booster
+</h4>
+                                            <h5>Vitamin B12</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Co-Enzyme Q10</h4>
+                                            <h5>Energy & Recovery</h5>
+                                            
+                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>

@@ -31,23 +31,28 @@ export default function Menu() {
                                             IMMUNITY & RECOVERY                                          
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/hydromax" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn">
                                             DETOXIFY & CLEANSE  
                                             {/* <span>Hydration & Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/ultraviv" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/ultraviv" className="theme-btn">
                                             WEIGHT & PERFORMANCE
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/megaboost" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/megaboost" className="theme-btn">
                                             ENERGY & BRAIN
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/vitaglow" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/vitaglow" className="theme-btn">
                                             GLUTATHIONE
+                                            {/* <span>Beauty & Pro-Aging</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
+                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" className="theme-btn">
+                                            Munjaro & Ozempic
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
@@ -55,29 +60,34 @@ export default function Menu() {
                                 </div>
                                 <div className="homemenu">
                                     <div className="demo-button">
-                                        <Link href="/iv-drip-therapy/royal-flush" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/royal-flush" className="theme-btn">
                                            HAIR, NAILS & SKIN
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/formerly-heliix" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/formerly-heliix" className="theme-btn">
                                            FERTILITY
                                             {/* <span>Detox</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/nad" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/nad" className="theme-btn">
                                             NAD+
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv-drip-therapy/personalised-iv" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/personalised-iv" className="theme-btn">
                                             CUSTOMERISED IV'S
 
                                             {/* <span>Tailored to your Goals</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                         <Link href="/iv-drip-therapy/ultraviv-pro" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/ultraviv-pro" className="theme-btn">
                                            BOOSTER SHOTS
+                                            {/* <span>Recovery</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
+                                        <Link href="/iv_drip_therapy_pro/botox" className="theme-btn">
+                                          Botox
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>

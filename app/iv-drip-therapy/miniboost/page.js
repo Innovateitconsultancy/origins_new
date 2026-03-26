@@ -1,7 +1,7 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import HeroSection from "@/components/sections/HeroSection"
-// import HeroAboutUsSection from "@/iv-drip-therapy/HeroAboutUsSection"
+// import HeroAboutUsSection from "@/iv_drip_therapy_pro/HeroAboutUsSection"
 
 
 export const metadata = {

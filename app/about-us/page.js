@@ -61,7 +61,7 @@ export default function AboutUs() {
                                         <div className="row g-4 justify-content-between topBottm30">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             
@@ -96,14 +96,14 @@ We believe that wellness should be accessible, personalized, and results-driven.
                                             </div>
                                              <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             </div>
                                             <div className="row g-4 justify-content-between topBottm30">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             
@@ -127,14 +127,14 @@ We believe that wellness should be accessible, personalized, and results-driven.
                                             </div>
                                              <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             </div>
                                                <div className="row g-4 justify-content-between">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             
