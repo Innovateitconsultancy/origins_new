@@ -221,8 +221,7 @@ export default function Hydromax() {
                                                                        <li><i className="fa-regular fa-circle-check"></i> Energy</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
-                                                                       </ul>
-                                                                  
+                                                                       </ul>                                                                  
                                                                    </div>                                                   
                                                            </div>
                                                        </div>
