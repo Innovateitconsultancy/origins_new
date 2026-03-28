@@ -37,19 +37,21 @@ export default function ImmunityRecovery() {
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Immune Boost IV Treatment
+           <h1> Feel Better. Faster. <br/>
+         <b> Hydration IV Therapy for Instant Energy & Recovery</b>  
 </h1>
-           <h2><i>$</i>299</h2>
-           <p className="blackText">Strengthen & Protect</p>
+<h2>
+    Rehydrate • Revive • Restore
+</h2>
+           {/* <h2><i>$</i>299</h2> */}
+           {/* <p className="blackText">Strengthen & Protect</p> */}
 
-           <div className="text">
-               Our immunity IV includes a blend of IV fluids, vitamins, and antioxidants that can help cleanse your body and supercharge your immune system to fight off illness.
-               </div>
-                <p><b className="blackText">Ingredients</b>:  B-Complex Vitamins, Vitamin B12, Vitamin C, Glutathione</p>
+         
+               
                    <div className="heroBannerBtns">
-                                               <Link href="/contact"  >BOOK IV THERAPY</Link >
-                                               <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
-                                               {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
+                                               <Link href="/contact"  >BOOK NOW</Link >
+                                               {/* <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link> */}
+                                             
                    </div>
                
                                </div>
@@ -130,18 +132,9 @@ export default function ImmunityRecovery() {
                                                                  <div className="service-content">
                                            
                                            
-                                            <p className="threeDotLine">This deep tissue replenishment therapy is designed to restore
-optimal fluid balance and vitality. By delivering essential
-fluids and electrolytes directly into your system, it rapidly
-alleviates symptoms of dehydration, fatigue, and burnout,
-leaving your skin radiant and your body revitalized. Perfect
-for post-travel recovery or after intense physical exertion.</p>
-<p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
-Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
-</p>
-                                            <Link href="/contact" className="theme-btn-new mt-3">
-                                               <span>Book Now CTA<i className="fa-solid fa-arrow-right-long"></i></span>
-                                            </Link>
+                                            <p className="">Hydration IV Drip Therapy is a fast and effective way to restore your body’s fluid balance and improve overall wellness. By delivering fluids, electrolytes, and essential nutrients directly into your bloodstream, this treatment works instantly without relying on digestion. It is ideal for individuals experiencing dehydration, fatigue, or low energy, helping the body recover quickly and regain optimal performance and hydration levels. </p>
+
+                                           <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                           
                                         </div>
                                                                
@@ -153,19 +146,11 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Our Approach to Wellness</h3>
+                                                               {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-                                                                   At  IV Bar Wellness Clinic, we <b>combine modern medical practices with a personalized wellness approach</b>.
-                                                                    Every client receives individual attention to ensure the most suitable IV therapy solution for their needs.
-                                                                    </p>
-                                                                    <p>
-                                                           Our process begins with a brief consultation to understand your health goals, after which our trained professionals recommend the most appropriate IV therapy treatment.
-                                                           </p>
-                                                           <p>
-                                                           Our focus is on providing a <b>safe, comfortable, and relaxing environment </b> where you can recharge your body and feel revitalized.
-           
+                                                                   This therapy is widely used to treat dehydration caused by illness, heat exposure, travel, or intense physical activity. IV hydration bypasses the digestive system, allowing faster absorption of fluids and nutrients directly into the bloodstream for immediate results. It helps relieve symptoms such as dizziness, weakness, nausea, and headaches while restoring electrolyte balance and supporting vital body functions. The treatment is safe, effective, and administered by trained professionals, ensuring a comfortable experience with rapid recovery and noticeable improvement in energy and overall well-being. 
                                                                </p>
-                                                              
+                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
@@ -183,9 +168,22 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Our Mission</h3>
-                                                               <p>Our mission is to help individuals improve their health and well-being by providing safe, effective, and high-quality IV therapy treatments that support modern lifestyles. </p>
-                                                              
+                                                               <h3>Key Benefits</h3>
+                                                               <div>
+                                                                   <ul className="list mb-4">
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Rapid hydration and instant energy boost
+
+
+
+
+</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Improves skin glow and overall wellness</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Relieves fatigue, headaches, and jet lag</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Supports recovery after illness or workouts</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Enhances mental clarity and focus</li></ul>
+                                                                  
+                                                                   </div>   
+                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                        </div>
@@ -193,10 +191,11 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Our Vision</h3>
+                                                               {/* <h3>Our Vision</h3> */}
                                                                <p>
-                                                                  To become a trusted wellness destination where people can enhance their health, restore balance, and experience the benefits of advanced nutrient therapy. </p>
-                                                                   
+At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed to provide fast, safe, and effective hydration tailored to your body’s needs. Each session begins with a quick consultation to assess your hydration levels, lifestyle, and health concerns, allowing us to customize the ideal blend of fluids and electrolytes. Our IV solutions may include saline, essential electrolytes, and vitamins that help restore balance, improve circulation, and support overall wellness. The procedure is simple, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical setting, the therapy ensures safety and optimal results. Whether you are recovering from illness, overcoming fatigue, or preparing for travel, our hydration therapy helps you feel refreshed, energized, and revitalized. Experience faster recovery, improved hydration, and enhanced vitality with our advanced IV solutions designed for modern lifestyles. 
+</p>      
+ <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
@@ -214,14 +213,20 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Why Choose IV Bar Wellness Clinic</h3>
+                                                               <h3>Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Professional and trained healthcare staff</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Safe and medically supervised treatments</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> High-quality vitamins and nutrients</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Comfortable and relaxing clinic environment</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Personalized wellness solutions</li></ul>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Dehydration</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fatigue</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Hangover</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
+                                                                        <li><i className="fa-regular fa-circle-check"></i> Skin Glow</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy Boost</li>
+                                                                       </ul>
+                                                                        
+
+
                                                                   
                                                                    </div>                                                   
                                                            </div>

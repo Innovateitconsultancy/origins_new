@@ -37,18 +37,18 @@ export default function UltravIVPro() {
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Ultrav IV Pro Treatment
+           <h1> Boost Immunity. Enhance Glow. <br/>
+           <b>High-Dose Vitamin C IV Therapy for Wellness & Recovery</b>
 </h1>
-           <h2><i>$</i>299</h2>
-           <p className="blackText">Strengthen & Protect</p>
+<h2>Stronger • Brighter • Healthier</h2>
+           {/* <h2><i>$</i>299</h2> */}
+           <p className="blackText">Stronger • Brighter • Healthier</p>
 
-           <div className="text">
-               Our immunity IV includes a blend of IV fluids, vitamins, and antioxidants that can help cleanse your body and supercharge your immune system to fight off illness.
-               </div>
-                <p><b className="blackText">Ingredients</b>:  B-Complex Vitamins, Vitamin B12, Vitamin C, Glutathione</p>
+          
+              
                    <div className="heroBannerBtns">
-                                               <Link href="/contact"  >BOOK IV THERAPY</Link >
-                                               <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
+                                               <Link href="/contact"  >BOOK NOW</Link >
+                                               {/* <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link> */}
                                                {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
                
@@ -126,22 +126,13 @@ export default function UltravIVPro() {
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Hydrate| Ultimate Hydration</h3>
+                                                               <h3>Boost Immunity. Enhance Glow.</h3>
                                                                  <div className="service-content">
                                            
                                            
-                                            <p className="threeDotLine">This deep tissue replenishment therapy is designed to restore
-optimal fluid balance and vitality. By delivering essential
-fluids and electrolytes directly into your system, it rapidly
-alleviates symptoms of dehydration, fatigue, and burnout,
-leaving your skin radiant and your body revitalized. Perfect
-for post-travel recovery or after intense physical exertion.</p>
-<p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
-Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
+                                            <p className="">Vitamin C IV Therapy delivers high-quality antioxidants directly into your bloodstream to support immunity, boost energy, and improve overall wellness. Unlike oral supplements, this therapy ensures maximum absorption, helping your body respond faster and more effectively. It is ideal for individuals looking to strengthen their immune system, enhance skin health, and protect against daily stress and environmental damage.
 </p>
-                                            <Link href="/contact" className="theme-btn-new mt-3">
-                                               <span>Book Now CTA<i className="fa-solid fa-arrow-right-long"></i></span>
-                                            </Link>
+                                           <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                           
                                         </div>
                                                                
@@ -155,17 +146,9 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                            <div className="details-content pt-5">
                                                                <h3>Our Approach to Wellness</h3>
                                                                <p>
-                                                                   At  IV Bar Wellness Clinic, we <b>combine modern medical practices with a personalized wellness approach</b>.
-                                                                    Every client receives individual attention to ensure the most suitable IV therapy solution for their needs.
-                                                                    </p>
-                                                                    <p>
-                                                           Our process begins with a brief consultation to understand your health goals, after which our trained professionals recommend the most appropriate IV therapy treatment.
-                                                           </p>
-                                                           <p>
-                                                           Our focus is on providing a <b>safe, comfortable, and relaxing environment </b> where you can recharge your body and feel revitalized.
-           
+                                                                  This therapy offers flexible dosing options tailored to your specific health needs, allowing for targeted support ranging from general wellness to high-dose antioxidant therapy. Vitamin C plays a vital role in collagen production, immune defense, and cellular repair, making it essential for maintaining optimal health. IV administration bypasses the digestive system, ensuring higher bioavailability and faster results compared to oral intake. It helps reduce fatigue, fight infections, and support recovery while promoting brighter skin and improved vitality, making it a powerful addition to your wellness routine.
                                                                </p>
-                                                              
+                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
@@ -183,9 +166,22 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Our Mission</h3>
-                                                               <p>Our mission is to help individuals improve their health and well-being by providing safe, effective, and high-quality IV therapy treatments that support modern lifestyles. </p>
-                                                              
+                                                               {/* <h3>Our Mission</h3> */}
+                                          <p>
+                                            Vitamin C Therapy supports overall health while delivering powerful antioxidant protection to your body.
+                                            </p>    
+                                             <div>
+                                                                   <ul className="list mb-4">
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Skin Glow</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       </ul>
+                                                                </div>  
+                                           <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                
                                                            </div>
                                                        </div>
                                                        </div>
@@ -195,8 +191,9 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                            <div className="details-content pt-5">
                                                                <h3>Our Vision</h3>
                                                                <p>
-                                                                  To become a trusted wellness destination where people can enhance their health, restore balance, and experience the benefits of advanced nutrient therapy. </p>
-                                                                   
+                                                                    At IV Bar Wellness Clinic, our Vitamin C (Varied Doses) Therapy is designed to provide personalized care based on your individual health goals and requirements. Each session begins with a brief consultation to determine the appropriate dosage, ensuring safe and effective treatment tailored to your body. Our IV formulations deliver high-quality Vitamin C directly into your bloodstream, helping to neutralize free radicals, strengthen immune defenses, and support faster recovery from illness or fatigue. This therapy is also beneficial for improving skin health, boosting collagen production, and enhancing overall radiance. Administered by trained professionals in a safe and hygienic clinical environment, the procedure is comfortable and typically completed within 30 to 45 minutes. Whether you are looking to boost immunity, improve skin vitality, or support your body during periods of stress, our Vitamin C therapy offers a reliable and effective solution. Experience enhanced wellness, improved energy, and long-lasting benefits with our advanced IV treatments.                                                                  
+                                                                </p>
+                                                                   <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >  
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
@@ -214,14 +211,17 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Why Choose IV Bar Wellness Clinic</h3>
+                                                               <h3>Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Professional and trained healthcare staff</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Safe and medically supervised treatments</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> High-quality vitamins and nutrients</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Comfortable and relaxing clinic environment</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Personalized wellness solutions</li></ul>
+                                                                        <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Skin Glow</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       </ul>
                                                                   
                                                                    </div>                                                   
                                                            </div>

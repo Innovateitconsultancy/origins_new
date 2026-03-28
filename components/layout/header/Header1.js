@@ -25,8 +25,8 @@ export default function Header1({
                             </ul> */}
                             <div className="top-right">
                                 <div className="social-icon d-flex align-items-center">
-                                     <Link href="/mailto:info@example.com" className="link"><i className="far fa-envelope" /> info@example.com</Link>
-                                      <Link href="/tel:+911234567890"> <i className="fa-solid fa-phone-volume" /> +91-12345-67890</Link>
+                                     <Link href="/mailto:infidexlimited@gmail.com" className="link"><i className="far fa-envelope" /> infidexlimited@gmail.com</Link>
+                                      <Link href="/tel:+254707053367"> <i className="fa-solid fa-phone-volume" /> +254707053367</Link>
                                     {/* <Link href="/">Blog</Link>
                                     <Link href="/">Clinics</Link>
                                     <Link href="/">Join Us</Link>

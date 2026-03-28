@@ -13,7 +13,7 @@ export default function Contact() {
                         <div className="container">
                             <div className="contact-wrapper-2">
                                 <div className="row g-4 align-items-center1">
-                                    <div className="col-lg-6">
+                                    <div className="col-lg-5">
                                         <div className="contact-left-items">
                                             <div className="contact-info-area-2">
                                                 <div className="contact-info-items mb-4">
@@ -26,7 +26,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call Us 7/24</p>
                                                         <h3>
-                                                            <Link href="/tel:+2085550112">+208-555-0112</Link>
+                                                            <Link href="/tel:+254707053367">+254707053367</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -41,7 +41,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="/mailto:infotech@gmail.com">Infotech@gmail.com</Link>
+                                                            <Link href="/mailto:infidexlimited@gmail.com">infidexlimited@gmail.com</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -55,7 +55,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                            4517 Washington ave.
+                                                            James Gichuru, Lavington
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -66,7 +66,7 @@ export default function Contact() {
                                             </div> */}
                                         </div>
                                     </div>
-                                    <div className="col-lg-6">
+                                    <div className="col-lg-7">
                                         <div className="contact-content">
                                             <h2>Ready to Get Started?</h2>
                                             <p>
@@ -83,7 +83,7 @@ export default function Contact() {
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
                                                         <div className="form-clt">
                                                             <span>Phone No.*</span>
-                                                            <input type="number" name="phoneno" id="phone_no" placeholder="Preferred Date" />
+                                                            <input type="text" name="phoneno" id="phone_no" placeholder="Phone No." />
                                                         </div>
                                                     </div>
                                                      <div className="col-lg-6 wow fadeInUp" data-wow-delay=".5s">
@@ -100,13 +100,13 @@ export default function Contact() {
                                                     </div>
                                                      <div className="col-lg-12 wow fadeInUp" data-wow-delay=".5s">
                                                         <div className="form-clt">
-                                                            <span>Your Email*</span>
+                                                            <span>Your Email</span>
                                                             <input type="text" name="email" id="email" placeholder="Your Email" />
                                                         </div>
                                                     </div>
                                                     <div className="col-lg-12 wow fadeInUp" data-wow-delay=".7s">
                                                         <div className="form-clt">
-                                                            <span>Write Message*</span>
+                                                            <span>Write Message</span>
                                                             <textarea name="message" id="message" placeholder="Write Message" />
                                                         </div>
                                                     </div>
