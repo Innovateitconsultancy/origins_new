@@ -207,7 +207,7 @@ export default function Hydromax() {
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
                                                                                                    </div>
-                                                           </div>
+                                                           </div> 
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
