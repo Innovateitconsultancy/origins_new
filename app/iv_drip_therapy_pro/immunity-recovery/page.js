@@ -171,18 +171,12 @@ export default function ImmunityRecovery() {
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Rapid hydration and instant energy boost
-
-
-
-
-</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Rapid hydration and instant energy boost</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i>  Improves skin glow and overall wellness</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Relieves fatigue, headaches, and jet lag</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Supports recovery after illness or workouts</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Enhances mental clarity and focus</li></ul>
-                                                                  
-                                                                   </div>   
+                                                                </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
