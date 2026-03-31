@@ -141,7 +141,7 @@ for post-travel recovery or after intense physical exertion.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>  Balanced Electrolytes, Sodium Chloride, Potassium Chloride, Calcium
 Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/immunity-recovery/hydrate_ultimate_uydration" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -167,7 +167,7 @@ specific wellness needs for maximum benefit.</p>
      Ascorbic Acid (Vitamin C), Zinc, B-Complex Vitamins, Alpha-Lipoic Acid.
 
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/immunity-recovery/vitamin_c_varied_doses" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -195,7 +195,7 @@ seasons or times of stress.</p>
 D, Selenium.
 
 </p>
-                                            <Link href="/iv_drip_therapy_pro/immunity_booster" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/immunity-recovery/immunity_cold_flu_booster" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
