@@ -140,6 +140,21 @@ export default function UltravIVPro() {
                                                            </div>
                                                        </div>
                                                        </div>
+
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                     </div>
+                                </div>
+                             </section>
+                            <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
@@ -157,6 +172,21 @@ export default function UltravIVPro() {
                                                                                                    </div>
                                                            </div>
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div> 
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                            </section>
+<section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
@@ -185,6 +215,21 @@ export default function UltravIVPro() {
                                                            </div>
                                                        </div>
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div> 
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                            </section>
+<section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
@@ -202,6 +247,22 @@ export default function UltravIVPro() {
                                                                                                    </div>
                                                            </div>
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div> 
+                                                       </div>
+                                                       </div>
+                                                       
+                            </section>
+                            <section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                           <div className="row g-4 justify-content-between">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
@@ -211,8 +272,8 @@ export default function UltravIVPro() {
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
-                                                               <div>
+                                                               <h3 className="text-center">Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
+                                                               <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
                                                                         <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i>  Skin Glow</li>
@@ -227,14 +288,15 @@ export default function UltravIVPro() {
                                                            </div>
                                                        </div>
                                                        </div>
-                                               </div>
-                                           </div>
-                                       </div>
-                                   </div>
-                               </div>
-                           </section>
+                                             </div>
+                                                       </div>
+                                                       </div>
+                                                       </div> 
+                                                       </div>
+                                                       </div>
+                            </section>  
                           <BlogSection />
-                                          <SubscribeSection />
+                             <SubscribeSection />
                        </Layout>
         </>
     )

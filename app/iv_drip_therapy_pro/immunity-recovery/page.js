@@ -142,6 +142,20 @@ export default function ImmunityRecovery() {
                                                            </div>
                                                        </div>
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </section>
+                                                       <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
@@ -159,6 +173,21 @@ export default function ImmunityRecovery() {
                                                                                                    </div>
                                                            </div>
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </section>
+                                                     <section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
@@ -180,7 +209,23 @@ export default function ImmunityRecovery() {
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
+                                                       </div>  
                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </section>
+                                                      
+                                                       <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                               <div className="container">
+                                   <div className="project-details-wrapper">
+                                       <div className="row">
+                                           <div className="col-lg-12">
+                                               <div className="project-details-items">
+                                                  
+                                                   <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
@@ -198,25 +243,22 @@ At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed t
                                                                                                    </div>
                                                            </div>
                                                        </div>
+                                                         
                                                           <div className="row g-4 justify-content-between">
-                                                           <div className="col-lg-6">
-                                                               <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
-                                                                                                   </div>
-                                                           </div>
+                                                          
                                                        
-                                                       <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
-                                                               <h3>Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
-                                                               <div>
-                                                                   <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Dehydration</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Fatigue</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Hangover</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
-                                                                        <li><i className="fa-regular fa-circle-check"></i> Skin Glow</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy Boost</li>
+                                                       <div className="col-lg-12">
+                                                           <div className="details-content ">
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <div className="iconsblockInfo">
+                                                                   <ul className=" mb-4">
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/dehydration.png" alt="Dehydration" /></i> Dehydration</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fatigue.png" alt="Fatigue" /></i> Fatigue</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/hangover.png" alt="Hangover" /></i> Hangover</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/immunity.png" alt="Immunity" /></i> Immunity</li>
+                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/skin_glow.png" alt="skin glow" /></i> Skin Glow</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="energy boost" /></i> Energy Boost</li>
                                                                        </ul>
                                                                         
 
@@ -226,12 +268,14 @@ At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed t
                                                            </div>
                                                        </div>
                                                        </div>
-                                               </div>
-                                           </div>
-                                       </div>
-                                   </div>
-                               </div>
-                           </section>
+                                                        </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </section>
+                                                       
                           <BlogSection />
                                           <SubscribeSection />
                        </Layout>

@@ -211,8 +211,8 @@ export default function Hydromax() {
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
-                                                               <div>
+                                                               <h3  className="text-center">Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
+                                                              <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
                                                                         <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i>  Skin Glow</li>

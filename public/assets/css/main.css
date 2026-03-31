@@ -7367,7 +7367,7 @@ input.main-search-input::placeholder {
 }
 
 .project-details-wrapper .project-details-items .details-content h3 {
-  font-size: 30px;
+  font-size: 40px;
   margin-bottom: 15px;
 }
 
@@ -10088,6 +10088,51 @@ h6 {
 .buttonBlack:hover {
     background-color: var(--theme);
 }
+
+/* margin css */
 .mrgT20{
-  margin-top: 20px;
+  margin-top: 20px!important;
 }
+.mrgB40{
+  margin-bottom: 40px!important;
+}
+/* end margin css */
+.iconsblockInfo ul {    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+    list-style: none;
+     font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 28px !important;
+    color:  var(--black);
+}
+.iconsblockInfo ul li {
+    display: flex;   
+    height: 280px;
+     flex-direction: column;
+    width: calc(25% - 28px);
+    gap: 8px;
+    align-items: center;
+    padding-top: 68px;
+    border: 2px solid var(--neutral-09);
+    border-radius: 20px;
+    box-sizing: border-box;
+     color:  var(--black);
+     border: 1px solid  var(--theme);;
+}
+.iconsblockInfo img {
+    max-width: 100px;
+}
+/* .iconsblockInfo ul li h5 {   
+    letter-spacing: -0.01em;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    color: var(--neutral-08);
+     font-family: Poppins !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 28px !important;
+} */
