@@ -232,7 +232,7 @@ and alleviate chronic symptoms associated with toxic
 build-up, promoting enhanced clarity and vitality.</p>
 <p className="productIngr twoDotLine"><b>Key Ingredients:</b>  EDTA, DMPS, Vitamin C, Glutathione, Alpha Lipoic Acid.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/detoxify_cleanse/heavy_metal_chelation_toxic_cleanse" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -261,7 +261,7 @@ digestive system and clearer complexion.</p>
 Cysteine, Probiotic Blend, Psyllium Husk.
 
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/detoxify_cleanse/detox_liver_gut_cleanse" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -290,7 +290,7 @@ faster and feel refreshed.</p>
 Ondansetron, Ketorolac.
 
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/detoxify_cleanse/post_party_hangover_recovery" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -332,7 +332,7 @@ feeling.</p>
 <p className="productIngr twoDotLine"><b>Ingredients:</b>   Vitamin B12, B- Complex, L-Carnitine, MIC
 (Methionine, Inositol, Choline).
 </p>
-                                            <Link href="/iv_drip_therapy_pro/miniboost" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -850,7 +850,7 @@ power of targeted hydration and nutrient delivery.</p>
                                             <h4>Slim Boost</h4>
                                             <h5>Fat Burner</h5>
                                             
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
