@@ -33,14 +33,14 @@ export default function UltravIVPro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner banner-immunity-recovery">
+                           <div className="heroBanner healing_recovery_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Recover Fast. Feel Refreshed. <br/>
-           <b>Hangover Recovery IV Therapy for Instant Relief</b>
+           <h1> Heal Faster. Recover Stronger.<br/>
+           <b>IV Therapy for Recovery, Healing & Wellness</b>
 </h1>
-<h2>Rehydrate • Revive • Recharge</h2>
+<h2>Restore • Repair • Revitalize</h2>
            {/* <h2><i>$</i>299</h2> */}
           
 
@@ -120,17 +120,18 @@ export default function UltravIVPro() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/healing_recovery_img.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-511">
-                                                               <h3>Boost Immunity. Enhance Glow.</h3>
+                                                               <h3>Recovery, Healing & Recovery Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
-                                            <p className="">Vitamin C IV Therapy delivers high-quality antioxidants directly into your bloodstream to support immunity, boost energy, and improve overall wellness. Unlike oral supplements, this therapy ensures maximum absorption, helping your body respond faster and more effectively. It is ideal for individuals looking to strengthen their immune system, enhance skin health, and protect against daily stress and environmental damage.
+                                            <p className="">
+Recovery, Healing & Recovery IV Therapy is designed to support your body’s natural healing process and restore overall wellness. By delivering essential fluids, vitamins, and nutrients directly into your bloodstream, this therapy helps accelerate recovery, reduce fatigue, and improve energy levels. It is ideal for individuals recovering from illness, physical strain, or stress, helping the body regain strength and balance more efficiently.
 </p>
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                           
@@ -161,14 +162,14 @@ export default function UltravIVPro() {
                                                            <div className="details-content pt-511">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-                                                                    Post Party Hangover Recovery IV Therapy is designed to help your body recover quickly after a night of celebration. By delivering fluids, electrolytes, vitamins, and antioxidants directly into your bloodstream, this therapy works faster than oral remedies. It helps relieve dehydration, headaches, nausea, and fatigue, allowing you to feel refreshed, rehydrated, and back to your normal energy levels in a short time.                                                               
+                                                                This therapy provides targeted nutrients that support cellular repair, immune function, and overall recovery. IV administration ensures rapid absorption, allowing your body to utilize these nutrients effectively without digestive loss. It helps reduce fatigue, support tissue repair, and improve energy levels while promoting faster recovery from illness, injury, or physical stress. Administered by trained professionals in a safe clinical setting, the treatment ensures comfort, safety, and optimal results, helping you feel stronger, refreshed, and more balanced.
                                                                     </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_24.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -190,7 +191,7 @@ export default function UltravIVPro() {
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_23.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -198,16 +199,17 @@ export default function UltravIVPro() {
                                                            <div className="details-content pt-511">
                                                                {/* <h3>Our Mission</h3> */}
                                           <p>
-                                            This therapy helps restore hydration and energy while reducing common hangover symptoms for faster recovery and improved comfort.                                           
-                                             </p>    
+                                    This therapy supports healing and recovery while helping your body regain strength, energy, and overall balance.    <br/>
+                                        <b>Key Benefits</b>
+                                     </p>    
                                              <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Hangover Relief</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Hydration</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Healing</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Immunity</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Strength</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Repair</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
                                                                        </ul>
                                                                 </div>  
@@ -236,29 +238,29 @@ export default function UltravIVPro() {
                                                            <div className="details-content pt-511">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-                                                                    At IV Bar Wellness Clinic, our Vitamin C (Varied Doses) Therapy is designed to provide personalized care based on your individual health goals and requirements. Each session begins with a brief consultation to determine the appropriate dosage, ensuring safe and effective treatment tailored to your body. Our IV formulations deliver high-quality Vitamin C directly into your bloodstream, helping to neutralize free radicals, strengthen immune defenses, and support faster recovery from illness or fatigue. This therapy is also beneficial for improving skin health, boosting collagen production, and enhancing overall radiance. Administered by trained professionals in a safe and hygienic clinical environment, the procedure is comfortable and typically completed within 30 to 45 minutes. Whether you are looking to boost immunity, improve skin vitality, or support your body during periods of stress, our Vitamin C therapy offers a reliable and effective solution. Experience enhanced wellness, improved energy, and long-lasting benefits with our advanced IV treatments.                                                                  
+                                                                    At IV Bar Wellness Clinic, our Recovery, Healing & Recovery Therapy is designed to provide comprehensive support for your body during periods of healing and restoration. Each session begins with a consultation to understand your condition, lifestyle, and recovery goals, allowing us to customize the therapy for maximum effectiveness. Our IV formulations include essential fluids, vitamins, and nutrients that help support cellular repair, boost immunity, and improve overall energy levels. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety and optimal outcomes. Whether you are recovering from illness, managing fatigue, or supporting your body after physical exertion, this therapy provides a reliable and effective solution. Experience improved recovery, enhanced energy, and better overall wellness with our advanced IV treatments.
                                                                 </p>
                                                                    <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >  
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_22.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                           
                                                        <div className="col-lg-12">
                                                            <div className="details-content pt-5">
-                                                               <h3 className="section-title text-center mrgB40">Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
+                                                               <h3 className="section-title text-center mrgB40">Best uses for <b> Recovery, Healing & Recovery Therapy</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
-                                                                        <li><i className=""><img  src="/assets/img/icons/hangover.png" alt="Hangover Relief" /></i> Hangover Relief</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/hydration.png" alt="Hydration"/></i>  Hydration</li>
-                                                                        <li><i className=""><img  src="/assets/img/icons/recovery.png" alt="Recovery"/></i> Recovery</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/energyboost.png" alt="Energy Boost"/></i> Energy Boost</li>                                                                      
-                                                                       <li><i className=""><img  src="/assets/img/icons/detox.png" alt="Detox"/></i> Detox</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/hangover.png" alt="Headache Relief"/></i> Headache Relief</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/nausea_relief.png" alt="Nausea Relief"/></i> Nausea Relief</li>
+                                                                    <li><i className=""><img  src="/assets/img/icons/recovery.png" alt="Recovery"/></i> Recovery</li>
+                                                                        <li><i className=""><img  src="/assets/img/icons/healing.png" alt="Healing" /></i> Healing</li>
+                                                                        <li><i className=""><img  src="/assets/img/icons/energyboost.png" alt="Energy Boost"/></i> Energy Boost</li> 
+                                                                       <li><i className=""><img  src="/assets/img/icons/immunity.png" alt="Immunity"/></i>  Immunity</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/fatigue_relief.png" alt="Fatigue Relief"/></i> Fatigue Relief</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/muscle_repair.png" alt="Muscle Repair"/></i> Muscle Repair</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/vitality.png" alt="Vitality"/></i> Vitality</li>
                                                                        </ul>
                                                                   
                                                                    </div>                                                   

@@ -33,7 +33,7 @@ export default function UltravIVPro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner banner-immunity-recovery">
+                           <div className="heroBanner detoxic_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
@@ -120,7 +120,7 @@ export default function UltravIVPro() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/detoxic_img.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -170,7 +170,7 @@ Detox Liver & Gut Cleanse Therapy is designed to support your body’s natural d
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_9.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -192,7 +192,7 @@ Detox Liver & Gut Cleanse Therapy is designed to support your body’s natural d
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -245,7 +245,7 @@ Detox Liver & Gut Cleanse Therapy is designed to support your body’s natural d
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_11.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                           

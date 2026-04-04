@@ -9861,7 +9861,7 @@ h1 {
 }
 
 .service-card-items .service-content h4 {
-  font-size: 30px;
+  font-size: 29px;
   color: var(--black);
   margin-bottom: 40px;
 }
@@ -10025,7 +10025,39 @@ h6 {
 .heroBanner.banner-immunity-recovery {
   background: url(../../assets/img/banner-immunity-recovery.jpg) no-repeat;
 }
-
+.heroBanner.banner-immunity-cold {
+  background: url(../../assets/img/banner-immunity-cold.jpg) no-repeat;
+}
+.heroBanner.vitamin_c_banner {
+  background: url(../../assets/img/vitamin_c_banner.jpg) no-repeat;
+}
+.heroBanner.detoxic_banner {
+  background: url(../../assets/img/detoxic_banner.jpg) no-repeat;
+}
+.heroBanner.hangover_recovery_banner {
+  background: url(../../assets/img/hangover_recovery_banner.jpg) no-repeat;
+}
+.heroBanner.fitness_banner {
+  background: url(../../assets/img/fitness_banner.jpg) no-repeat;
+}
+.heroBanner.hydration_banner {
+  background: url(../../assets/img/hydration_banner.jpg) no-repeat;
+}
+.heroBanner.toxic_banner {
+  background: url(../../assets/img/toxic_banner.jpg) no-repeat;
+}
+.heroBanner.healing_recovery_banner {
+  background: url(../../assets/img/healing_recovery_banner.jpg) no-repeat;
+}
+.heroBanner.fat_burner_banner {
+  background: url(../../assets/img/fat_burner_banner.jpg) no-repeat;
+}
+.heroBanner.blood_boost_iron_therapy {
+  background: url(../../assets/img/blood_boost_iron_therapy_b.jpg) no-repeat;
+}
+.heroBanner.wellness_replenish_revitalise {
+  background: url(../../assets/img/wellness_replenish_revitalise.jpg) no-repeat;
+}
 .heroBannerRight .recommendedAddons {
   list-style: none;
   display: flex;
@@ -10136,3 +10168,37 @@ h6 {
     font-weight: 500 !important;
     line-height: 28px !important;
 } */
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 30px;
+}
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent {
+    width: 100%;
+}
+.service-card-items .service-content h4 {
+    font-size: 26px;
+}
+.accordion.accordionHowItWork summary {
+    line-height: 26px;
+    font-size: 23px;
+}
+.subcribeContent h2 {
+    font-size: 30px !important;
+    font-weight: 400 !important;
+    line-height: 36px !important;
+    margin-bottom: 16px;
+    color: var(--black);
+    max-width: 100%;
+}
+.subcribeContent form input {
+    min-width: 300px;
+}
+.subcribeContent form div {
+    padding: 10px 0px 10px 0px;
+    flex: 1 0 0px;
+}
+.heroBannerRight{
+  display: none;
+}
+}

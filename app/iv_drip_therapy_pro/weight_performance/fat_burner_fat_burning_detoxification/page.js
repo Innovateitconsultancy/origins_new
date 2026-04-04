@@ -33,7 +33,7 @@ export default function UltravIVPro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner banner-immunity-recovery">
+                           <div className="heroBanner fat_burner_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
@@ -122,7 +122,7 @@ Fat Burner IV Therapy for Energy & Detox</b>
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -172,7 +172,7 @@ This therapy works by supplying key nutrients that aid in fat metabolism, energy
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_16.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -194,7 +194,7 @@ This therapy works by supplying key nutrients that aid in fat metabolism, energy
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_17.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -247,7 +247,7 @@ At IV Bar Wellness Clinic, our Fat Burner – Fat Burning & Detoxification Thera
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_18.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                           

@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Immunity Recovery ',
-    description: 'Immunity Recoverys IV Drip Therapy & IV Vitamin Infusions',
+    title: 'The Athlete – Fitness & Performance Therapy',
+    description: 'Perform Better. Recover Faster. Athlete IV Therapy for Strength, Endurance & Recovery 🏃 Train • Perform • Recover',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner banner-immunity-recovery">
+                           <div className="heroBanner fitness_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Detox Your Body. Restore Balance. <br/>
-         <b> Heavy Metal Chelation Therapy for Deep Cleansing & Wellness</b>  
+           <h1> Perform Better. Recover Faster.<br/>
+         <b> Athlete IV Therapy for Strength, Endurance & Recovery  </b>  
 </h1>
 <h2>
-   Cleanse • Purify • Revitalize
+  Train • Perform • Recover
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/fitness_img.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Heavy Metal Chelation Therapy for Deep Cleansing & Wellness</h3>
+                                                               <h3>The Athlete – Fitness & Performance Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-                                                Heavy Metal Chelation Toxic Cleanse Therapy is designed to help remove harmful toxins and heavy metals from the body, supporting overall health and wellness. By delivering specialized chelating agents through IV infusion, this therapy binds to toxins and assists in their safe elimination. It is ideal for individuals exposed to environmental pollutants or looking to detoxify and restore balance, energy, and long-term well-being.
+The Athlete IV Therapy is designed to enhance physical performance, boost endurance, and support faster recovery. By delivering essential fluids, vitamins, and amino acids directly into your bloodstream, this therapy works efficiently to fuel your body and improve stamina. It is ideal for athletes, fitness enthusiasts, and active individuals looking to optimize performance, reduce fatigue, and maintain peak physical condition.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ export default function ImmunityRecovery() {
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-                                                                This therapy works by using chelating compounds that bind to heavy metals such as lead, mercury, and other toxins, allowing them to be safely flushed out of the body. IV administration ensures efficient delivery and faster action compared to oral detox methods. It supports improved organ function, enhanced circulation, and reduced toxic load, which may contribute to better energy levels and overall vitality. Administered by trained professionals in a controlled clinical setting, the treatment is safe, effective, and designed to promote gradual and sustained detoxification.                                                              
+This therapy provides key nutrients that support muscle recovery, hydration, and energy production, helping your body perform at its best. IV administration ensures rapid absorption, allowing nutrients to reach your cells faster without digestive loss. It helps reduce muscle soreness, improve endurance, and enhance overall performance while supporting quicker recovery after intense workouts or physical activity. Administered by trained professionals in a safe clinical environment, the treatment ensures effective results and helps you stay active, strong, and consistent in your fitness journey.
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,24 +193,26 @@ export default function ImmunityRecovery() {
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_20.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-                                                                This therapy helps cleanse the body from harmful toxins while supporting overall wellness and internal balance.
+                                                               This therapy supports performance and recovery while helping your body stay energized, hydrated, and ready for peak activity.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Circulation</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Balance</li>
+
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Performance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Endurance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Hydration</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy </li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Strength </li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Stamin</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -239,14 +241,14 @@ export default function ImmunityRecovery() {
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-                                                                At IV Bar Wellness Clinic, our Heavy Metal Chelation Toxic Cleanse Therapy is carefully designed to support safe and effective detoxification tailored to your individual needs. Each session begins with a consultation to assess your exposure levels, lifestyle, and wellness goals, allowing us to customize the treatment plan accordingly. Our IV formulations include specialized chelating agents that bind to heavy metals and toxins, helping your body eliminate them efficiently while supporting essential bodily functions. The procedure is performed in a safe, hygienic clinical environment by trained professionals, ensuring comfort and optimal results. Sessions are typically completed within 30 to 45 minutes, making them convenient for individuals with busy schedules. This therapy may support improved energy, enhanced circulation, and better overall wellness by reducing the toxic burden on your body. Whether you are seeking detox support or aiming to improve long-term health, our therapy provides a reliable and effective solution.
+                                    At IV Bar Wellness Clinic, our Athlete – Fitness & Performance Therapy is carefully designed to support your body’s physical demands and recovery needs. Each session begins with a consultation to understand your fitness routine, activity level, and performance goals, allowing us to customize the therapy accordingly. Our IV formulations include essential fluids, vitamins, and amino acids that help improve endurance, support muscle repair, and enhance overall energy production. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with active lifestyles. Administered by trained professionals in a hygienic clinical environment, the therapy ensures optimal results and safety. Whether you are preparing for intense workouts, recovering from physical strain, or aiming to improve your overall performance, this therapy provides a reliable and effective solution. Experience improved stamina, faster recovery, and enhanced performance with our advanced IV treatments.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_21.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -256,16 +258,17 @@ export default function ImmunityRecovery() {
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> The Athlete – Fitness & Performance Therapy</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/cleanse.png" alt="Cleanse" /></i> Cleanse</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/toxin_removal.png" alt="Toxin Removal" /></i> Toxin Removal</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="energy boost" /></i> Energy Boost</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/circulation.png" alt="circulation" /></i> Circulation</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/performance.png" alt="Performance" /></i> Performance</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/endurance.png" alt="Endurance" /></i> Endurance</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/toxin_removal.png" alt="Hydration" /></i> Hydration</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy boost" /></i> Energy Boost</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/circulation.png" alt="Muscle Repair" /></i> Muscle Repair</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Stamin" /></i> Stamin</li>
+                                                                        
                                                                        
                                                                        </ul>
                                                                         

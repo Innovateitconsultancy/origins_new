@@ -33,7 +33,7 @@ export default function UltravIVPro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner banner-immunity-recovery">
+                           <div className="heroBanner hangover_recovery_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
@@ -120,7 +120,7 @@ export default function UltravIVPro() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/hangover_recovery.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -168,7 +168,7 @@ export default function UltravIVPro() {
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -190,7 +190,7 @@ export default function UltravIVPro() {
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -243,7 +243,7 @@ export default function UltravIVPro() {
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/about-img1.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                           
