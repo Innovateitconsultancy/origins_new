@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Botox Therapy',
-    description: 'Smooth Lines. Reveal Confidence. Botox Therapy for a Youthful, Refreshed Look ✨ Smooth • Lift • Refresh',
+    title: 'Immunity Recovery ',
+    description: 'Immunity Recoverys IV Drip Therapy & IV Vitamin Infusions',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner botox_banner">
+                           <div className="heroBanner banner-immunity-recovery">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Smooth Lines. Reveal Confidence.<br/>
-         <b>Botox Therapy for a Youthful, Refreshed Look</b>  
+           <h1> Feel Better. Faster. <br/>
+         <b> Hydration IV Therapy for Instant Energy & Recovery</b>  
 </h1>
 <h2>
-   Smooth • Lift • Refresh
+    Rehydrate • Revive • Restore
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,19 +122,17 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Botox Therapy</h3>
+                                                               <h3>Hydrate| Ultimate Hydration</h3>
                                                                  <div className="service-content">
                                            
                                            
-                                            <p className="">
-Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, helping you achieve a smoother and more youthful look. By targeting specific facial muscles, this treatment softens expression lines and enhances natural beauty. It is ideal for individuals looking to refresh their appearance, boost confidence, and maintain a youthful, well-rested look with safe and effective care.
-                                            </p>
+                                            <p className="">Hydration IV Drip Therapy is a fast and effective way to restore your body’s fluid balance and improve overall wellness. By delivering fluids, electrolytes, and essential nutrients directly into your bloodstream, this treatment works instantly without relying on digestion. It is ideal for individuals experiencing dehydration, fatigue, or low energy, helping the body recover quickly and regain optimal performance and hydration levels. </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                           
@@ -164,14 +162,14 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy works by relaxing targeted facial muscles, reducing the visibility of wrinkles and preventing new lines from forming. Common treatment areas include the forehead, crow’s feet, and frown lines. The procedure is quick, minimally invasive, and requires little to no downtime, making it convenient for busy individuals. Administered by trained professionals in a safe clinical environment, the treatment ensures natural-looking results while enhancing facial harmony and overall appearance.
-                                                                 </p>
+                                                                   This therapy is widely used to treat dehydration caused by illness, heat exposure, travel, or intense physical activity. IV hydration bypasses the digestive system, allowing faster absorption of fluids and nutrients directly into the bloodstream for immediate results. It helps relieve symptoms such as dizziness, weakness, nausea, and headaches while restoring electrolyte balance and supporting vital body functions. The treatment is safe, effective, and administered by trained professionals, ensuring a comfortable experience with rapid recovery and noticeable improvement in energy and overall well-being. 
+                                                               </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,26 +191,20 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_31.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                            <p>
-                                                                This therapy helps enhance your appearance while reducing visible signs of aging for a smoother, refreshed, and more confident look.
-                                                            </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wrinkle Reduction</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Smooth Skin</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Youthful Look</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Facial Balance</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Confidence</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Refresh</li>
-                                                                       </ul>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Rapid hydration and instant energy boost</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Improves skin glow and overall wellness</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Relieves fatigue, headaches, and jet lag</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Supports recovery after illness or workouts</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Enhances mental clarity and focus</li></ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
@@ -240,14 +232,14 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver natural and refined results tailored to your individual needs. Each session begins with a consultation to understand your concerns, facial structure, and desired outcomes, allowing us to create a personalized treatment plan. Our approach focuses on enhancing your natural beauty while maintaining facial expressions, ensuring subtle and balanced results. The procedure is quick, comfortable, and typically completed within a short time, making it ideal for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety, precision, and effectiveness. Whether you are looking to reduce fine lines, prevent early signs of aging, or maintain a youthful appearance, this therapy provides a reliable and effective solution. Experience smoother skin, improved confidence, and a refreshed look with our advanced aesthetic treatments.
-                                                                </p>      
+At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed to provide fast, safe, and effective hydration tailored to your body’s needs. Each session begins with a quick consultation to assess your hydration levels, lifestyle, and health concerns, allowing us to customize the ideal blend of fluids and electrolytes. Our IV solutions may include saline, essential electrolytes, and vitamins that help restore balance, improve circulation, and support overall wellness. The procedure is simple, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical setting, the therapy ensures safety and optimal results. Whether you are recovering from illness, overcoming fatigue, or preparing for travel, our hydration therapy helps you feel refreshed, energized, and revitalized. Experience faster recovery, improved hydration, and enhanced vitality with our advanced IV solutions designed for modern lifestyles. 
+</p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -257,17 +249,16 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for a<b>  Youthful, Refreshed Look</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/wrinkle_reduction.png" alt="Wrinkle Reduction" /></i> Wrinkle Reduction</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/confidence.png" alt="Confidence" /></i> Confidence</li>
-                                                                       
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/dehydration.png" alt="Dehydration" /></i> Dehydration</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fatigue.png" alt="Fatigue" /></i> Fatigue</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/hangover.png" alt="Hangover" /></i> Hangover</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/immunity.png" alt="Immunity" /></i> Immunity</li>
+                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/skin_glow.png" alt="skin glow" /></i> Skin Glow</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="energy boost" /></i> Energy Boost</li>
                                                                        </ul>
                                                                         
 

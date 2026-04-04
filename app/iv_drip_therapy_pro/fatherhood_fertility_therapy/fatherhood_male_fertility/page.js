@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Botox Therapy',
-    description: 'Smooth Lines. Reveal Confidence. Botox Therapy for a Youthful, Refreshed Look ✨ Smooth • Lift • Refresh',
+    title: 'Fatherhood – Male Fertility Therapy',
+    description: 'Support Your Journey to Fatherhood Male Fertility IV Therapy for Strength & Vitality 👨‍👦 Boost • Balance • Improve ',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner botox_banner">
+                           <div className="heroBanner fatherhood_male_fertility">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Smooth Lines. Reveal Confidence.<br/>
-         <b>Botox Therapy for a Youthful, Refreshed Look</b>  
+           <h1>Support Your Journey to Fatherhood<br/>
+         <b>Male Fertility IV Therapy for Strength & Vitality</b>  
 </h1>
 <h2>
-   Smooth • Lift • Refresh
+   Boost • Balance • Improve
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Botox Therapy</h3>
+                                                               <h3>Fatherhood – Male Fertility Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, helping you achieve a smoother and more youthful look. By targeting specific facial muscles, this treatment softens expression lines and enhances natural beauty. It is ideal for individuals looking to refresh their appearance, boost confidence, and maintain a youthful, well-rested look with safe and effective care.
+Fatherhood – Male Fertility IV Therapy is designed to support reproductive health and improve overall vitality in men. By delivering essential vitamins, antioxidants, and nutrients directly into your bloodstream, this therapy helps enhance sperm health, boost energy levels, and support hormonal balance. It is ideal for individuals planning for fatherhood and looking to improve fertility and overall well-being.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy works by relaxing targeted facial muscles, reducing the visibility of wrinkles and preventing new lines from forming. Common treatment areas include the forehead, crow’s feet, and frown lines. The procedure is quick, minimally invasive, and requires little to no downtime, making it convenient for busy individuals. Administered by trained professionals in a safe clinical environment, the treatment ensures natural-looking results while enhancing facial harmony and overall appearance.
-                                                                 </p>
+                                                                     This therapy focuses on providing key nutrients that support male reproductive health, including antioxidants that help reduce oxidative stress and improve sperm quality. IV administration ensures maximum absorption, allowing your body to receive these nutrients efficiently without digestive loss. It helps support hormonal balance, improve energy levels, and enhance overall vitality while promoting better reproductive function. Administered by trained professionals in a safe clinical environment, the treatment offers a reliable and effective approach to support male fertility and wellness.
+                                                                         </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_6.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -200,18 +200,18 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-                                                                This therapy helps enhance your appearance while reducing visible signs of aging for a smoother, refreshed, and more confident look.
+This therapy supports male fertility while helping improve overall vitality, energy, and reproductive health for better outcomes.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wrinkle Reduction</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Smooth Skin</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Youthful Look</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Facial Balance</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Confidence</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Refresh</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fertility</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Sperm Health</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Hormone Balance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -240,14 +240,14 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver natural and refined results tailored to your individual needs. Each session begins with a consultation to understand your concerns, facial structure, and desired outcomes, allowing us to create a personalized treatment plan. Our approach focuses on enhancing your natural beauty while maintaining facial expressions, ensuring subtle and balanced results. The procedure is quick, comfortable, and typically completed within a short time, making it ideal for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety, precision, and effectiveness. Whether you are looking to reduce fine lines, prevent early signs of aging, or maintain a youthful appearance, this therapy provides a reliable and effective solution. Experience smoother skin, improved confidence, and a refreshed look with our advanced aesthetic treatments.
+At IV Bar Wellness Clinic, our Fatherhood – Male Fertility Therapy is designed to provide targeted nutritional support for men looking to improve reproductive health and overall vitality. Each session begins with a consultation to understand your lifestyle, health concerns, and fertility goals, allowing us to customize the therapy accordingly. Our IV formulations include essential vitamins, antioxidants, and nutrients that help support sperm health, reduce oxidative stress, and promote hormonal balance. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety and optimal results. Whether you are planning for fatherhood or looking to improve your overall wellness, this therapy provides a reliable and effective solution. Experience improved vitality, enhanced reproductive health, and greater confidence with our advanced IV treatments.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -257,16 +257,16 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for a<b>  Youthful, Refreshed Look</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Fatherhood – Male Fertility Therapy</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/wrinkle_reduction.png" alt="Wrinkle Reduction" /></i> Wrinkle Reduction</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/confidence.png" alt="Confidence" /></i> Confidence</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fertility.png" alt="Fertility" /></i> Fertility</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/sperm_health.png" alt="Sperm Health" /></i> Sperm Health</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/hormone_balance.png" alt="Hormone Balance" /></i> Hormone Balance</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/reproductive_health.png" alt="Reproductive Health" /></i> Reproductive Health</li>
+                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/wellness.png" alt="Wellness" /></i> Wellness</li>
                                                                        
                                                                        </ul>
                                                                         

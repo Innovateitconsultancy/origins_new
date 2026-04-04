@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Botox Therapy',
-    description: 'Smooth Lines. Reveal Confidence. Botox Therapy for a Youthful, Refreshed Look ✨ Smooth • Lift • Refresh',
+    title: 'Immunity Recovery ',
+    description: 'Immunity Recoverys IV Drip Therapy & IV Vitamin Infusions',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner botox_banner">
+                           <div className="heroBanner toxic_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Smooth Lines. Reveal Confidence.<br/>
-         <b>Botox Therapy for a Youthful, Refreshed Look</b>  
+           <h1> Detox Your Body. Restore Balance. <br/>
+         <b> Heavy Metal Chelation Therapy for Deep Cleansing & Wellness</b>  
 </h1>
 <h2>
-   Smooth • Lift • Refresh
+   Cleanse • Purify • Revitalize
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/toxic_img.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Botox Therapy</h3>
+                                                               <h3>Heavy Metal Chelation Therapy for Deep Cleansing & Wellness</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, helping you achieve a smoother and more youthful look. By targeting specific facial muscles, this treatment softens expression lines and enhances natural beauty. It is ideal for individuals looking to refresh their appearance, boost confidence, and maintain a youthful, well-rested look with safe and effective care.
+                                                Heavy Metal Chelation Toxic Cleanse Therapy is designed to help remove harmful toxins and heavy metals from the body, supporting overall health and wellness. By delivering specialized chelating agents through IV infusion, this therapy binds to toxins and assists in their safe elimination. It is ideal for individuals exposed to environmental pollutants or looking to detoxify and restore balance, energy, and long-term well-being.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy works by relaxing targeted facial muscles, reducing the visibility of wrinkles and preventing new lines from forming. Common treatment areas include the forehead, crow’s feet, and frown lines. The procedure is quick, minimally invasive, and requires little to no downtime, making it convenient for busy individuals. Administered by trained professionals in a safe clinical environment, the treatment ensures natural-looking results while enhancing facial harmony and overall appearance.
+                                                                This therapy works by using chelating compounds that bind to heavy metals such as lead, mercury, and other toxins, allowing them to be safely flushed out of the body. IV administration ensures efficient delivery and faster action compared to oral detox methods. It supports improved organ function, enhanced circulation, and reduced toxic load, which may contribute to better energy levels and overall vitality. Administered by trained professionals in a controlled clinical setting, the treatment is safe, effective, and designed to promote gradual and sustained detoxification.                                                              
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_6.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,25 +193,24 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_31.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_7.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-                                                                This therapy helps enhance your appearance while reducing visible signs of aging for a smoother, refreshed, and more confident look.
+                                                                This therapy helps cleanse the body from harmful toxins while supporting overall wellness and internal balance.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wrinkle Reduction</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Smooth Skin</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Youthful Look</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Facial Balance</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Confidence</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Refresh</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Circulation</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Balance</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -240,14 +239,14 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver natural and refined results tailored to your individual needs. Each session begins with a consultation to understand your concerns, facial structure, and desired outcomes, allowing us to create a personalized treatment plan. Our approach focuses on enhancing your natural beauty while maintaining facial expressions, ensuring subtle and balanced results. The procedure is quick, comfortable, and typically completed within a short time, making it ideal for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety, precision, and effectiveness. Whether you are looking to reduce fine lines, prevent early signs of aging, or maintain a youthful appearance, this therapy provides a reliable and effective solution. Experience smoother skin, improved confidence, and a refreshed look with our advanced aesthetic treatments.
+                                                                At IV Bar Wellness Clinic, our Heavy Metal Chelation Toxic Cleanse Therapy is carefully designed to support safe and effective detoxification tailored to your individual needs. Each session begins with a consultation to assess your exposure levels, lifestyle, and wellness goals, allowing us to customize the treatment plan accordingly. Our IV formulations include specialized chelating agents that bind to heavy metals and toxins, helping your body eliminate them efficiently while supporting essential bodily functions. The procedure is performed in a safe, hygienic clinical environment by trained professionals, ensuring comfort and optimal results. Sessions are typically completed within 30 to 45 minutes, making them convenient for individuals with busy schedules. This therapy may support improved energy, enhanced circulation, and better overall wellness by reducing the toxic burden on your body. Whether you are seeking detox support or aiming to improve long-term health, our therapy provides a reliable and effective solution.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_8.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -257,16 +256,16 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for a<b>  Youthful, Refreshed Look</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/wrinkle_reduction.png" alt="Wrinkle Reduction" /></i> Wrinkle Reduction</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/confidence.png" alt="Confidence" /></i> Confidence</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/cleanse.png" alt="Cleanse" /></i> Cleanse</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/toxin_removal.png" alt="Toxin Removal" /></i> Toxin Removal</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="energy boost" /></i> Energy Boost</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/circulation.png" alt="circulation" /></i> Circulation</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
+                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
                                                                        
                                                                        </ul>
                                                                         

@@ -10055,8 +10055,23 @@ h6 {
 .heroBanner.blood_boost_iron_therapy {
   background: url(../../assets/img/blood_boost_iron_therapy_b.jpg) no-repeat;
 }
+.heroBanner.botox_banner {
+  background: url(../../assets/img/botox_banner.jpg) no-repeat;
+}
 .heroBanner.wellness_replenish_revitalise {
   background: url(../../assets/img/wellness_replenish_revitalise.jpg) no-repeat;
+}
+.heroBanner.hair_nails_skin {
+  background: url(../../assets/img/hair_nails_skin.jpg) no-repeat;
+}
+.heroBanner.skin_glow_vitamin_c {
+  background: url(../../assets/img/skin_glow_vitamin_c.jpg) no-repeat;
+}
+.heroBanner.fatherhood_male_fertility {
+  background: url(../../assets/img/fatherhood_male_fertility.jpg) no-repeat;
+}
+.heroBanner.fatherhood_female_fertility {
+  background: url(../../assets/img/fatherhood_female_fertility.jpg) no-repeat;
 }
 .heroBannerRight .recommendedAddons {
   list-style: none;

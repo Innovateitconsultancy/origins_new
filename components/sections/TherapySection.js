@@ -552,7 +552,7 @@ appearance.
 Collagen Peptides,
 Vitamin E, Zinc, Silica.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -583,7 +583,7 @@ support.</p>
 Glutathione, Hyaluronic
 Acid, Alpha Lipoic Acid.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/skin_glow_vitamin_c" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -627,7 +627,7 @@ reproductive wellness.
     <b>Ingredients:  </b> CoQ10, L-Carnitine, Zinc, Selenium, Vitamin C, Vitamin E, Folate, Maca Root
 Extract, Ashwagandha Extract.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_male_fertility" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -659,46 +659,13 @@ tailored plan that encompasses all aspects of female reproductive health.
     Myo-Inositol, D-Chiro-Inositol, Folate, Vitamin D3, Omega-3 Fatty Acids,
 NAC (N-Acetyl Cysteine), CoQ10, Black Cohosh, Vitex Agnus-Castus.
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_female_fertility" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
                                         </div>
                                     </div>
                                 </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Fatherhood | Male Fertility
-</h4>
-                                            {/* <h5>Your Peak Perfomance</h5> */}
-                                            <p className="threeDotLine">Our specialized male fertility program is designed to optimize male
-reproductive health through a holistic approach, focusing on
-enhancing sperm quality, count, and motility. We combine targeted
-nutritional support, lifestyle counseling, and advanced diagnostic
-assessments to address underlying factors that may impact
-fertility. This comprehensive plan aims to boost vitality and
-support the journey towards fatherhood towards fatherhood,
-offering a nurturing path for aspiring fathers. Our expert team
-utilizes scientifically proven methods to ensure the best possible
-outcomes, fostering a supportive environment for male
-reproductive wellness.
-</p>
-<p className="productIngr twoDotLine">
-    <b>Ingredients:  </b> CoQ10, L-Carnitine, Zinc, Selenium, Vitamin C, Vitamin E, Folate, Maca Root
-Extract, Ashwagandha Extract.
-</p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                               
                             </Swiper>
                         </div>
                     </div>
@@ -1014,100 +981,20 @@ power of targeted hydration and nutrient delivery.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/botox_img.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/botox_img.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Botox</h4>
                                             <h5>The Art of Ageless Expression</h5>
                                             
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/botox" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
                                         </div>
                                     </div>
                                 </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Sunshine</h4>
-                                            <h5>Vitamin D</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Biotin</h4>
-                                            <h5>Vitamin B7</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Slim Boost</h4>
-                                            <h5>Fat Burner</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>B12 Energy Booster
-</h4>
-                                            <h5>Vitamin B12</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Co-Enzyme Q10</h4>
-                                            <h5>Energy & Recovery</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
+                                
                             </Swiper>
                         </div>
                     </div>

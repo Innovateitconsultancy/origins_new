@@ -3,11 +3,11 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Botox Therapy',
-    description: 'Smooth Lines. Reveal Confidence. Botox Therapy for a Youthful, Refreshed Look ✨ Smooth • Lift • Refresh',
+    title: 'Post Party Hangover Recovery Therapy',
+    description: 'Recover Fast. Feel Refreshed. Hangover Recovery IV Therapy for Instant Relief 🍸 Rehydrate • Revive • Recharge',
 };
 
-export default function ImmunityRecovery() {
+export default function UltravIVPro() {
     return (
         <>
              <Layout headerStyle={1} footerStyle={1} >
@@ -33,25 +33,23 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner botox_banner">
+                           <div className="heroBanner hangover_recovery_banner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1> Smooth Lines. Reveal Confidence.<br/>
-         <b>Botox Therapy for a Youthful, Refreshed Look</b>  
+           <h1> Recover Fast. Feel Refreshed. <br/>
+           <b>Hangover Recovery IV Therapy for Instant Relief</b>
 </h1>
-<h2>
-   Smooth • Lift • Refresh
-</h2>
+<h2>Rehydrate • Revive • Recharge</h2>
            {/* <h2><i>$</i>299</h2> */}
-           {/* <p className="blackText">Strengthen & Protect</p> */}
+          
 
-         
-               
+          
+              
                    <div className="heroBannerBtns">
                                                <Link href="/contact"  >BOOK NOW</Link >
                                                {/* <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link> */}
-                                             
+                                               {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
                    </div>
                
                                </div>
@@ -122,20 +120,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/hangover_recovery.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
-                                                               <h3>Botox Therapy</h3>
+                                                           <div className="details-content pt-511">
+                                                               <h3>Boost Immunity. Enhance Glow.</h3>
                                                                  <div className="service-content">
                                            
                                            
-                                            <p className="">
-Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, helping you achieve a smoother and more youthful look. By targeting specific facial muscles, this treatment softens expression lines and enhances natural beauty. It is ideal for individuals looking to refresh their appearance, boost confidence, and maintain a youthful, well-rested look with safe and effective care.
-                                            </p>
-
+                                            <p className="">Vitamin C IV Therapy delivers high-quality antioxidants directly into your bloodstream to support immunity, boost energy, and improve overall wellness. Unlike oral supplements, this therapy ensures maximum absorption, helping your body respond faster and more effectively. It is ideal for individuals looking to strengthen their immune system, enhance skin health, and protect against daily stress and environmental damage.
+</p>
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                           
                                         </div>
@@ -144,13 +140,14 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                            </div>
                                                        </div>
                                                        </div>
+
                                                        </div>
                                                        </div>
                                                        </div>
-                                                       </div>
-                                                       </div>
-                                                       </section>
-                                                       <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                                     </div>
+                                </div>
+                             </section>
+                            <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
                                <div className="container">
                                    <div className="project-details-wrapper">
                                        <div className="row">
@@ -161,28 +158,28 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="details-content pt-511">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy works by relaxing targeted facial muscles, reducing the visibility of wrinkles and preventing new lines from forming. Common treatment areas include the forehead, crow’s feet, and frown lines. The procedure is quick, minimally invasive, and requires little to no downtime, making it convenient for busy individuals. Administered by trained professionals in a safe clinical environment, the treatment ensures natural-looking results while enhancing facial harmony and overall appearance.
-                                                                 </p>
+                                                                    Post Party Hangover Recovery IV Therapy is designed to help your body recover quickly after a night of celebration. By delivering fluids, electrolytes, vitamins, and antioxidants directly into your bloodstream, this therapy works faster than oral remedies. It helps relieve dehydration, headaches, nausea, and fatigue, allowing you to feel refreshed, rehydrated, and back to your normal energy levels in a short time.                                                               
+                                                                    </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
                                                        </div>
                                                        </div>
+                                                       </div> 
                                                        </div>
                                                        </div>
                                                        </div>
-                                                       </div>
-                                                       </section>
-                                                     <section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
+                            </section>
+<section className="Project-details-section fix  inner sectionPdTopBottom80 productList">
                                <div className="container">
                                    <div className="project-details-wrapper">
                                        <div className="row">
@@ -193,40 +190,39 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_31.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
-                                                            <p>
-                                                                This therapy helps enhance your appearance while reducing visible signs of aging for a smoother, refreshed, and more confident look.
-                                                            </p>
-                                                               <h3>Key Benefits</h3>
-                                                               <div>
+                                                           <div className="details-content pt-511">
+                                                               {/* <h3>Our Mission</h3> */}
+                                          <p>
+                                            This therapy helps restore hydration and energy while reducing common hangover symptoms for faster recovery and improved comfort.                                           
+                                             </p>    
+                                             <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wrinkle Reduction</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Smooth Skin</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Youthful Look</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Facial Balance</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Confidence</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Refresh</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Hangover Relief</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Hydration</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
                                                                        </ul>
-                                                                </div>   
-                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
+                                                                </div>  
+                                           <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                
                                                            </div>
                                                        </div>
-                                                       </div>  
                                                        </div>
                                                        </div>
                                                        </div>
+                                                       </div> 
                                                        </div>
                                                        </div>
                                                        </div>
-                                                       </section>
-                                                      
-                                                       <section className="Project-details-section fix  inner sectionPdTopBottom80 ">
+                            </section>
+<section className="Project-details-section fix  inner sectionPdTopBottom80 ">
                                <div className="container">
                                    <div className="project-details-wrapper">
                                        <div className="row">
@@ -237,56 +233,50 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="details-content pt-511">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver natural and refined results tailored to your individual needs. Each session begins with a consultation to understand your concerns, facial structure, and desired outcomes, allowing us to create a personalized treatment plan. Our approach focuses on enhancing your natural beauty while maintaining facial expressions, ensuring subtle and balanced results. The procedure is quick, comfortable, and typically completed within a short time, making it ideal for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety, precision, and effectiveness. Whether you are looking to reduce fine lines, prevent early signs of aging, or maintain a youthful appearance, this therapy provides a reliable and effective solution. Experience smoother skin, improved confidence, and a refreshed look with our advanced aesthetic treatments.
-                                                                </p>      
- <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
+                                                                    At IV Bar Wellness Clinic, our Vitamin C (Varied Doses) Therapy is designed to provide personalized care based on your individual health goals and requirements. Each session begins with a brief consultation to determine the appropriate dosage, ensuring safe and effective treatment tailored to your body. Our IV formulations deliver high-quality Vitamin C directly into your bloodstream, helping to neutralize free radicals, strengthen immune defenses, and support faster recovery from illness or fatigue. This therapy is also beneficial for improving skin health, boosting collagen production, and enhancing overall radiance. Administered by trained professionals in a safe and hygienic clinical environment, the procedure is comfortable and typically completed within 30 to 45 minutes. Whether you are looking to boost immunity, improve skin vitality, or support your body during periods of stress, our Vitamin C therapy offers a reliable and effective solution. Experience enhanced wellness, improved energy, and long-lasting benefits with our advanced IV treatments.                                                                  
+                                                                </p>
+                                                                   <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >  
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
-                                                       </div>
-                                                         
-                                                          <div className="row g-4 justify-content-between">
                                                           
-                                                       
                                                        <div className="col-lg-12">
-                                                           <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for a<b>  Youthful, Refreshed Look</b></h3>
+                                                           <div className="details-content pt-5">
+                                                               <h3 className="section-title text-center mrgB40">Best uses for <b> Vitamin C (Varied Doses) Therapy</b></h3>
                                                                <div className="iconsblockInfo">
-                                                                   <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/wrinkle_reduction.png" alt="Wrinkle Reduction" /></i> Wrinkle Reduction</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/confidence.png" alt="Confidence" /></i> Confidence</li>
-                                                                       
+                                                                   <ul className="list mb-4">
+                                                                        <li><i className=""><img  src="/assets/img/icons/hangover.png" alt="Hangover Relief" /></i> Hangover Relief</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/hydration.png" alt="Hydration"/></i>  Hydration</li>
+                                                                        <li><i className=""><img  src="/assets/img/icons/recovery.png" alt="Recovery"/></i> Recovery</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/energyboost.png" alt="Energy Boost"/></i> Energy Boost</li>                                                                      
+                                                                       <li><i className=""><img  src="/assets/img/icons/detox.png" alt="Detox"/></i> Detox</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/hangover.png" alt="Headache Relief"/></i> Headache Relief</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/nausea_relief.png" alt="Nausea Relief"/></i> Nausea Relief</li>
                                                                        </ul>
-                                                                        
-
-
                                                                   
                                                                    </div>                                                   
                                                            </div>
                                                        </div>
-                                                       </div>
-                                                        </div>
-                                                       </div>
-                                                       </div>
-                                                       </div>
-                                                       </div>
-                                                       </div>
-                                                       </section>
                                                        
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div>
+                                                       </div> 
+                                                       </div>
+                                                       </div>
+                                                       
+                            </section>
+                              
                           <BlogSection />
-                                          <SubscribeSection />
+                             <SubscribeSection />
                        </Layout>
         </>
     )
