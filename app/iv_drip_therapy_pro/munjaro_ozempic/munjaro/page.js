@@ -122,7 +122,7 @@ export default function MunjaroOzempic() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/munjaro.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        

@@ -97,10 +97,10 @@ export default function TherapySection() {
             onClick={() => setActiveTab("nad")}>
             NAD+
           </button>
-            <button  className={activeTab === "customerisediv" ? "active" : ""}
+            {/* <button  className={activeTab === "customerisediv" ? "active" : ""}
             onClick={() => setActiveTab("customerisediv")}>
            CUSTOMERISED IV'S
-          </button>
+          </button> */}
             <button  className={activeTab === "boostershorts" ? "active" : ""}
             onClick={() => setActiveTab("boostershorts")}>
            BOOSTER SHOTS
@@ -531,7 +531,7 @@ promoting overall wellness from within.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/nourishment.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Hair, Nails & Skin
@@ -562,7 +562,7 @@ Vitamin E, Zinc, Silica.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/skin_glow_vitamin_c.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Skin Glow (Vitamin C +
@@ -605,7 +605,7 @@ Acid, Alpha Lipoic Acid.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/fatherhood.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fatherhood | Male Fertility
@@ -637,7 +637,7 @@ Extract, Ashwagandha Extract.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/motherhood.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Motherhood Female Fertility
@@ -681,7 +681,7 @@ NAC (N-Acetyl Cysteine), CoQ10, Black Cohosh, Vitex Agnus-Castus.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Fatherhood | Male Fertility
@@ -776,7 +776,7 @@ optimized cellular health.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/slim_boost.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Slim Boost IV Therapy for Faster Metabolism & Detox</h4>
@@ -829,7 +829,7 @@ Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boos
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/ozempic.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Ozempic Therapy</h4>

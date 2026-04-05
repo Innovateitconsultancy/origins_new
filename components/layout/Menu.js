@@ -27,21 +27,21 @@ export default function Menu() {
                             <div className="homemenu-items">
                                 <div className="homemenu">
                                     <div className="demo-button">
-                                        <Link href="/iv_drip_therapy_pro/immunity-recovery" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/immunity-recovery/hydrate_ultimate_uydration" className="theme-btn">
                                             IMMUNITY & RECOVERY                                          
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/detoxify_cleanse/heavy_metal_chelation_toxic_cleanse" className="theme-btn">
                                             DETOXIFY & CLEANSE  
                                             {/* <span>Hydration & Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/ultraviv" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" className="theme-btn">
                                             WEIGHT & PERFORMANCE
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/megaboost" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/enery_brain/blood_boost_iron_therapy" className="theme-btn">
                                             ENERGY & BRAIN
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
@@ -60,12 +60,12 @@ export default function Menu() {
                                 </div>
                                 <div className="homemenu">
                                     <div className="demo-button">
-                                        <Link href="/iv_drip_therapy_pro/royal-flush" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn">
                                            HAIR, NAILS & SKIN
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/formerly-heliix" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_male_fertility" className="theme-btn">
                                            FERTILITY
                                             {/* <span>Detox</span> */}
                                             <i className="fas fa-arrow-right-long" />
@@ -75,13 +75,8 @@ export default function Menu() {
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/personalised-iv" className="theme-btn">
-                                            CUSTOMERISED IV'S
-
-                                            {/* <span>Tailored to your Goals</span> */}
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
-                                        <Link href="/iv_drip_therapy_pro/ultraviv-pro" className="theme-btn">
+                                       
+                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" className="theme-btn">
                                            BOOSTER SHOTS
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />

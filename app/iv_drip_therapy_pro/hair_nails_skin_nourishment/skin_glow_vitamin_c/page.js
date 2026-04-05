@@ -264,7 +264,7 @@ Skin Glow Vitamin C + Glutathione IV Therapy is designed to enhance your skin’
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/brightening.png" alt="Brightening" /></i> Brightening</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/even_tone.png" alt="Even Tone" /></i> Even Tone</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/collagen_boost.png" alt="Collagen Boost" /></i> Collagen Boost</li>
                                                                         <li><i className=""><img className="radiusImg" src="/assets/img/icons/radiance.png" alt="Radiance" /></i> Radiance</li>
                                                                        

@@ -265,7 +265,7 @@ At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support you
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/mental_clarity.png" alt="Mental Clarity" /></i> Mental Clarity</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/focus.png" alt="Focus" /></i> Focus</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/brain_health.png" alt="Brain Health" /></i> Brain Health</li>
                                                                         <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
                                                                        

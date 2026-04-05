@@ -261,7 +261,7 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/wrinkle_reduction.png" alt="Wrinkle Reduction" /></i> Wrinkle Reduction</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>

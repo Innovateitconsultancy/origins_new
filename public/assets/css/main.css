@@ -10079,6 +10079,15 @@ h6 {
 .heroBanner.super_b_complex {
   background: url(../../assets/img/super_b_complex.jpg) no-repeat;
 }
+.heroBanner.ozempic_banner {
+  background: url(../../assets/img/ozempic_banner.jpg) no-repeat;
+}
+.heroBanner.munjaro_ozempic {
+  background: url(../../assets/img/munjaro_ozempic.jpg) no-repeat;
+}
+.heroBanner.slim_boost_banner {
+  background: url(../../assets/img/slim_boost_banner.jpg) no-repeat;
+}
 .heroBannerRight .recommendedAddons {
   list-style: none;
   display: flex;

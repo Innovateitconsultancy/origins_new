@@ -122,7 +122,7 @@ export default function Ozempic() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/ozempic.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -261,7 +261,7 @@ At IV Bar Wellness Clinic, our Ozempic Therapy is carefully designed to support 
                                                                <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fat_burn.png" alt="Fat Burn" /></i> Fat Loss</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fat_loss.png" alt="Fat Burn" /></i> Fat Loss</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/metabolism.png" alt="Metabolism" /></i> Metabolism</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>                                                                       
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
