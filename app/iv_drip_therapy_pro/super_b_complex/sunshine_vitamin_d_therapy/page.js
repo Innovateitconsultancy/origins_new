@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'NAD+ Therapy ',
-    description: 'Recharge at a Cellular Level NAD+ IV Therapy for Energy, Focus & Recovery  Restore • Repair • Revitalize',
+    title: 'Sunshine Vitamin D Therapy',
+    description: 'Feel the Power of Sunshine Vitamin D Therapy for Strong Bones, Immunity & Energy Strength • Immunity • Vitality',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner nadbanner">
+                           <div className="heroBanner super_b_complex">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Recharge at a Cellular Level <br/>
-         <b>NAD+ IV Therapy for Energy, Focus & Recovery</b>  
+           <h1>Feel the Power of Sunshine<br/>
+         <b>Vitamin D Therapy for Strong Bones, Immunity & Energy</b>  
 </h1>
 <h2>
-   Restore • Repair • Revitalize
+   Strength • Immunity • Vitality
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>NAD+ Therapy</h3>
+                                                               <h3>Sunshine Vitamin D Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-NAD+ IV Therapy is designed to support cellular energy production, improve mental clarity, and enhance overall wellness. By delivering Nicotinamide Adenine Dinucleotide directly into your bloodstream, this therapy helps your body function more efficiently at a cellular level. It is ideal for individuals looking to boost energy, improve focus, and support healthy aging and recovery.
+Sunshine Vitamin D IV Therapy is designed to support bone health, strengthen immunity, and improve overall wellness. By delivering Vitamin D directly into your bloodstream, this therapy ensures better absorption compared to oral supplements. It is ideal for individuals with low Vitamin D levels, helping improve energy, support mood, and maintain strong bones and overall health.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ NAD+ IV Therapy is designed to support cellular energy production, improve menta
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-NAD+ plays a crucial role in cellular metabolism, energy production, and repair processes within the body. IV administration ensures direct delivery and maximum absorption, allowing faster and more effective results compared to oral supplements. This therapy helps improve mental clarity, reduce fatigue, and support brain function while promoting healthy aging and cellular repair. Administered by trained professionals in a safe clinical environment, it provides a powerful solution for enhancing overall vitality and long-term wellness.
+Vitamin D plays a crucial role in maintaining bone strength, supporting immune function, and regulating mood. IV administration allows direct delivery into the bloodstream, ensuring faster and more effective absorption without digestive loss. This therapy helps improve calcium absorption, support muscle function, and reduce fatigue while promoting overall wellness. Administered by trained professionals in a safe clinical environment, it provides a reliable and effective way to restore optimal Vitamin D levels and support long-term health.
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_21.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,25 +193,25 @@ NAD+ plays a crucial role in cellular metabolism, energy production, and repair 
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_31.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-This therapy supports cellular health while helping improve energy, focus, and overall wellness for enhanced daily performance.
+This therapy supports overall wellness while helping improve bone strength, immunity, and energy levels for better daily performance.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Bone Health</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Immunity</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Focus</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Brain Health</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Mood Support</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Strength</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -240,7 +240,7 @@ This therapy supports cellular health while helping improve energy, focus, and o
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support your body at a cellular level, promoting energy, recovery, and overall well-being. Each session begins with a consultation to understand your health goals, lifestyle, and specific needs, allowing us to customize the therapy accordingly. NAD+ is an essential coenzyme involved in energy production and cellular repair, helping your body function more efficiently. Our IV formulations deliver NAD+ directly into your bloodstream, ensuring maximum absorption and faster results. The treatment is safe, comfortable, and typically completed within 30 to 60 minutes, depending on individual requirements. Administered by trained professionals in a hygienic clinical environment, the therapy ensures both safety and effectiveness. Whether you are looking to improve mental clarity, boost energy levels, or support healthy aging, this therapy provides a reliable and effective solution. Experience improved focus, enhanced vitality, and better overall wellness with our advanced NAD+ treatments.
+At IV Bar Wellness Clinic, our Sunshine Vitamin D Therapy is carefully designed to restore optimal Vitamin D levels and support your overall health. Each session begins with a consultation to understand your lifestyle, health concerns, and wellness goals, allowing us to customize the therapy for the best results. Our IV formulations deliver Vitamin D directly into your bloodstream, helping improve calcium absorption, support bone strength, and enhance immune function. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures both safety and effectiveness. Whether you are experiencing low energy, weakened immunity, or Vitamin D deficiency, this therapy provides a reliable and efficient solution. Experience improved strength, better immunity, and enhanced overall wellness with our advanced IV treatments.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
@@ -261,12 +261,12 @@ At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support you
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/bone_health.png" alt="Bone Health" /></i> Bone Health</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/mental_clarity.png" alt="Mental Clarity" /></i> Immunity</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/mental_clarity.png" alt="Mental Clarity" /></i> Mental Clarity</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/focus.png" alt="Focus" /></i> Focus</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti_aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/brain_health.png" alt="Brain Health" /></i> Brain Health</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/mood_support.png" alt="Mood Support" /></i> Mood Support</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/calcium_absorption.png" alt="Calcium Absorption" /></i> Calcium Absorption</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/strength.png" alt="Brain Health" /></i> Strength</li>
                                                                         <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
                                                                        
                                                                        </ul>

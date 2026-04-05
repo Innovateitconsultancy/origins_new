@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'NAD+ Therapy ',
-    description: 'Recharge at a Cellular Level NAD+ IV Therapy for Energy, Focus & Recovery  Restore • Repair • Revitalize',
+    title: 'Super B – B Complex Therapy',
+    description: 'Boost Energy. Power Your Day. Super B Complex IV Therapy for Energy & Vitality, Energize • Focus • Perform',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner nadbanner">
+                           <div className="heroBanner super_b_complex">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Recharge at a Cellular Level <br/>
-         <b>NAD+ IV Therapy for Energy, Focus & Recovery</b>  
+           <h1>Boost Energy. Power Your Day.<br/>
+         <b>Super B Complex IV Therapy for Energy & Vitality</b>  
 </h1>
 <h2>
-   Restore • Repair • Revitalize
+   Energize • Focus • Perform
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>NAD+ Therapy</h3>
+                                                               <h3>Super B – B Complex Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-NAD+ IV Therapy is designed to support cellular energy production, improve mental clarity, and enhance overall wellness. By delivering Nicotinamide Adenine Dinucleotide directly into your bloodstream, this therapy helps your body function more efficiently at a cellular level. It is ideal for individuals looking to boost energy, improve focus, and support healthy aging and recovery.
+Super B – B Complex IV Therapy is designed to boost energy, support metabolism, and improve overall wellness. By delivering essential B vitamins directly into your bloodstream, this therapy helps your body convert nutrients into energy more efficiently. It is ideal for individuals experiencing fatigue, stress, or low energy levels, helping you feel more active, focused, and balanced throughout the day.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ NAD+ IV Therapy is designed to support cellular energy production, improve menta
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-NAD+ plays a crucial role in cellular metabolism, energy production, and repair processes within the body. IV administration ensures direct delivery and maximum absorption, allowing faster and more effective results compared to oral supplements. This therapy helps improve mental clarity, reduce fatigue, and support brain function while promoting healthy aging and cellular repair. Administered by trained professionals in a safe clinical environment, it provides a powerful solution for enhancing overall vitality and long-term wellness.
+This therapy provides a powerful blend of B-complex vitamins that play a key role in energy production, brain function, and metabolic support. IV administration ensures faster absorption, allowing your body to benefit immediately without digestive loss. It helps reduce fatigue, improve mental clarity, and support nervous system health while enhancing overall vitality. Administered by trained professionals in a safe clinical environment, the treatment offers a reliable and effective way to restore energy levels and maintain daily performance.
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_2.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -200,18 +200,18 @@ NAD+ plays a crucial role in cellular metabolism, energy production, and repair 
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-This therapy supports cellular health while helping improve energy, focus, and overall wellness for enhanced daily performance.
+This therapy supports energy and metabolism while helping improve focus, reduce fatigue, and enhance overall wellness.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Focus</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Energy Boost</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Metabolism</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Focus</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fatigue Relief</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Brain Health</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Balance</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >

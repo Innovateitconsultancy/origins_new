@@ -10073,6 +10073,12 @@ h6 {
 .heroBanner.fatherhood_female_fertility {
   background: url(../../assets/img/fatherhood_female_fertility.jpg) no-repeat;
 }
+.heroBanner.nadbanner {
+  background: url(../../assets/img/nad_banner.jpg) no-repeat;
+}
+.heroBanner.super_b_complex {
+  background: url(../../assets/img/super_b_complex.jpg) no-repeat;
+}
 .heroBannerRight .recommendedAddons {
   list-style: none;
   display: flex;
