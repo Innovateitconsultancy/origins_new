@@ -3,11 +3,11 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Munjaro Therapy',
-    description: 'Achieve Your Weight Goals with Confidence Munjaro Therapy for Metabolism, Energy & Balance  ',
+    title: 'Ozempic Therapy',
+    description: 'Take Control of Your Weight Journey Ozempic Therapy for Metabolism, Appetite & Balance',
 };
 
-export default function Munjaro() {
+export default function Ozempic() {
     return (
         <>
              <Layout headerStyle={1} footerStyle={1} >
@@ -33,12 +33,12 @@ export default function Munjaro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner munjaro_ozempic ">
+                           <div className="heroBanner ozempic_banner ">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Achieve Your Weight Goals with Confidence<br/>
-         <b>Munjaro Therapy for Metabolism, Energy & Balance</b>  
+           <h1>Take Control of Your Weight Journey<br/>
+         <b>Ozempic Therapy for Metabolism, Appetite & Balance</b>  
 </h1>
 <h2>
    Control • Balance • Transform
@@ -128,12 +128,12 @@ export default function Munjaro() {
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Munjaro Therapy</h3>
+                                                               <h3>Ozempic Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-Munjaro Therapy is designed to support weight management and improve metabolic health as part of a guided wellness plan. By combining medical support with targeted nutritional care, this therapy helps regulate appetite, enhance energy levels, and promote overall well-being. It is ideal for individuals looking to achieve sustainable weight goals while improving their health and lifestyle balance.
+Ozempic Therapy is designed to support weight management and metabolic health as part of a medically guided wellness plan. This therapy helps regulate appetite, improve energy balance, and support overall well-being. It is ideal for individuals looking to achieve sustainable weight goals while improving lifestyle habits and maintaining long-term health through structured and professional care.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ Munjaro Therapy is designed to support weight management and improve metabolic h
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy focuses on supporting metabolism and weight management under professional supervision. It works alongside a structured wellness plan to help regulate appetite, improve energy levels, and support better lifestyle habits. Nutritional support and monitoring ensure your body receives the right balance for effective results. Administered and guided by trained professionals in a safe clinical environment, the therapy offers a reliable and personalized approach to achieving long-term wellness, improved vitality, and sustainable weight 
+This therapy focuses on supporting metabolism and appetite control under professional supervision. It works alongside a structured wellness plan to help manage weight, improve energy levels, and encourage healthier lifestyle habits. Regular monitoring ensures safety and effectiveness while supporting consistent progress. Administered by trained professionals in a safe clinical environment, the therapy provides a reliable and personalized approach to achieving better balance, improved vitality, and long-term wellness outcomes.
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_26.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_9.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -200,7 +200,8 @@ This therapy focuses on supporting metabolism and weight management under profes
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-This therapy supports weight management while helping improve metabolism, energy levels, and overall wellness for better lifestyle balance.
+This therapy supports weight management while helping improve metabolism, appetite control, and overall wellness for better lifestyle balance.
+
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
@@ -210,8 +211,8 @@ This therapy supports weight management while helping improve metabolism, energy
                                                                        <li><i className="fa-regular fa-circle-check"></i> Appetite Control</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Energy</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Balance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fat Loss</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -240,7 +241,7 @@ This therapy supports weight management while helping improve metabolism, energy
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Munjaro Therapy is carefully designed to support your weight management journey in a safe and structured manner. Each session begins with a consultation to understand your lifestyle, health conditions, and personal goals, allowing us to create a tailored plan that suits your needs. This therapy focuses on improving metabolic function, supporting appetite control, and enhancing overall energy levels while promoting sustainable lifestyle changes. Guided by trained professionals in a hygienic clinical environment, the process ensures safety, comfort, and effectiveness at every step. Regular monitoring and personalized support help you stay on track and achieve consistent progress. Whether you are looking to manage weight, improve energy, or enhance your overall well-being, this therapy provides a reliable and supportive solution. Experience better control, improved vitality, and long-term wellness with our professionally guided therapy programs.
+At IV Bar Wellness Clinic, our Ozempic Therapy is carefully designed to support your weight management journey in a safe and structured manner. Each session begins with a consultation to understand your lifestyle, health conditions, and personal goals, allowing us to create a tailored plan suited to your needs. This therapy focuses on improving metabolic function, supporting appetite control, and enhancing overall energy levels while promoting sustainable lifestyle changes. Guided by trained professionals in a hygienic clinical environment, the process ensures safety, comfort, and effectiveness at every step. Regular monitoring and personalized support help you stay on track and achieve consistent progress. Whether you are aiming to manage weight, improve energy, or enhance overall wellness, this therapy provides a reliable and supportive solution. Experience better control, improved vitality, and long-term health benefits with our professionally guided therapy programs.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
@@ -260,7 +261,7 @@ At IV Bar Wellness Clinic, our Munjaro Therapy is carefully designed to support 
                                                                <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fat_burn.png" alt="Fat Burn" /></i> Fat Burn</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fat_burn.png" alt="Fat Burn" /></i> Fat Loss</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/metabolism.png" alt="Metabolism" /></i> Metabolism</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>                                                                       
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>

@@ -7,7 +7,7 @@ export const metadata = {
     description: 'Achieve Your Weight Goals with Confidence Munjaro Therapy for Metabolism, Energy & Balance  ',
 };
 
-export default function Munjaro() {
+export default function MunjaroOzempic() {
     return (
         <>
              <Layout headerStyle={1} footerStyle={1} >

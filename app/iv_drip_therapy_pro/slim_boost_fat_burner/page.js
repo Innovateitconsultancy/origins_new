@@ -3,11 +3,11 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Munjaro Therapy',
-    description: 'Achieve Your Weight Goals with Confidence Munjaro Therapy for Metabolism, Energy & Balance  ',
+    title: 'Slim Boost – Fat Burner Therapy ',
+    description: 'Burn Fat. Boost Energy. Slim Boost IV Therapy for Faster Metabolism & Detox  Burn • Boost • Transform ',
 };
 
-export default function Munjaro() {
+export default function ImmunityRecovery() {
     return (
         <>
              <Layout headerStyle={1} footerStyle={1} >
@@ -33,15 +33,15 @@ export default function Munjaro() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner munjaro_ozempic ">
+                           <div className="heroBanner nadbanner">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Achieve Your Weight Goals with Confidence<br/>
-         <b>Munjaro Therapy for Metabolism, Energy & Balance</b>  
+           <h1>Burn Fat. Boost Energy.<br/>
+         <b>Slim Boost IV Therapy for Faster Metabolism & Detox</b>  
 </h1>
 <h2>
-   Control • Balance • Transform
+   Burn • Boost • Transform
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -128,12 +128,12 @@ export default function Munjaro() {
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
-                                                               <h3>Munjaro Therapy</h3>
+                                                               <h3>Slim Boost – Fat Burner Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-Munjaro Therapy is designed to support weight management and improve metabolic health as part of a guided wellness plan. By combining medical support with targeted nutritional care, this therapy helps regulate appetite, enhance energy levels, and promote overall well-being. It is ideal for individuals looking to achieve sustainable weight goals while improving their health and lifestyle balance.
+Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boost energy levels, and enhance overall wellness. By delivering essential vitamins, amino acids, and nutrients directly into your bloodstream, this therapy helps your body burn fat more efficiently. It is ideal for individuals looking to support weight management, improve metabolism, and achieve a more active and balanced lifestyle.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -164,14 +164,14 @@ Munjaro Therapy is designed to support weight management and improve metabolic h
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-This therapy focuses on supporting metabolism and weight management under professional supervision. It works alongside a structured wellness plan to help regulate appetite, improve energy levels, and support better lifestyle habits. Nutritional support and monitoring ensure your body receives the right balance for effective results. Administered and guided by trained professionals in a safe clinical environment, the therapy offers a reliable and personalized approach to achieving long-term wellness, improved vitality, and sustainable weight 
+NAD+ plays a crucial role in cellular metabolism, energy production, and repair processes within the body. IV administration ensures direct delivery and maximum absorption, allowing faster and more effective results compared to oral supplements. This therapy helps improve mental clarity, reduce fatigue, and support brain function while promoting healthy aging and cellular repair. Administered by trained professionals in a safe clinical environment, it provides a powerful solution for enhancing overall vitality and long-term wellness.
                                                                  </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_26.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,25 +193,25 @@ This therapy focuses on supporting metabolism and weight management under profes
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_27.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_17.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
                                                            <div className="details-content pt-5">
                                                             <p>
-This therapy supports weight management while helping improve metabolism, energy levels, and overall wellness for better lifestyle balance.
+This therapy supports fat metabolism while helping improve energy levels and overall wellness for better weight management and performance.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Weight Support</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fat Burn</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i>  Metabolism</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Appetite Control</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Balance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Weight Support</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Fatigue Relief</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -240,14 +240,14 @@ This therapy supports weight management while helping improve metabolism, energy
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Munjaro Therapy is carefully designed to support your weight management journey in a safe and structured manner. Each session begins with a consultation to understand your lifestyle, health conditions, and personal goals, allowing us to create a tailored plan that suits your needs. This therapy focuses on improving metabolic function, supporting appetite control, and enhancing overall energy levels while promoting sustainable lifestyle changes. Guided by trained professionals in a hygienic clinical environment, the process ensures safety, comfort, and effectiveness at every step. Regular monitoring and personalized support help you stay on track and achieve consistent progress. Whether you are looking to manage weight, improve energy, or enhance your overall well-being, this therapy provides a reliable and supportive solution. Experience better control, improved vitality, and long-term wellness with our professionally guided therapy programs.
+At IV Bar Wellness Clinic, our Slim Boost – Fat Burner Therapy is carefully designed to support your body’s metabolism and weight management goals in a safe and effective way. Each session begins with a consultation to understand your lifestyle, fitness routine, and health objectives, allowing us to customize the therapy for optimal results. Our IV formulations include essential vitamins, amino acids, and nutrients that help boost metabolism, support fat breakdown, and enhance energy production. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety and effectiveness. Whether you are aiming to improve metabolism, increase energy, or support your fitness journey, this therapy provides a reliable and efficient solution. Experience better energy, improved metabolism, and a healthier lifestyle with our advanced IV treatments.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>

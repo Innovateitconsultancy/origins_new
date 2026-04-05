@@ -776,100 +776,23 @@ optimized cellular health.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/b_complex.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Super B's Booster</h4>
-                                            <h5>B-Complex</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <h4>Slim Boost IV Therapy for Faster Metabolism & Detox</h4>
+                                            <h5>Burn Fat. Boost Energy.</h5>
+                                            <p className="threeDotLine">
+Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boost energy levels, and enhance overall wellness. By delivering essential vitamins, amino acids, and nutrients directly into your bloodstream, this therapy helps your body burn fat more efficiently. It is ideal for individuals looking to support weight management, improve metabolism, and achieve a more active and balanced lifestyle.
+                                                </p>
+
+                                            <Link href="/iv_drip_therapy_pro/slim_boost_fat_burner" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
                                         </div>
                                     </div>
                                 </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Sunshine</h4>
-                                            <h5>Vitamin D</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Biotin</h4>
-                                            <h5>Vitamin B7</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Slim Boost</h4>
-                                            <h5>Fat Burner</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>B12 Energy Booster
-</h4>
-                                            <h5>Vitamin B12</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Co-Enzyme Q10</h4>
-                                            <h5>Energy & Recovery</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
+                               
                             </Swiper>
                         </div>
                     </div>
@@ -882,81 +805,21 @@ optimized cellular health.
                         <div className="swiper service-slider">
                             <Swiper {...swiperOptions} className="swiper-wrapper">
                                                              
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/b_complex.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Super B's Booster</h4>
-                                            <h5>B-Complex</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_d.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Sunshine</h4>
-                                            <h5>Vitamin D</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
                                  <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b7.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Biotin</h4>
-                                            <h5>Vitamin B7</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/fat_burner_img.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Slim Boost</h4>
-                                            <h5>Fat Burner</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/vitamin_b12.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>B12 Energy Booster
-</h4>
-                                            <h5>Vitamin B12</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <h4>Munjaro Therapy</h4>
+                                            <h5>Achieve Your Weight Goals with Confidence</h5>
+                                            <p className="threeDotLine">
+Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boost energy levels, and enhance overall wellness. By delivering essential vitamins, amino acids, and nutrients directly into your bloodstream, this therapy helps your body burn fat more efficiently. It is ideal for individuals looking to support weight management, improve metabolism, and achieve a more active and balanced lifestyle.
+                                                </p>
+<p>
+    Control • Balance • Transform
+</p>
+                                            <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -966,13 +829,18 @@ optimized cellular health.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Co-Enzyme Q10</h4>
-                                            <h5>Energy & Recovery</h5>
-                                            
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <h4>Ozempic Therapy</h4>
+                                            <h5>Ozempic Therapy for Metabolism, Appetite & Balance</h5>
+                                            <p className="threeDotLine">
+Ozempic Therapy is designed to support weight management and metabolic health as part of a medically guided wellness plan. This therapy helps regulate appetite, improve energy balance, and support overall well-being. It is ideal for individuals looking to achieve sustainable weight goals while improving lifestyle habits and maintaining long-term health through structured and professional care.
+                                                </p>
+<p>
+    Control • Balance • Transform
+</p>
+                                            <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
