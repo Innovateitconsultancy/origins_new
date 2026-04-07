@@ -10231,4 +10231,44 @@ h6 {
 .heroBannerRight{
   display: none;
 }
+.otherBanner
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent h1 {
+    font-size: 26px;
+}
+.otherBanner h2 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.otherBanner .heroBanner .heroBannerInfo {
+    min-height: auto;
+    padding: 24px 15px 12px;
+}
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent {
+    text-align: center;
+}
+.heroBanner.botox_banner {
+    background: url(../../assets/img/botox_banner_mob.png) no-repeat;
+    background-size: 100%!important;
+}
+section.hero-section.fix.bg-cover.otherBanner {
+    background: #e3f7f6;
+}
+.heroBanner .heroBannerInfo .heroBannerText {
+    margin-top: 210px;
+}
+.heroBanner .heroBannerInfo .heroBannerBtns {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.sectionPdTopBottom80 {
+    padding: 20px 0;
+}
+.topBottm30 {
+    padding: 15px 15px;
+}
+.iconsblockInfo ul li {
+    height: auto;
+    width: 100%;
+        padding-top: 20px;
+}
 }
