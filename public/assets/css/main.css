@@ -10279,6 +10279,39 @@ h6 {
 .heroBanner.nadbanner {
     background: url(../../assets/img/nad_banner_mob.png) no-repeat;
 }
+.heroBanner.vitamin_c_banner {
+    background: url(../../assets/img/vitamin_c_banner_mob.png) no-repeat;
+}
+.heroBanner.banner-immunity-cold {
+    background: url(../../assets/img/banner-immunity-cold_mob.png) no-repeat;
+}
+.heroBanner.detoxic_banner {
+    background: url(../../assets/img/detoxic_banner_mob.png) no-repeat;
+}
+.heroBanner.hangover_recovery_banner {
+    background: url(../../assets/img/hangover_recovery_banner_mob.png) no-repeat;
+}
+.heroBanner.fitness_banner {
+    background: url(../../assets/img/fitness_banner_mob.png) no-repeat;
+}
+.heroBanner.healing_recovery_banner {
+    background: url(../../assets/img/healing_recovery_banner_mob.png) no-repeat;
+}
+.heroBanner.wellness_replenish_revitalise {
+    background: url(../../assets/img/wellness_replenish_revitalise_mob.png) no-repeat;
+}
+.heroBanner.ozempic_banner {
+    background: url(../../assets/img/ozempic_banner_mob.png) no-repeat;
+}
+.heroBanner.slim_boost_banner {
+    background: url(../../assets/img/slim_boost_banner_mob.png) no-repeat;
+}
+.heroBanner.fatherhood_female_fertility {
+    background: url(../../assets/img/fatherhood_female_fertility_mob.png) no-repeat;
+}
+.heroBanner.skin_glow_vitamin_c {
+    background: url(../../assets/img/skin_glow_vitamin_c_mob.png) no-repeat;
+}
 .otherBanner .heroBanner {
     background-size: 100%!important;
 }
