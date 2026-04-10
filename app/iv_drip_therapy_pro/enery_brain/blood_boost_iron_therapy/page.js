@@ -246,7 +246,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_3.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>

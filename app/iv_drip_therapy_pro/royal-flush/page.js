@@ -170,14 +170,14 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_22.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_12.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -201,14 +201,14 @@ Chloride, Magnesium Chloride, Sodium Lactate, Hyaluronic Acid.
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_22.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
                                                           <div className="row g-4 justify-content-between">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_33.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        

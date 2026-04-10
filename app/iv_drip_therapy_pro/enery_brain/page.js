@@ -169,7 +169,7 @@ export default function ImmunityRecovery() {
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_22.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -191,7 +191,7 @@ export default function ImmunityRecovery() {
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -239,7 +239,7 @@ At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed t
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_2.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>

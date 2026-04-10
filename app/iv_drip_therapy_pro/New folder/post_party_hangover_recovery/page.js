@@ -168,7 +168,7 @@ export default function UltravIVPro() {
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_23.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -190,7 +190,7 @@ export default function UltravIVPro() {
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_25.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -243,7 +243,7 @@ export default function UltravIVPro() {
                                                        </div>
                                                         <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_14.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                           
