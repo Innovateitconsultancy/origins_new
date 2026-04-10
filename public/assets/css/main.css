@@ -10246,8 +10246,40 @@ h6 {
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent {
     text-align: center;
 }
+
 .heroBanner.botox_banner {
     background: url(../../assets/img/botox_banner_mob.png) no-repeat;
+    background-size: 100%!important;
+}
+.heroBanner.banner-immunity-recovery {
+    background: url(../../assets/img/banner-immunity-cold_mob_1.png) no-repeat;
+    background-size: 100%!important;
+}
+.heroBanner.toxic_banner {
+    background: url(../../assets/img/toxic_banner_mob.png) no-repeat;
+    background-size: 100%!important;
+}
+.heroBanner.fat_burner_banner {
+    background: url(../../assets/img/fat_burner_banner_mob.png) no-repeat;
+    background-size: 100%!important;
+}
+.heroBanner.blood_boost_iron_therapy {
+    background: url(../../assets/img/blood_boost_iron_therapy_b_mob.png) no-repeat;
+    background-size: 100%!important;
+}
+.heroBanner.munjaro_ozempic {
+    background: url(../../assets/img/munjaro_ozempic_mob.png) no-repeat;
+}
+.heroBanner.hair_nails_skin {
+    background: url(../../assets/img/hair_nails_skin_mob.png) no-repeat;
+}
+.heroBanner.fatherhood_male_fertility {
+    background: url(../../assets/img/fatherhood_male_fertility_mob.png) no-repeat;
+}
+.heroBanner.nadbanner {
+    background: url(../../assets/img/nad_banner_mob.png) no-repeat;
+}
+.otherBanner .heroBanner {
     background-size: 100%!important;
 }
 section.hero-section.fix.bg-cover.otherBanner {
