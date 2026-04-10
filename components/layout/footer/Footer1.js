@@ -39,36 +39,39 @@ export default function Footer1() {
                                         <h3>Quick Links</h3>
                                     </div>
                                     <ul className="list-area">
-                                         <li>
-                                            <Link href="iv-drip-therapy">
-                                                <i className="fa-solid fa-chevron-right" />
-                                               IMMUNITY & RECOVERY  
-                                            </Link>
-                                        </li>
-                                         <li>
-                                            <Link href="iv-drip-therapy">
-                                                <i className="fa-solid fa-chevron-right" />
-                                               DETOXIFY & CLEANSE 
-                                            </Link>
-                                        </li>
-                                         <li>
-                                            <Link href="iv-drip-therapy">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                WEIGHT & PERFORMANCE
-                                            </Link>
-                                        </li>
-                                         <li>
-                                            <Link href="iv-drip-therapy">
-                                                <i className="fa-solid fa-chevron-right" />
-                                               ENERGY & BRAIN
-                                            </Link>
-                                        </li>
                                         <li>
-                                            <Link href="iv-drip-therapy">
-                                                <i className="fa-solid fa-chevron-right" />
-                                               GLUTATHIONE
-                                            </Link>
+                                    <Link href="/iv_drip_therapy_pro/immunity-recovery/hydrate_ultimate_uydration" >
+                                         <i className="fa-solid fa-chevron-right" />    IMMUNITY & RECOVERY                                          
+                                           
+                                        </Link></li> 
+                                        <li>
+                                        <Link href="/iv_drip_therapy_pro/detoxify_cleanse/heavy_metal_chelation_toxic_cleanse" >
+                                           <i className="fa-solid fa-chevron-right" />  DETOXIFY & CLEANSE  
+                                            
+                                           
+                                        </Link>
+                                        </li> 
+                                        <li>
+                                        <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" >
+                                           <i className="fa-solid fa-chevron-right" />  WEIGHT & PERFORMANCE
+                                           
+                                           
+                                        </Link>
                                         </li>
+                                         <li>
+                                        <Link href="/iv_drip_therapy_pro/enery_brain/blood_boost_iron_therapy" >
+                                           <i className="fa-solid fa-chevron-right" />  ENERGY & BRAIN
+                                            
+                                           
+                                        </Link>
+                                        </li> 
+                                        <li>
+                                        <Link href="/iv_drip_therapy_pro/vitaglow" >
+                                           <i className="fa-solid fa-chevron-right" />  GLUTATHIONE
+                                           
+                                           
+                                        </Link>
+                                        </li> 
                                        
                                     </ul>
                                 </div>
@@ -79,36 +82,56 @@ export default function Footer1() {
                                         <h3></h3>
                                     </div>
                                     <ul className="list-area">
-                                       <li>
-                                            <Link href="/vitamin-shots">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                HAIR, NAILS & SKIN
-                                            </Link>
+                                        <li>
+                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
+                                          <i className="fa-solid fa-chevron-right" /> 
+                                            Munjaro & Ozempic
+                                           
+                                           
+                                        </Link>
+                                        </li>
+                                        <li>                                            
+                                       
+                                        <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" >
+                                          <i className="fa-solid fa-chevron-right" />
+                                           HAIR, NAILS & SKIN
+                                           
+                                           
+                                        </Link> 
                                         </li>
                                         <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                FERTILITY
-                                            </Link>
+                                        <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_male_fertility" >
+                                         
+                                          <i className="fa-solid fa-chevron-right" /> 
+                                           FERTILITY
+                                          
+                                           
+                                        </Link>
                                         </li>
                                         <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                NAD+
-                                            </Link>
+                                        <Link href="/iv_drip_therapy_pro/nad" >
+                                         <i className="fa-solid fa-chevron-right" />
+                                            NAD+
+                                            
+                                           
+                                        </Link>
+                                       </li>
+                                        <li>
+                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" >
+                                         <i className="fa-solid fa-chevron-right" />
+                                           BOOSTER SHOTS
+                                           
+                                           
+                                        </Link>
                                         </li>
                                         <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                               CUSTOMERISED IV'S
-                                            </Link>
-                                        </li>
-                                        <li>
-                                            <Link href="/">
-                                                <i className="fa-solid fa-chevron-right" />
-                                                BOOSTER SHOTS
-                                            </Link>
-                                        </li>
+                                        <Link href="/iv_drip_therapy_pro/botox" >
+                                         <i className="fa-solid fa-chevron-right" />
+                                          Botox
+                                           
+                                           
+                                        </Link>
+                                       </li>
                                     </ul>
                                 </div>
                             </div> 
