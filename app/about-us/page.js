@@ -62,7 +62,7 @@ export default function AboutUs() {
                                         <div className="row g-4 justify-content-between topBottm30">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/therapy/img_12.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             
@@ -97,14 +97,14 @@ We believe that wellness should be accessible, personalized, and results-driven.
                                             </div>
                                              <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             </div>
                                             <div className="row g-4 justify-content-between topBottm30">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/therapy/img_14.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             
@@ -128,14 +128,14 @@ We believe that wellness should be accessible, personalized, and results-driven.
                                             </div>
                                              <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/therapy/img_15.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             </div>
                                                <div className="row g-4 justify-content-between">
                                                 <div className="col-lg-6">
                                                     <div className="details-image">
-                                                                                            <img className="radiusImg" src="/assets/img/therapy/.jpg" alt="img" />
+                                                                                            <img className="radiusImg" src="/assets/img/therapy/img_16.jpg" alt="img" />
                                                                                         </div>
                                                 </div>
                                             

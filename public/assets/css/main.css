@@ -10336,4 +10336,8 @@ section.hero-section.fix.bg-cover.otherBanner {
     width: 100%;
         padding-top: 20px;
 }
+.heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
+    font-size: 14px;
+    padding: 8px;
+}
 }
