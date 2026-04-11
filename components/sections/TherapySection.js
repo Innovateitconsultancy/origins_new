@@ -246,7 +246,7 @@ build-up, promoting enhanced clarity and vitality.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/detoxic_img.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/detox_img.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Detox | Liver & Gut Cleanse
