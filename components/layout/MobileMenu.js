@@ -76,11 +76,19 @@ export default function MobileMenu() {
                                         </li> 
                                         <li>
                                          <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
-                                            Munjaro & Ozempic
+                                            Munjaro
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         </li>
+ <li>
+                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" >
+                                           Ozempic
+                                            {/* <span>Beauty & Pro-Aging</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
+                                        </li>
+                                       
                                         <li>                                            
                                        
                                         <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn">
@@ -123,12 +131,12 @@ export default function MobileMenu() {
                                 </a>
                             </li>
                             <li>
-                                <Link href="/">Memberships</Link>
+                                <Link href="/membership_program">Memberships</Link>
                                
                             </li>
-                            <li>
+                            {/* <li>
 <Link href="/">Community</Link>
-                            </li>
+                            </li> */}
                             <li>
                              <Link href="/about-us">About Us</Link>    
                             </li>

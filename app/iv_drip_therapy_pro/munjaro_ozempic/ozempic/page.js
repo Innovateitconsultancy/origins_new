@@ -160,7 +160,7 @@ Ozempic Therapy is designed to support weight management and metabolic health as
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
@@ -169,7 +169,7 @@ This therapy focuses on supporting metabolism and appetite control under profess
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_9.jpg" alt="img" />
                                                                                                    </div>
@@ -237,7 +237,7 @@ This therapy supports weight management while helping improve metabolism, appeti
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
@@ -246,7 +246,7 @@ At IV Bar Wellness Clinic, our Ozempic Therapy is carefully designed to support 
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
                                                                                                    </div>

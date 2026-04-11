@@ -72,7 +72,13 @@ export default function Footer1() {
                                            
                                         </Link>
                                         </li> 
-                                       
+                                       <li>
+                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
+                                          <i className="fa-solid fa-chevron-right" /> 
+                                            Munjaro                                         
+                                           
+                                        </Link>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -82,11 +88,11 @@ export default function Footer1() {
                                         <h3></h3>
                                     </div>
                                     <ul className="list-area">
-                                        <li>
-                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
+                                        
+                                         <li>
+                                          <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" >
                                           <i className="fa-solid fa-chevron-right" /> 
-                                            Munjaro & Ozempic
-                                           
+                                            Ozempic                                           
                                            
                                         </Link>
                                         </li>
@@ -154,7 +160,7 @@ export default function Footer1() {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/">
+                                            <Link href="/membership_program">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Memberships
                                             </Link>

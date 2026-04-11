@@ -13,8 +13,8 @@ export default function BlogSection() {
                 <div className="news-wrapper">
                     <div className="row">
                         <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                            <div className="single-news-items">
-                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("assets/img/blog-img1.jpg")' }}>
+                            <div className="single-news-items" >
+                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("/assets/img/blog-img1.jpg")' }}>
                                     <div className="post-date">
                                         <span>Jan, 2026</span>
                                     </div>
@@ -34,7 +34,7 @@ export default function BlogSection() {
                         </div>
                         <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                             <div className="single-news-items">
-                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("assets/img/blog-img2.jpg")' }}>
+                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("/assets/img/blog-img2.jpg")' }}>
                                     <div className="post-date">
                                         <span>Jan, 2026</span>
                                     </div>
@@ -54,7 +54,7 @@ export default function BlogSection() {
                         </div>
                         <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                             <div className="single-news-items">
-                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("assets/img/blog-img3.jpg")' }}>
+                                <div className="news-image bg-cover" style={{ backgroundImage: 'url("/assets/img/blog-img3.jpg")' }}>
                                     <div className="post-date">
                                         <span>Jan, 2026</span>
                                     </div>

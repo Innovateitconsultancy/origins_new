@@ -52,14 +52,20 @@ export default function Menu() {
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                          <Link href="/iv_drip_therapy_pro/munjaro_ozempic" className="theme-btn">
-                                            Munjaro & Ozempic
+                                            Munjaro
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
+                                        
                                     </div>
                                 </div>
                                 <div className="homemenu">
                                     <div className="demo-button">
+                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" className="theme-btn">
+                                            Ozempic
+                                            {/* <span>Beauty & Pro-Aging</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
                                         <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn">
                                            HAIR, NAILS & SKIN
                                             {/* <span>Recovery</span> */}
@@ -94,11 +100,11 @@ export default function Menu() {
                     </ul>
                 </li>
                  <li>
-                    <Link href="/">Memberships</Link>
+                    <Link href="/membership_program">Memberships</Link>
                 </li>
-                 <li>
+                 {/* <li>
                     <Link href="/">Community</Link>
-                </li>
+                </li> */}
                  <li>
                     <Link href="/about-us">About Us</Link>
                 </li>

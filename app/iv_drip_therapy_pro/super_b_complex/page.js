@@ -160,7 +160,7 @@ Super B – B Complex IV Therapy is designed to boost energy, support metabolism
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
@@ -169,7 +169,7 @@ This therapy provides a powerful blend of B-complex vitamins that play a key rol
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_2.jpg" alt="img" />
                                                                                                    </div>
@@ -236,7 +236,7 @@ This therapy supports energy and metabolism while helping improve focus, reduce 
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
@@ -245,7 +245,7 @@ At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support you
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
                                                                                                    </div>

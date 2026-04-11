@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'NAD+ Therapy ',
-    description: 'Recharge at a Cellular Level NAD+ IV Therapy for Energy, Focus & Recovery  Restore • Repair • Revitalize',
+    title: 'Botox Therapy',
+    description: 'Smooth Lines. Reveal Confidence. Botox Therapy for a Youthful, Refreshed Look ✨ Smooth • Lift • Refresh',
 };
 
 export default function ImmunityRecovery() {
@@ -33,82 +33,29 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner nadbanner">
+                           <div className="heroBanner membership_programs">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Recharge at a Cellular Level <br/>
-         <b>NAD+ IV Therapy for Energy, Focus & Recovery</b>  
+           <h1> Membership Program<br/>
+         <b>Experience Year-Round Vitality with Our Membership</b>  
 </h1>
-<h2>
-   Restore • Repair • Revitalize
-</h2>
+{/* <h2>
+   Smooth • Lift • Refresh
+</h2> */}
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
 
          
                
                    <div className="heroBannerBtns">
-                                               <Link href="/contact"  >BOOK NOW</Link >
+                                               <Link href="/contact"  >Join Now</Link >
                                                {/* <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link> */}
                                              
                    </div>
                
                                </div>
-                               </div>
-                               <div className="heroBannerRight">
-                                <h2 className="titleBannerR">Ideal For:</h2>
-                                <div class="bannerCheckList">
-        <div class="bannerCheckListInfo">
-          <span class="bannerCheckIcon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="20 6 9 17 4 12"></polyline>
-            </svg>
-          </span>
-          <span class="bannerCheckabel">Heat Relief</span>
-        </div>
-        <div class="bannerCheckListInfo">
-          <span class="bannerCheckIcon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="20 6 9 17 4 12"></polyline>
-            </svg>
-          </span>
-          <span class="bannerCheckabel">Deep Replenish
-</span>
-        </div>
-        <div class="bannerCheckListInfo">
-          <span class="bannerCheckIcon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-              <polyline points="20 6 9 17 4 12"></polyline>
-            </svg>
-          </span>
-          <span class="bannerCheckabel">Vital Balance
-</span>
-        </div>
-      </div>
-      <p><b>Recommended Add-Ons:
-</b></p>
-<ul className="recommendedAddons">
-    <li>
-        <i>+</i> Vitamin C
-    </li>
-    <li>
-        <i>+</i> Biotin
-    </li>
-
-    <li>
-        <i>+</i> B-Complex
-    </li>
-</ul>
-<div className="reviewsInfo">
-    4.9 <i>★</i>
-    <p>Average on Google Reviews</p>
-</div>
-<div className="reviewsInfo">
-    4K 
-    <span>Reviews</span>
-</div>
-                               </div>
+                               </div>                               
                                </div>
                            </div>
                        </section>
@@ -122,21 +69,21 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/img_37.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
-                                                               <h3>NAD+ Therapy</h3>
+                                                           <div className="">
+                                                               <h3>Elevate Your Wellness with Our Membership Program</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-NAD+ IV Therapy is designed to support cellular energy production, improve mental clarity, and enhance overall wellness. By delivering Nicotinamide Adenine Dinucleotide directly into your bloodstream, this therapy helps your body function more efficiently at a cellular level. It is ideal for individuals looking to boost energy, improve focus, and support healthy aging and recovery.
-                                            </p>
+At IV Bar Wellness Clinic, our Membership Program is designed to help you maintain consistent wellness, energy, and vitality throughout the year. With exclusive access to premium IV therapies, priority bookings, and personalized care, our membership ensures you stay at your best without interruption. It is ideal for individuals committed to long-term health, b
+eauty, and performance with added convenience and savings                                            </p>
 
-                                           <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
+                                           <Link className="buttonBlack mrgT20" href="/contact"  >Join Now</Link >
                                           
                                         </div>
                                                                
@@ -160,18 +107,18 @@ NAD+ IV Therapy is designed to support cellular energy production, improve menta
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6  order-2 order-md-1">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-NAD+ plays a crucial role in cellular metabolism, energy production, and repair processes within the body. IV administration ensures direct delivery and maximum absorption, allowing faster and more effective results compared to oral supplements. This therapy helps improve mental clarity, reduce fatigue, and support brain function while promoting healthy aging and cellular repair. Administered by trained professionals in a safe clinical environment, it provides a powerful solution for enhancing overall vitality and long-term wellness.
+Our membership plans provide a seamless wellness experience with scheduled treatments, exclusive pricing, and priority access to services. Members enjoy tailored IV therapies based on their health goals, whether it is boosting energy, improving immunity, enhancing skin health, or supporting recovery. With flexible plans and dedicated support, you can maintain your wellness routine effortlessly while enjoying premium care in a safe and professional environment.
                                                                  </p>
-                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
+                                                              <Link className="buttonBlack mrgT20" href="/contact"  >Join Now</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6  order-1 order-md-2">
+                                                        <div className="col-lg-6 order-1 order-md-2">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_13.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_38.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -193,28 +140,28 @@ NAD+ plays a crucial role in cellular metabolism, energy production, and repair 
                                                        <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_31.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_39.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="">
                                                             <p>
-This therapy supports cellular health while helping improve energy, focus, and overall wellness for enhanced daily performance.
+Your Journey to Consistent Wellness Starts Here
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Focus</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Brain Health</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Priority Booking</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Exclusive Pricing</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Monthly IV Sessions</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Personalized Plans</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness Tracking</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Member Rewards</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Premium Care</li>
                                                                        </ul>
                                                                 </div>   
-                                                              <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
+                                                              <Link className="buttonBlack mrgT20" href="/contact"  >JOIN NOW</Link >
                                                            </div>
                                                        </div>
                                                        </div>  
@@ -236,48 +183,39 @@ This therapy supports cellular health while helping improve energy, focus, and o
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6  order-2 order-md-1">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support your body at a cellular level, promoting energy, recovery, and overall well-being. Each session begins with a consultation to understand your health goals, lifestyle, and specific needs, allowing us to customize the therapy accordingly. NAD+ is an essential coenzyme involved in energy production and cellular repair, helping your body function more efficiently. Our IV formulations deliver NAD+ directly into your bloodstream, ensuring maximum absorption and faster results. The treatment is safe, comfortable, and typically completed within 30 to 60 minutes, depending on individual requirements. Administered by trained professionals in a hygienic clinical environment, the therapy ensures both safety and effectiveness. Whether you are looking to improve mental clarity, boost energy levels, or support healthy aging, this therapy provides a reliable and effective solution. Experience improved focus, enhanced vitality, and better overall wellness with our advanced NAD+ treatments.
+Choosing a membership at IV Bar Wellness Clinic means investing in your long-term health and well-being. Instead of occasional treatments, you benefit from consistent care that delivers better and more sustainable results. Our team works closely with you to understand your needs and recommend the right therapies, ensuring every session adds value to your wellness journey. Whether you are focusing on energy, recovery, beauty, or preventive care, our membership provides a structured and effective approach.
                                                                 </p>      
- <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
+ <Link className="buttonBlack mrgT20" href="/contact"  >JOIN NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6  order-1 order-md-2">
+                                                        <div className="col-lg-6 order-1 order-md-2 ">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_40.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
-                                                         
-                                                          <div className="row g-4 justify-content-between">
-                                                          
-                                                       
-                                                       <div className="col-lg-12">
-                                                           <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
-                                                               <div className="iconsblockInfo">
-                                                                   <ul className=" mb-4">
-                                                                       
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/mental_clarity.png" alt="Mental Clarity" /></i> Mental Clarity</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/focus.png" alt="Focus" /></i> Focus</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/recovery.png" alt="Recovery" /></i> Recovery</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/brain_health.png" alt="Brain Health" /></i> Brain Health</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
-                                                                       
-                                                                       </ul>
-                                                                        
-
-
-                                                                  
-                                                                   </div>                                                   
+                                                         <div className="row g-4 justify-content-between topBottm30">                                    
+                                                         <div className="col-lg-6 order-1 order-md-2 ">
+                                                               <div className="details-image">
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_35.jpg" alt="img" />
+                                                                                                   </div>
+                                                           </div>
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
+                                                               {/* <h3>Our Vision</h3> */}
+                                                               <p>
+Take control of your wellness journey with our exclusive membership plans designed for convenience, value, and results. Experience priority service, personalized treatments, and ongoing support that helps you stay energized, refreshed, and balanced every day. Whether you are starting your wellness journey or looking to elevate your routine, our membership program offers everything you need in one place. Join today and experience the difference of consistent care and premium wellness solutions.
+                                                                </p>      
+ <Link className="buttonBlack mrgT20" href="/contact"  >JOIN NOW</Link >                                                             
                                                            </div>
                                                        </div>
+                                                      
                                                        </div>
+                                                          
                                                         </div>
                                                        </div>
                                                        </div>

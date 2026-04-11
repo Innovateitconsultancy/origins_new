@@ -107,7 +107,11 @@ export default function TherapySection() {
           </button>
            <button  className={activeTab === "munjaroozempic" ? "active" : ""}
             onClick={() => setActiveTab("munjaroozempic")}>
-          Munjaro & Ozempic
+          Munjaro
+          </button>
+          <button  className={activeTab === "munjaroozempic_new" ? "active" : ""}
+            onClick={() => setActiveTab("munjaroozempic_new")}>
+          Ozempic
           </button>
            <button  className={activeTab === "botox" ? "active" : ""}
             onClick={() => setActiveTab("botox")}>
@@ -826,6 +830,20 @@ Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boos
                                         </div>
                                     </div>
                                 </SwiperSlide>
+                              
+                            </Swiper>
+                        </div>
+                    </div>
+            </div>
+          )}
+          {/* munjaroozempic */}
+              {activeTab === "munjaroozempic_new" && (
+              <div>
+              <div className="service-wrapper">
+                        <div className="swiper service-slider">
+                            <Swiper {...swiperOptions} className="swiper-wrapper">
+                                                             
+                                
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">

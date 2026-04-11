@@ -160,7 +160,7 @@ Blood Boost Iron IV Therapy is designed to support healthy iron levels and impro
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
@@ -169,7 +169,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_32.jpg" alt="img" />
                                                                                                    </div>
@@ -235,7 +235,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
@@ -244,7 +244,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_3.jpg" alt="img" />
                                                                                                    </div>

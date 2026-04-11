@@ -127,7 +127,7 @@ export default function ImmunityRecovery() {
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="">
                                                                <h3>Botox Therapy</h3>
                                                                  <div className="service-content">
                                            
@@ -160,8 +160,8 @@ Botox Therapy is designed to reduce the appearance of fine lines and wrinkles, h
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
 This therapy works by relaxing targeted facial muscles, reducing the visibility of wrinkles and preventing new lines from forming. Common treatment areas include the forehead, crow’s feet, and frown lines. The procedure is quick, minimally invasive, and requires little to no downtime, making it convenient for busy individuals. Administered by trained professionals in a safe clinical environment, the treatment ensures natural-looking results while enhancing facial harmony and overall appearance.
@@ -169,7 +169,7 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6 order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_28.jpg" alt="img" />
                                                                                                    </div>
@@ -198,7 +198,7 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="">
                                                             <p>
                                                                 This therapy helps enhance your appearance while reducing visible signs of aging for a smoother, refreshed, and more confident look.
                                                             </p>
@@ -236,8 +236,8 @@ This therapy works by relaxing targeted facial muscles, reducing the visibility 
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
 At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver natural and refined results tailored to your individual needs. Each session begins with a consultation to understand your concerns, facial structure, and desired outcomes, allowing us to create a personalized treatment plan. Our approach focuses on enhancing your natural beauty while maintaining facial expressions, ensuring subtle and balanced results. The procedure is quick, comfortable, and typically completed within a short time, making it ideal for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety, precision, and effectiveness. Whether you are looking to reduce fine lines, prevent early signs of aging, or maintain a youthful appearance, this therapy provides a reliable and effective solution. Experience smoother skin, improved confidence, and a refreshed look with our advanced aesthetic treatments.
@@ -245,7 +245,7 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6 order-1 order-md-2 ">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
                                                                                                    </div>
@@ -265,7 +265,7 @@ At IV Bar Wellness Clinic, our Botox Therapy is carefully designed to deliver na
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/smooth_skin.png" alt="Smooth Skin" /></i> Smooth Skin</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/fine_lines.png" alt="Fine Lines" /></i> Fine Lines</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/facial_balance.png" alt="Facial Balance" /></i> Facial Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/lift_effect.png" alt="Lift Effect" /></i> Lift Effect</li>
                                                                         <li><i className=""><img className="radiusImg" src="/assets/img/icons/confidence.png" alt="Confidence" /></i> Confidence</li>
                                                                        
                                                                        </ul>

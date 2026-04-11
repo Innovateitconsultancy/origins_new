@@ -10088,6 +10088,9 @@ h6 {
 .heroBanner.slim_boost_banner {
   background: url(../../assets/img/slim_boost_banner.jpg) no-repeat;
 }
+.heroBanner.membership_programs {
+  background: url(../../assets/img/membership_program.jpg) no-repeat;
+}
 .heroBannerRight .recommendedAddons {
   list-style: none;
   display: flex;
@@ -10312,6 +10315,9 @@ h6 {
 .heroBanner.skin_glow_vitamin_c {
     background: url(../../assets/img/skin_glow_vitamin_c_mob.png) no-repeat;
 }
+.heroBanner.membership_programs {
+  background: url(../../assets/img/membership_program_mob.png) no-repeat;
+}
 .otherBanner .heroBanner {
     background-size: 100%!important;
 }
@@ -10339,5 +10345,20 @@ section.hero-section.fix.bg-cover.otherBanner {
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent .heroBannerBtns a {
     font-size: 14px;
     padding: 8px;
+}
+.details-content.pt-5{
+  padding-top: 0!important;
+}
+.subcribeContent form div {
+    padding: 10px 0px 10px 0px;
+    flex: initial;
+    width: 100%;
+    display: block;
+}
+.subcribeContent form div button.btnGreen {
+    width: 100%;
+}
+.subcribeContent form input {
+    min-width: 100%;
 }
 }

@@ -158,7 +158,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
@@ -167,7 +167,7 @@ export default function ImmunityRecovery() {
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_1.jpg" alt="img" />
                                                                                                    </div>
@@ -228,7 +228,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6">
+                                                       <div className="col-lg-6  order-2 order-md-1">
                                                            <div className="details-content pt-5">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
@@ -237,7 +237,7 @@ At IV Bar Wellness Clinic, our Hydration IV Drip Therapy is carefully designed t
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6">
+                                                        <div className="col-lg-6  order-1 order-md-2">
                                                                <div className="details-image">
                                                                                                        <img className="radiusImg" src="/assets/img/therapy/img_7.jpg" alt="img" />
                                                                                                    </div>
