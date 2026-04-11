@@ -10361,4 +10361,15 @@ section.hero-section.fix.bg-cover.otherBanner {
 .subcribeContent form input {
     min-width: 100%;
 }
+.footer-widgets-wrapper .single-footer-widget .widget-head {
+    margin-top: 0;
+}
+.footer-widgets-wrapper .single-footer-widget {
+    margin-top: 0;
+    /* display: none; */
+}
+.footer-widgets-wrapper .single-footer-widget .footer-content .social-icon {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 }
