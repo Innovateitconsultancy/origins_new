@@ -812,7 +812,7 @@ Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boos
                                  <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.png" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/munjaro_pro.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Munjaro Therapy</h4>
@@ -847,7 +847,7 @@ Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boos
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/ozempic.png" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/ozempic_pr.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Ozempic Therapy</h4>

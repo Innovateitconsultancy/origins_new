@@ -122,7 +122,7 @@ export default function Ozempic() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/ozempic.png" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/ozempic_pr.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        

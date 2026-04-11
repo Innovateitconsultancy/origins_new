@@ -38,7 +38,7 @@ export default function ImmunityRecovery() {
            <div className="heroBannerText">
            <div className="bannerContent">
            <h1> Membership Program<br/>
-         <b>Experience Year-Round Vitality with Our Membership</b>  
+         <b>Experience Year-Round Vitality with Our </b>  
 </h1>
 {/* <h2>
    Smooth • Lift • Refresh
