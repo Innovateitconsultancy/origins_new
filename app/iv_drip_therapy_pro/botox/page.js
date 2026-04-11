@@ -122,7 +122,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/botox_img.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
