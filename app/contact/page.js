@@ -64,7 +64,7 @@ export default function AboutUs() {
                                                     </div>
                                                     <div className="content">
                                                         <p>Make a Quote</p>
-                                                        <h3>
+                                                        <h3 className="emailInifo">
                                                             <Link href="/mailto:infidexlimited@gmail.com">infidexlimited@gmail.com</Link>
                                                         </h3>
                                                     </div>

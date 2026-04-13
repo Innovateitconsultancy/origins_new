@@ -10395,4 +10395,8 @@ section.hero-section.fix.bg-cover.otherBanner {
     color: #fff;
     border-radius: 40px;
 }
+.contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items .content h3.emailInifo {
+   
+    text-transform: lowercase;
+}
 }
