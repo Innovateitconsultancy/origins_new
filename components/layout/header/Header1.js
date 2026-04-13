@@ -57,7 +57,7 @@ export default function Header1({
                                             </nav>
                                         </div>
                                     </div>
-                                    <a onClick={handleSearch} className="search-trigger search-icon"><i className="fal fa-search" /></a>
+                                    {/* <a onClick={handleSearch} className="search-trigger search-icon"><i className="fal fa-search" /></a> */}
                                     <div className="header-button">
                                         <Link href="/contact" className="theme-btn">
                                             <span>

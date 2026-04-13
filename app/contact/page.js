@@ -1,14 +1,38 @@
-
-import VideoPopup from "@/components/elements/VideoPopup"
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
-export default function Contact() {
+// import HeroAboutUsSection from "@/components/sections/HeroAboutUsSection"
+export const metadata = {
+    title: 'Contact Us',
+    description: ' We’re here to help you—reach out anytime',
+};
 
+export default function AboutUs() {
     return (
         <>
 
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Contact Us">
+            <Layout headerStyle={1} footerStyle={1} >
                 <div>
+                        <section className="hero-section fix hero-11111 bg-cover otherBanner ">
+               
+                <div className="heroBanner contactUs">
+                    <div className="heroBannerInfo">
+<div className="heroBannerText">
+<div className="bannerContent">
+<h1>Contact Us</h1>
+<div className="text">
+   We’re here to help you—reach out anytime
+    </div>
+        <div className="heroBannerBtns">
+                                    {/* <Link href="/contact"  >BOOK IV THERAPY</Link > */}
+                                    <Link href="/iv_drip_therapy_pro" >VIEW ALL SERVICES</Link>
+                                    {/* <a href="" className="btnOutlineWhite" >BECOME A MEMBER</a> */}
+        </div>
+     
+                    </div>
+                    </div>
+                    </div>
+                </div>
+            </section>
                     <section className="contact-section fix section-padding">
                         <div className="container">
                             <div className="contact-wrapper-2">

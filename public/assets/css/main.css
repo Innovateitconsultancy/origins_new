@@ -10091,6 +10091,9 @@ h6 {
 .heroBanner.membership_programs {
   background: url(../../assets/img/membership_program.jpg) no-repeat;
 }
+.heroBanner.contactUs {
+  background: url(../../assets/img/contact_us.jpg) no-repeat;
+}
 .heroBannerRight .recommendedAddons {
   list-style: none;
   display: flex;
@@ -10318,6 +10321,9 @@ h6 {
 .heroBanner.membership_programs {
   background: url(../../assets/img/membership_program_mob.png) no-repeat;
 }
+.heroBanner.contactUs {
+  background: url(../../assets/img/contact_us_mob.png) no-repeat;
+}
 .otherBanner .heroBanner {
     background-size: 100%!important;
 }
@@ -10371,5 +10377,22 @@ section.hero-section.fix.bg-cover.otherBanner {
 .footer-widgets-wrapper .single-footer-widget .footer-content .social-icon {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.contact-wrapper-2 .contact-left-items .contact-info-area-2 {
+    padding: 40px 10px;
+}
+.contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items {
+    gap: 4px;
+}
+.contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items .icon {
+    width: 45px;
+}
+.contact-wrapper-2 .contact-left-items .contact-info-area-2 .contact-info-items .content h3 {
+    font-size: 16px;
+}
+.mean-container .mean-nav ul li  a.theme-btn {
+    text-align: center;
+    color: #fff;
+    border-radius: 40px;
 }
 }

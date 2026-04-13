@@ -144,7 +144,7 @@ export default function MobileMenu() {
                           
                           
                             <li className="mean-last">
-                                <Link href="/contact">Contact Us</Link>
+                                <Link href="/contact" className="theme-btn"><span>Contact Us <i className="fa-solid fa-arrow-right-long"></i></span> </Link>
                             </li>
                         </ul>
                     </nav></div></div>
