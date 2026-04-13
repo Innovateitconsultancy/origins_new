@@ -51,21 +51,20 @@ export default function Menu() {
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" className="theme-btn">
+                                         {/* <Link href="/iv_drip_therapy_pro/munjaro_ozempic" className="theme-btn">
                                             Munjaro
-                                            {/* <span>Beauty & Pro-Aging</span> */}
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
+                                           
+                                        </Link> */}
                                         
                                     </div>
                                 </div>
                                 <div className="homemenu">
                                     <div className="demo-button">
-                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" className="theme-btn">
+                                         {/* <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" className="theme-btn">
                                             Ozempic
-                                            {/* <span>Beauty & Pro-Aging</span> */}
-                                            <i className="fas fa-arrow-right-long" />
-                                        </Link>
+                                          
+                                           
+                                        </Link> */}
                                         <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn">
                                            HAIR, NAILS & SKIN
                                             {/* <span>Recovery</span> */}
@@ -98,6 +97,16 @@ export default function Menu() {
                             </div>
                         </li>
                     </ul>
+                </li>
+                 <li>
+                    <Link href="/iv_drip_therapy_pro/munjaro_ozempic"> Munjaro</Link>
+                </li>
+                <li>
+                    <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic"> Ozempic</Link>
+                </li>
+                
+                 <li>
+                    <Link href="/membership_program">Memberships</Link>
                 </li>
                  <li>
                     <Link href="/membership_program">Memberships</Link>

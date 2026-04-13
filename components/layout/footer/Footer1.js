@@ -20,9 +20,7 @@ export default function Footer1() {
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                            Phasellus ultricies aliquam volutpat
-                                            ullamcorper laoreet neque, a lacinia
-                                            curabitur lacinia mollis
+                                          IV BAR Hydration brings IV therapy and wellness treatments to your home, nationwide.
                                         </p>
                                         <div className="social-icon d-flex align-items-center">
                                             <Link href="#"><i className="fab fa-facebook-f" /></Link>
@@ -153,12 +151,12 @@ export default function Footer1() {
                                                 About Us
                                             </Link>
                                         </li>
-                                         <li>
+                                         {/* <li>
                                             <Link href="/">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Community
                                             </Link>
-                                        </li>
+                                        </li> */}
                                         <li>
                                             <Link href="/membership_program">
                                                 <i className="fa-solid fa-chevron-right" />

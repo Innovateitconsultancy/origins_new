@@ -75,19 +75,17 @@ export default function MobileMenu() {
                                         </Link>
                                         </li> 
                                         <li>
-                                         <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
-                                            Munjaro
-                                            {/* <span>Beauty & Pro-Aging</span> */}
+                                         {/* <Link href="/iv_drip_therapy_pro/munjaro_ozempic" >
+                                            Munjaro                                           
                                             <i className="fas fa-arrow-right-long" />
-                                        </Link>
+                                        </Link> */}
                                         </li>
- <li>
+                                             {/* <li>
                                          <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic" >
-                                           Ozempic
-                                            {/* <span>Beauty & Pro-Aging</span> */}
+                                           Ozempic                                          
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        </li>
+                                        </li> */}
                                        
                                         <li>                                            
                                        
@@ -130,6 +128,12 @@ export default function MobileMenu() {
                                     <i className="far fa-plus" />
                                 </a>
                             </li>
+                             <li>
+                    <Link href="/iv_drip_therapy_pro/munjaro_ozempic"> Munjaro</Link>
+                </li>
+                <li>
+                    <Link href="/iv_drip_therapy_pro/munjaro_ozempic/ozempic"> Ozempic</Link>
+                </li>
                             <li>
                                 <Link href="/membership_program">Memberships</Link>
                                
