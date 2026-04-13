@@ -497,8 +497,7 @@ Magnesium, Calcium, Zinc, Glutathione, Biotin.
                                             <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>The Wellness
-Replenish & Revitalise</h4>
+                                            <h4>Glutathione </h4>
                                             {/* <h5>Your Peak Perfomance</h5> */}
                                             <p className="threeDotLine">Experience the transformative power of Glutathione, the
 body's master antioxidant. This potent treatment helps
@@ -508,7 +507,7 @@ oxidative stress for a radiant, youthful glow. It also
 supports immune function and detoxification pocesses,
 promoting overall wellness from within.</p>
 <p className="productIngr twoDotLine">
-    <b>600mg: Kes </b> <b>1200mg: Kes</b> <b>2400mg: Kes</b>
+    <b>600mg: Kes </b>, <b>1200mg: Kes</b>, <b>2400mg: Kes</b>
 </p>
                                             <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
                                                 Find More
@@ -688,7 +687,7 @@ NAC (N-Acetyl Cysteine), CoQ10, Black Cohosh, Vitex Agnus-Castus.
                                             <img src="/assets/img/therapy/nad.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
-                                            <h4>Fatherhood | Male Fertility
+                                            <h4>NAD+
 </h4>
                                             {/* <h5>Your Peak Perfomance</h5> */}
                                             <p className="threeDotLine">Nicotinamide Adenine Dinucleotide (NAD+) is a vital
@@ -701,9 +700,9 @@ rejuvenation. Experience the revitalizing benefits of
 optimized cellular health.
 </p>
 <p className="productIngr twoDotLine">
-    <b>100mg: $250</b> <br/>
-    <b>250mg: $450</b>
-    <b>500mg: $800</b>
+    <b>100mg:</b> $250,  
+     <b>250mg:</b> $450,   
+     <b>500mg:</b> $800 
 </p>
                                             <Link href="/iv_drip_therapy_pro/nad" className="theme-btn-2 mt-3">
                                                 Find More
