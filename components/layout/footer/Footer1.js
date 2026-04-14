@@ -24,9 +24,10 @@ export default function Footer1() {
                                         </p>
                                         <div className="social-icon d-flex align-items-center">
                                             <Link href="#"><i className="fab fa-facebook-f" /></Link>
-                                            <Link href="#"><i className="fab fa-twitter" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-                                            <Link href="#"><i className="fa-brands fa-youtube" /></Link>
+                                            <Link href="#"><i className="fa-brands fa-instagram"></i></Link>
+                                            {/* <Link href="#"><i className="fab fa-twitter" /></Link> */}
+                                            {/* <Link href="#"><i className="fa-brands fa-linkedin-in" /></Link> */}
+                                            {/* <Link href="#"><i className="fa-brands fa-youtube" /></Link> */}
                                         </div>
                                     </div>
                                 </div>

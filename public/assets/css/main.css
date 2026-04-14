@@ -10216,6 +10216,13 @@ h6 {
     display: none;
 }
 @media (max-width: 767px) {
+.footer-widgets-wrapper .col-xl-3.col-lg-3.col-md-6.ps-lg-5.wow.fadeInUp .single-footer-widget .widget-head {
+    display: none;
+}
+.footer-widgets-wrapper .single-footer-widget .widget-head h3 {
+  
+    padding-bottom: 0px;
+}
   h1 {
     font-size: 30px;
 }
