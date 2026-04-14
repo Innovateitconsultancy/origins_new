@@ -108,9 +108,9 @@ export default function Menu() {
                  <li>
                     <Link href="/membership_program">Memberships</Link>
                 </li>
-                 <li>
+                 {/* <li>
                     <Link href="/membership_program">Memberships</Link>
-                </li>
+                </li> */}
                  {/* <li>
                     <Link href="/">Community</Link>
                 </li> */}
