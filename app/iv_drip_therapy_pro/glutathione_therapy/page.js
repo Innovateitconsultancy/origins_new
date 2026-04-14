@@ -262,7 +262,7 @@ At IV Bar Wellness Clinic, our Glutathione Therapy is carefully designed to deli
                                                                    <ul className=" mb-4">
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/skin_glow.png" alt="Skin Glow" /></i> Skin Glow</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/cleanse.png" alt="Brightening" /></i> Brightening</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/brightening.png" alt="Brightening" /></i> Brightening</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/even_tone.png" alt="Even Tone" /></i> Even Tone</li>                                                                       
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
