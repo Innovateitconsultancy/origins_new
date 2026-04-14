@@ -257,7 +257,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Strength & Vitality</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/iron_deficiency.png" alt="Iron Deficiency" /></i> Iron Deficiency</li>

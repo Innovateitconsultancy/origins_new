@@ -257,7 +257,7 @@ Skin Glow Vitamin C + Glutathione IV Therapy is designed to enhance your skin’
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Radiant Skin</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/skin_glow.png" alt="Skin Glow" /></i> Skin Glow</li>

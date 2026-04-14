@@ -251,7 +251,7 @@ Detox Liver & Gut Cleanse Therapy is designed to support your body’s natural d
                                                           
                                                        <div className="col-lg-12">
                                                            <div className="details-content pt-5">
-                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Immunity (Cold & Flu Booster)</b></h3>
+                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Better Digestion & Wellness</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
                                                                     <li><i className=""><img  src="/assets/img/icons/detox.png" alt="Detox"/></i> Detox</li>

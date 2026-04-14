@@ -257,7 +257,7 @@ At IV Bar Wellness Clinic, our NAD+ Therapy is carefully designed to support you
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Energy, Focus & Recovery</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        

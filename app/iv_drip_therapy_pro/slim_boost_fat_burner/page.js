@@ -257,7 +257,7 @@ At IV Bar Wellness Clinic, our Slim Boost – Fat Burner Therapy is carefully de
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Hydrate- Ultimate Hydration</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for <b>Faster Metabolism & Detox</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/fat_burn.png" alt="Fat Burn" /></i> Fat Burn</li>

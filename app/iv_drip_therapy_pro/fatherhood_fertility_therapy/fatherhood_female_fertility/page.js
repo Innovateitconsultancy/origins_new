@@ -250,7 +250,7 @@ At IV Bar Wellness Clinic, our Motherhood – Female Fertility Therapy is carefu
                                                           
                                                        <div className="col-lg-12">
                                                            <div className="details-content pt-5">
-                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Wellness Replenish & Revitalise Therapy</b></h3>
+                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Balance & Vitality</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
                                                                     <li><i className=""><img  src="/assets/img/icons/fertility.png" alt="Fertility"/></i> Fertility</li>
