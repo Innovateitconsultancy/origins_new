@@ -9230,12 +9230,14 @@ html {
 }
 
 /*# sourceMappingURL=main.css.map */
-
+.hero-1 {
+    height: 90vh;
+}
 .heroBanner {
   background: url(../../assets/img/banner-frontpage-Drip.jpg) no-repeat;
   background-size: cover;
   position: relative;
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   box-sizing: border-box;
 }
@@ -9586,7 +9588,7 @@ section.subcribeSection {
 }
 
 .heroBanner .heroBannerInfo .heroBannerText .bannerContent {
-  width: 50%;
+  width: 40%;
 }
 
 h1 {
@@ -10343,6 +10345,16 @@ h6 {
 }
 .heroBanner.glutathione {
   background: url(../../assets/img/glutathione_mob.png) no-repeat;
+}
+.heroBanner {
+    background: url(../../assets/img/banner-frontpage-Drip_mob.png) no-repeat;
+   
+    min-width: auto;
+    min-height: auto;
+    background-size: 100%;
+}
+.hero-1 {
+    height: auto;
 }
 .otherBanner .heroBanner {
     background-size: 100%!important;
