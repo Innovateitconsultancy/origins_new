@@ -50,7 +50,7 @@ export default function AboutUs() {
                                                     <div className="content">
                                                         <p>Call Us 7/24</p>
                                                         <h3>
-                                                            <Link href="/tel:+254707053367">+254707053367</Link>
+                                                            <Link href="tel:+254707053367">+254707053367</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -65,7 +65,7 @@ export default function AboutUs() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3 className="emailInifo">
-                                                            <Link href="/mailto:infidexlimited@gmail.com">infidexlimited@gmail.com</Link>
+                                                            <Link href="mailto:infidexlimited@gmail.com">infidexlimited@gmail.com</Link>
                                                         </h3>
                                                     </div>
                                                 </div>
