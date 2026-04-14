@@ -68,7 +68,7 @@ export default function MobileMenu() {
                                         </Link>
                                         </li> 
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/vitaglow" >
+                                        <Link href="/iv_drip_therapy_pro/glutathione_therapy" >
                                             GLUTATHIONE
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />
@@ -89,35 +89,35 @@ export default function MobileMenu() {
                                        
                                         <li>                                            
                                        
-                                        <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/hair_nails_skin_nourishment/hair_nails_skin" >
                                            HAIR, NAILS & SKIN
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link> 
                                         </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_male_fertility" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/fatherhood_fertility_therapy/fatherhood_male_fertility" >
                                            FERTILITY
                                             {/* <span>Detox</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/nad" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/nad" >
                                             NAD+
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                        </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" >
                                            BOOSTER SHOTS
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/botox" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/botox" >
                                           Botox
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />

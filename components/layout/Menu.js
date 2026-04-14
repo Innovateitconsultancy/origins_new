@@ -46,7 +46,7 @@ export default function Menu() {
                                             {/* <span>Wellness</span> */}
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
-                                        <Link href="/iv_drip_therapy_pro/vitaglow" className="theme-btn">
+                                        <Link href="/iv_drip_therapy_pro/glutathione_therapy" className="theme-btn">
                                             GLUTATHIONE
                                             {/* <span>Beauty & Pro-Aging</span> */}
                                             <i className="fas fa-arrow-right-long" />

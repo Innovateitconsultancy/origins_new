@@ -64,7 +64,7 @@ export default function Footer1() {
                                         </Link>
                                         </li> 
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/vitaglow" >
+                                        <Link href="/iv_drip_therapy_pro/glutathione_therapy" >
                                            <i className="fa-solid fa-chevron-right" />  GLUTATHIONE
                                            
                                            
