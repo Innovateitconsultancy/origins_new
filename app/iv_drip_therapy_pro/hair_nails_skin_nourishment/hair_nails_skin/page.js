@@ -250,12 +250,12 @@ export default function UltravIVPro() {
                                                           
                                                        <div className="col-lg-12">
                                                            <div className="details-content pt-5">
-                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Immunity (Cold & Flu Booster)</b></h3>
+                                                               <h3 className="section-title text-center mrgB40">Best uses for <b>Strong Hair & Beautiful Nails</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className="list mb-4">
                                                                     <li><i className=""><img  src="/assets/img/icons/skin_glow.png" alt="Skin Glow"/></i> Skin Glow</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/hair_growth.png" alt="Hair Growth"/></i>  Hair Growth</li>
-                                                                       <li><i className=""><img  src="/assets/img/icons/nail_strength.png" alt="Nail Strength"/></i> Nail Strength</li>   
+                                                                       <li><i className=""><img  src="/assets/img/icons/hair.png" alt="Hair Growth"/></i>  Hair Growth</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/nail.png" alt="Nail Strength"/></i> Nail Strength</li>   
                                                                        <li><i className=""><img  src="/assets/img/icons/hydration.png" alt="Hydration"/></i> Hydration</li>                                                                    
                                                                         <li><i className=""><img  src="/assets/img/icons/collagen_boost.png" alt="Collagen Boost"/></i> Collagen Boost</li>   
                                                                        <li><i className=""><img  src="/assets/img/icons/anti-aging.png" alt="Anti-aging"/></i> Anti-aging</li>
