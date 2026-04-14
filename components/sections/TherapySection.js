@@ -105,14 +105,14 @@ export default function TherapySection() {
             onClick={() => setActiveTab("boostershorts")}>
            BOOSTER SHOTS
           </button>
-           <button  className={activeTab === "munjaroozempic" ? "active" : ""}
+           {/* <button  className={activeTab === "munjaroozempic" ? "active" : ""}
             onClick={() => setActiveTab("munjaroozempic")}>
           Munjaro
           </button>
           <button  className={activeTab === "munjaroozempic_new" ? "active" : ""}
             onClick={() => setActiveTab("munjaroozempic_new")}>
           Ozempic
-          </button>
+          </button> */}
            <button  className={activeTab === "botox" ? "active" : ""}
             onClick={() => setActiveTab("botox")}>
            Botox
