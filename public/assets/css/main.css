@@ -9617,6 +9617,7 @@ h1 {
   background: #eee;
   border-radius: 25px;
   cursor: pointer;
+ 
 }
 
 .tabsHome button.active {
@@ -9639,6 +9640,7 @@ h1 {
   line-height: 20px;
   overflow: hidden;
   display: inline-block;
+   text-transform: uppercase;
 }
 
 .tabsHome button:hover {
@@ -10091,6 +10093,9 @@ h6 {
 .heroBanner.membership_programs {
   background: url(../../assets/img/membership_program.jpg) no-repeat;
 }
+.heroBanner.glutathione {
+  background: url(../../assets/img/glutathione.jpg) no-repeat;
+}
 .heroBanner.contactUs {
   background: url(../../assets/img/contact_us.jpg) no-repeat;
 }
@@ -10204,7 +10209,9 @@ h6 {
     font-weight: 500 !important;
     line-height: 28px !important;
 } */
-
+.project-details-items .details-image {
+    background: #fff;
+}
 @media (max-width: 767px) {
   h1 {
     font-size: 30px;
@@ -10323,6 +10330,9 @@ h6 {
 }
 .heroBanner.contactUs {
   background: url(../../assets/img/contact_us_mob.png) no-repeat;
+}
+.heroBanner.glutathione {
+  background: url(../../assets/img/glutathione_mob.png) no-repeat;
 }
 .otherBanner .heroBanner {
     background-size: 100%!important;

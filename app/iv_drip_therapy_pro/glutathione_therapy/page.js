@@ -3,8 +3,8 @@ import Link from "next/link";
 import BlogSection from "@/components/sections/BlogSection"
 import SubscribeSection from "@/components/sections/SubscribeSection"
 export const metadata = {
-    title: 'Fatherhood – Male Fertility Therapy',
-    description: 'Support Your Journey to Fatherhood Male Fertility IV Therapy for Strength & Vitality 👨‍👦 Boost • Balance • Improve ',
+    title: 'Glutathione Therapy',
+    description: 'Glutathione Therapy for Brighter, Clearer Skin',
 };
 
 export default function ImmunityRecovery() {
@@ -33,15 +33,15 @@ export default function ImmunityRecovery() {
                                    </Link>
                                </div>
                            </div> */}
-                           <div className="heroBanner fatherhood_male_fertility">
+                           <div className="heroBanner glutathione">
                                <div className="heroBannerInfo">
            <div className="heroBannerText">
            <div className="bannerContent">
-           <h1>Support Your Journey to Fatherhood<br/>
-         <b>Male Fertility IV Therapy for Strength & Vitality</b>  
+           <h1> Reveal Your Natural Glow <br/>
+         <b>Glutathione Therapy for Brighter, Clearer Skin</b>  
 </h1>
 <h2>
-   Boost • Balance • Improve
+  Brighten • Detox • Radiate
 </h2>
            {/* <h2><i>$</i>299</h2> */}
            {/* <p className="blackText">Strengthen & Protect</p> */}
@@ -122,18 +122,18 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/fatherhood.png" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/glutathione_pr_bg.jpg" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
-                                                               <h3>Fatherhood – Male Fertility Therapy</h3>
+                                                           <div className="">
+                                                               <h3>Glutathione Therapy</h3>
                                                                  <div className="service-content">
                                            
                                            
                                             <p className="">
-Fatherhood – Male Fertility IV Therapy is designed to support reproductive health and improve overall vitality in men. By delivering essential vitamins, antioxidants, and nutrients directly into your bloodstream, this therapy helps enhance sperm health, boost energy levels, and support hormonal balance. It is ideal for individuals planning for fatherhood and looking to improve fertility and overall well-being.
+Glutathione IV Therapy is designed to support detoxification, enhance skin radiance, and improve overall wellness. By delivering a powerful antioxidant directly into your bloodstream, this therapy helps neutralize free radicals and promote cellular health. It is ideal for individuals looking to achieve brighter skin, reduce dullness, and support internal cleansing for a healthier, more radiant appearance.
                                             </p>
 
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -160,18 +160,18 @@ Fatherhood – Male Fertility IV Therapy is designed to support reproductive hea
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                        <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6  order-2 order-md-1">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Approach to Wellness</h3> */}
                                                                <p>
-                                                                     This therapy focuses on providing key nutrients that support male reproductive health, including antioxidants that help reduce oxidative stress and improve sperm quality. IV administration ensures maximum absorption, allowing your body to receive these nutrients efficiently without digestive loss. It helps support hormonal balance, improve energy levels, and enhance overall vitality while promoting better reproductive function. Administered by trained professionals in a safe clinical environment, the treatment offers a reliable and effective approach to support male fertility and wellness.
-                                                                         </p>
+Glutathione is known as one of the body’s most powerful antioxidants, playing a key role in detoxification and skin health. IV administration ensures maximum absorption, allowing it to work effectively at a cellular level. This therapy helps reduce pigmentation, improve skin clarity, and protect against oxidative stress while supporting liver function and overall wellness. Administered by trained professionals in a safe clinical environment, it provides visible and long-lasting results.
+                                                                 </p>
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6  order-1 order-md-2">
+                                                        <div className="col-lg-6 order-1 order-md-2">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_6.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_27.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -198,20 +198,20 @@ Fatherhood – Male Fertility IV Therapy is designed to support reproductive hea
                                                            </div>
                                                        
                                                        <div className="col-lg-6">
-                                                           <div className="details-content pt-5">
+                                                           <div className="">
                                                             <p>
-This therapy supports male fertility while helping improve overall vitality, energy, and reproductive health for better outcomes.
+This therapy supports detoxification and skin health while helping improve radiance, clarity, and overall wellness for a refreshed appearance.
                                                             </p>
                                                                <h3>Key Benefits</h3>
                                                                <div>
                                                                    <ul className="list mb-4">
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Fertility</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i>  Sperm Health</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Hormone Balance</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Energy</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
-                                                                       <li><i className="fa-regular fa-circle-check"></i> Wellness</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Skin Glow</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i>  Brightening</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Detox</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Even Tone</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Radiance</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >
@@ -236,18 +236,18 @@ This therapy supports male fertility while helping improve overall vitality, ene
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                         <div className="row g-4 justify-content-between topBottm30">                                    
                                                        
-                                                       <div className="col-lg-6  order-2 order-md-1">
-                                                           <div className="details-content pt-5">
+                                                       <div className="col-lg-6 order-2 order-md-1">
+                                                           <div className="">
                                                                {/* <h3>Our Vision</h3> */}
                                                                <p>
-At IV Bar Wellness Clinic, our Fatherhood – Male Fertility Therapy is designed to provide targeted nutritional support for men looking to improve reproductive health and overall vitality. Each session begins with a consultation to understand your lifestyle, health concerns, and fertility goals, allowing us to customize the therapy accordingly. Our IV formulations include essential vitamins, antioxidants, and nutrients that help support sperm health, reduce oxidative stress, and promote hormonal balance. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety and optimal results. Whether you are planning for fatherhood or looking to improve your overall wellness, this therapy provides a reliable and effective solution. Experience improved vitality, enhanced reproductive health, and greater confidence with our advanced IV treatments.
+At IV Bar Wellness Clinic, our Glutathione Therapy is carefully designed to deliver visible results while supporting your body from within. Each session begins with a consultation to understand your skin concerns, lifestyle, and wellness goals, allowing us to customize the therapy for optimal effectiveness. Our IV formulations include high-quality glutathione that helps reduce oxidative stress, improve skin clarity, and support detoxification processes in the body. The treatment is safe, comfortable, and typically completed within 30 to 45 minutes, making it convenient for individuals with busy schedules. Administered by trained professionals in a hygienic clinical environment, the therapy ensures safety and effectiveness. Whether you are looking to brighten your complexion, reduce pigmentation, or support internal detox, this therapy provides a reliable and effective solution. Experience clearer skin, enhanced radiance, and improved overall wellness with our advanced IV treatments.
                                                                 </p>      
  <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                                                             
                                                            </div>
                                                        </div>
-                                                        <div className="col-lg-6  order-1 order-md-2">
+                                                        <div className="col-lg-6 order-1 order-md-2 ">
                                                                <div className="details-image">
-                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_10.jpg" alt="img" />
+                                                                                                       <img className="radiusImg" src="/assets/img/therapy/img_19.jpg" alt="img" />
                                                                                                    </div>
                                                            </div>
                                                        </div>
@@ -257,16 +257,17 @@ At IV Bar Wellness Clinic, our Fatherhood – Male Fertility Therapy is designed
                                                        
                                                        <div className="col-lg-12">
                                                            <div className="details-content ">
-                                                               <h3  className="section-title text-center mrgB40">Best uses for <b> Fatherhood – Male Fertility Therapy</b></h3>
+                                                               <h3  className="section-title text-center mrgB40">Best uses for a<b>  Youthful, Refreshed Look</b></h3>
                                                                <div className="iconsblockInfo">
                                                                    <ul className=" mb-4">
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/fertility.png" alt="Fertility" /></i> Fertility</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/sperm_health.png" alt="Sperm Health" /></i> Sperm Health</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/hormone_balance.png" alt="Hormone Balance" /></i> Hormone Balance</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/vitality.png" alt="Vitality" /></i> Vitality</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/energyboost.png" alt="Energy Boost" /></i> Energy Boost</li>
-                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/reproductive_health.png" alt="Reproductive Health" /></i> Reproductive Health</li>
-                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/wellness.png" alt="Wellness" /></i> Wellness</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/skin_glow.png" alt="Skin Glow" /></i> Skin Glow</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/cleanse.png" alt="Brightening" /></i> Brightening</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/detox.png" alt="Detox" /></i> Detox</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/even_tone.png" alt="Even Tone" /></i> Even Tone</li>                                                                       
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/anti-aging.png" alt="Anti-aging" /></i> Anti-aging</li>
+                                                                       <li><i className=""><img className="radiusImg" src="/assets/img/icons/radiance.png" alt="Radiance" /></i> Radiance</li>
+                                                                        <li><i className=""><img className="radiusImg" src="/assets/img/icons/clarity.png" alt="Clarity" /></i> Clarity</li>
                                                                        
                                                                        </ul>
                                                                         

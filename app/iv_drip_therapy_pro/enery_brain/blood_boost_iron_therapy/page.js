@@ -122,7 +122,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron_therapy_img.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/blood_boost_iron-pr.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        
@@ -211,6 +211,7 @@ This therapy is beneficial for individuals with iron deficiency or those needing
                                                                        <li><i className="fa-regular fa-circle-check"></i> Oxygen Flow</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Recovery</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Endurance</li>
                                                                        </ul>
                                                                 </div>   
                                                               <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >

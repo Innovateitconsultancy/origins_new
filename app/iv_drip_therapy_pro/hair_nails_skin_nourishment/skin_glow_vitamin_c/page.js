@@ -123,7 +123,7 @@ export default function ImmunityRecovery() {
                                                    <div className="row g-4 justify-content-between topBottm30">
                                                            <div className="col-lg-6">
                                                                <div className="details-image">
-                                                                   <img className="radiusImg" src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                                                   <img className="radiusImg" src="/assets/img/therapy/skin_glow_vitamin_c.png" alt="therapy-img" />
                                                                                                    </div>
                                                            </div>
                                                        

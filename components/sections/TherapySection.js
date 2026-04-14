@@ -131,7 +131,7 @@ export default function TherapySection() {
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/hydration.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Hydrate| Ultimate Hydration</h4>
@@ -181,7 +181,7 @@ specific wellness needs for maximum benefit.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/immunity_cold_flu_booster.png" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Immunity | Cold & Flu Booster
@@ -427,7 +427,7 @@ bounce back quickly.</p>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/immunity_booster.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/blood_boost_iron-pr_bg.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Blood Boost Iron |
@@ -454,7 +454,7 @@ combating anemia and enhancing overall vitality.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/wellness_bg.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>The Wellness
@@ -494,7 +494,7 @@ Magnesium, Calcium, Zinc, Glutathione, Biotin.
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
-                                            <img src="/assets/img/therapy/iv_drip_product.jpg" alt="therapy-img" />
+                                            <img src="/assets/img/therapy/glutathione_pr_bg.jpg" alt="therapy-img" />
                                         </div>
                                         <div className="service-content">
                                             <h4>Glutathione </h4>
@@ -509,7 +509,7 @@ promoting overall wellness from within.</p>
 <p className="productIngr twoDotLine">
     <b>600mg: Kes </b>, <b>1200mg: Kes</b>, <b>2400mg: Kes</b>
 </p>
-                                            <Link href="/iv_drip_therapy_pro/hydromax" className="theme-btn-2 mt-3">
+                                            <Link href="/iv_drip_therapy_pro/glutathione_therapy" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
