@@ -209,6 +209,7 @@ export default function UltravIVPro() {
                                                                        <li><i className="fa-regular fa-circle-check"></i> Detox</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Clarity</li>
                                                                        <li><i className="fa-regular fa-circle-check"></i> Vitality</li>
+                                                                       <li><i className="fa-regular fa-circle-check"></i> Anti-aging</li>
                                                                        </ul>
                                                                 </div>  
                                            <Link className="buttonBlack mrgT20" href="/contact"  >BOOK NOW</Link >                
@@ -259,6 +260,7 @@ export default function UltravIVPro() {
                                                                        <li><i className=""><img  src="/assets/img/icons/detox.png" alt="Detox"/></i> Detox</li>
                                                                        <li><i className=""><img  src="/assets/img/icons/hangover.png" alt="Headache Relief"/></i> Headache Relief</li>
                                                                        <li><i className=""><img  src="/assets/img/icons/nausea_relief.png" alt="Nausea Relief"/></i> Nausea Relief</li>
+                                                                       <li><i className=""><img  src="/assets/img/icons/anti-aging.png" alt="Anti-aging"/></i> Anti-aging</li>
                                                                        </ul>
                                                                   
                                                                    </div>                                                   
