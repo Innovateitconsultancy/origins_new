@@ -859,7 +859,10 @@ Magnesium, Calcium, Zinc, Glutathione, Biotin.
                                             <p className="threeDotLine">
 Slim Boost – Fat Burner IV Therapy is designed to support fat metabolism, boost energy levels, and enhance overall wellness. By delivering essential vitamins, amino acids, and nutrients directly into your bloodstream, this therapy helps your body burn fat more efficiently. It is ideal for individuals looking to support weight management, improve metabolism, and achieve a more active and balanced lifestyle.
                                                 </p>
-
+<p className="productIngr twoDotLine">
+    <b>Ingredients:</b>
+  Vitamin, Vitamin C,  B12
+</p>
                                             <Link href="/iv_drip_therapy_pro/slim_boost_fat_burner" className="theme-btn-2 mt-3">
                                                 Find More
                                                 <i className="fa-solid fa-arrow-right-long" />
