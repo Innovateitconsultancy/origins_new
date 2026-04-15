@@ -7495,7 +7495,7 @@ a.whatsapp {
     bottom: 100px;
     background-color: #e4e4e4;
     width: 145px;
-    height: 38px;
+    height: 40px;
     text-align: left !important;
     border-radius: 100px;
     padding: 0 0 0 8px;
@@ -7505,7 +7505,7 @@ a.whatsapp {
     line-height: 40px !important;
     color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
-    z-index: 5;
+    z-index: 11;
 }
 a.whatsapp:hover
 {
