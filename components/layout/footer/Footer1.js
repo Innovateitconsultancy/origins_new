@@ -212,7 +212,7 @@ export default function Footer1() {
                         <i className="fa fa-arrow-up" />
                     </span>
                 </div>
-                 <Link href="https://wa.me/254707053367?text=Hello%20I%20want%20to%20know%20more" className="whatsapp">
+                 <Link href="https://wa.me/254707053367?text=Hello%20I%20want%20to%20know%20more" className="whatsapp" target="_blank">
                  <i class="fab fa-whatsapp"></i> WhatsApp us</Link>
             </footer>
 
