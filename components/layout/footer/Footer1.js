@@ -209,11 +209,11 @@ export default function Footer1() {
                         </div>
                     </div>
                     <span id="scrollUp" className="scroll-icon" onClick={scrollTop}>
-                        <i className="far fa-arrow-up" />
+                        <i className="fa fa-arrow-up" />
                     </span>
                 </div>
                  <Link href="https://wa.me/254707053367?text=Hello%20I%20want%20to%20know%20more" className="whatsapp">
-                 <i class="fab fa-whatsapp"></i> </Link>
+                 <i class="fab fa-whatsapp"></i> WhatsApp us</Link>
             </footer>
 
         </>

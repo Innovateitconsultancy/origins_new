@@ -7491,14 +7491,37 @@ input.main-search-input::placeholder {
 }
 a.whatsapp {
     position: fixed;
-    bottom: 10px;
     right: 10px;
-    background: #6ed815;
-    z-index: 2222;
-    font-size: 40px;
-    border-radius: 10px;
-    padding: 10px;
-    color: #fff;
+    bottom: 100px;
+    background-color: #e4e4e4;
+    width: 145px;
+    height: 38px;
+    text-align: left !important;
+    border-radius: 100px;
+    padding: 0 0 0 8px;
+    transition: all 0.2s ease 0s;
+    text-align: left !important;
+    display: block;
+    line-height: 40px !important;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    z-index: 5;
+}
+a.whatsapp:hover
+{
+    bottom: 105px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+a.whatsapp i {
+    color: #1eb338;
+    font-size: 24px;
+    line-height: 30px;
+    vertical-align: middle;
+    margin-left: 4px;
+    padding-right: 4px;
+}
+a.whatsapp:hover i {
+    color: #088c1c;
 }
 @media (max-width: 767px) {
   .section-title {
