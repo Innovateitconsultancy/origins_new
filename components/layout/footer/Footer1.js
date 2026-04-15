@@ -212,6 +212,8 @@ export default function Footer1() {
                         <i className="far fa-arrow-up" />
                     </span>
                 </div>
+                 <Link href="https://wa.me/254707053367?text=Hello%20I%20want%20to%20know%20more" className="whatsapp">
+                 <i class="fab fa-whatsapp"></i> </Link>
             </footer>
 
         </>

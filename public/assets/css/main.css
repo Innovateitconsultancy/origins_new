@@ -7489,6 +7489,17 @@ input.main-search-input::placeholder {
    
     text-transform: uppercase;
 }
+a.whatsapp {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background: #6ed815;
+    z-index: 2222;
+    font-size: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    color: #fff;
+}
 @media (max-width: 767px) {
   .section-title {
     margin-bottom: 0;
