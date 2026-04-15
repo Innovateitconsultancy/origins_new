@@ -81,10 +81,10 @@ export default function TherapySection() {
             onClick={() => setActiveTab("malePerformance")}>
             Male  PERFORMANCE
           </button>
-           {/* <button  className={activeTab === "enrgy" ? "active" : ""}
+           <button  className={activeTab === "enrgy" ? "active" : ""}
             onClick={() => setActiveTab("enrgy")}>
             ENERGY & BRAIN
-          </button> */}
+          </button>
              <button className={activeTab === "glutathione" ? "active" : ""}
             onClick={() => setActiveTab("glutathione")}>
             GLUTATHIONE
@@ -107,7 +107,7 @@ export default function TherapySection() {
           </button> */}
             <button  className={activeTab === "boostershorts" ? "active" : ""}
             onClick={() => setActiveTab("boostershorts")}>
-           iron boost
+           BOOSTER SHOTS
           </button>
            {/* <button  className={activeTab === "munjaroozempic" ? "active" : ""}
             onClick={() => setActiveTab("munjaroozempic")}>
@@ -470,7 +470,33 @@ Ondansetron, Ketorolac.
                         <div className="swiper service-slider">
                             <Swiper {...swiperOptions} className="swiper-wrapper">
                                
-                                
+                                <SwiperSlide>
+                                    <div className="service-card-items">
+                                        <div className="service-image">
+                                            <img src="/assets/img/therapy/blood_boost_iron-pr_bg.jpg" alt="therapy-img" />
+                                        </div>
+                                        <div className="service-content">
+                                            <h4>Blood Boost Iron |
+Boosted Iron Levels </h4>
+                                            {/* <h5>Your Peak Perfomance</h5> */}
+                                            <p className="threeDotLine">Formulated to address iron deficiency and
+combat fatigue associated with low iron
+levels. This treatment efficiently replenishes your body's iron stores, crucial for healthy red blood cell production, imnproved oxygen transport, and sustained
+energy throughout the day. It is essential for
+combating anemia and enhancing overall vitality.
+
+</p>
+<p className="productIngr twoDotLine">
+    <b>Ingredients:</b>
+    Iron Sucrose, Vitamin C, B12, Folic Acid.
+</p>
+                                            <Link href="/iv_drip_therapy_pro/enery_brain/blood_boost_iron_therapy" className="theme-btn-2 mt-3">
+                                                Find More
+                                                <i className="fa-solid fa-arrow-right-long" />
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </SwiperSlide>
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">
@@ -795,59 +821,7 @@ optimized cellular health.
               <div className="service-wrapper">
                         <div className="swiper service-slider">
                             <Swiper {...swiperOptions} className="swiper-wrapper">
-                                 <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/blood_boost_iron-pr_bg.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>Blood Boost Iron |
-Boosted Iron Levels </h4>
-                                            {/* <h5>Your Peak Perfomance</h5> */}
-                                            <p className="threeDotLine">Formulated to address iron deficiency and
-combat fatigue associated with low iron
-levels. This treatment efficiently replenishes your body's iron stores, crucial for healthy red blood cell production, imnproved oxygen transport, and sustained
-energy throughout the day. It is essential for
-combating anemia and enhancing overall vitality.
-
-</p>
-<p className="productIngr twoDotLine">
-    <b>Ingredients:</b>
-    Iron Sucrose, Vitamin C, B12, Folic Acid.
-</p>
-                                            <Link href="/iv_drip_therapy_pro/enery_brain/blood_boost_iron_therapy" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>    
-                                    <SwiperSlide>
-                                    <div className="service-card-items">
-                                        <div className="service-image">
-                                            <img src="/assets/img/therapy/wellness_bg.jpg" alt="therapy-img" />
-                                        </div>
-                                        <div className="service-content">
-                                            <h4>The Wellness
-Replenish & Revitalise</h4>
-                                            {/* <h5>Your Peak Perfomance</h5> */}
-                                            <p className="threeDotLine">A comprehensive infusion designed to
-restore hydration and essential vitamins for
-overall well-being. This treatment revitalizes
-your body from within, boosting your immmune system, improving skin health, and
-combating the effects of stress and dehydration. It offers a complete reset for a reffreshed and balanced feeling.</p>
-<p className="productIngr twoDotLine">
-    <b>Ingredients:</b>
-  Vitamin C, B-Complex, B12,
-Magnesium, Calcium, Zinc, Glutathione, Biotin.
-</p>
-                                            <Link href="/iv_drip_therapy_pro/enery_brain/wellness_replenish_revitalise" className="theme-btn-2 mt-3">
-                                                Find More
-                                                <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
-                                        </div>
-                                    </div>
-                                </SwiperSlide>                        
+                                                             
                                 <SwiperSlide>
                                     <div className="service-card-items">
                                         <div className="service-image">

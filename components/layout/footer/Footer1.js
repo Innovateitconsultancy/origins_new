@@ -52,8 +52,14 @@ export default function Footer1() {
                                         </li> 
                                         <li>
                                         <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" >
-                                           <i className="fa-solid fa-chevron-right" />  WEIGHT & PERFORMANCE
+                                          <i className="fa-solid fa-chevron-right" />    WEIGHT Loss
+                                            {/* <span>Recovery</span> */}
                                            
+                                        </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/iv_drip_therapy_pro/detoxify_cleanse/post_party_hangover_recovery" >
+                                          <i className="fa-solid fa-chevron-right" />   Male  PERFORMANCE 
                                            
                                         </Link>
                                         </li>
@@ -122,7 +128,7 @@ export default function Footer1() {
                                         </Link>
                                        </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" >
+                                        <Link href="/iv_drip_therapy_pro/slim_boost_fat_burner" >
                                          <i className="fa-solid fa-chevron-right" />
                                            BOOSTER SHOTS
                                            

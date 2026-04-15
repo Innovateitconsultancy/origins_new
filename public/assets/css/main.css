@@ -7482,7 +7482,13 @@ input.main-search-input::placeholder {
   margin-bottom: 30px;
   margin-top: -7px;
 }
-
+.mean-container .mean-nav ul li li a {
+    text-transform: uppercase;
+}
+.header-main .main-menu ul li .has-homemenu .homemenu-items .homemenu .demo-button a {
+   
+    text-transform: uppercase;
+}
 @media (max-width: 767px) {
   .section-title {
     margin-bottom: 0;

@@ -55,8 +55,14 @@ export default function MobileMenu() {
                                         </li> 
                                         <li>
                                         <Link href="/iv_drip_therapy_pro/weight_performance/fat_burner_fat_burning_detoxification" >
-                                            WEIGHT & PERFORMANCE
+                                            WEIGHT Loss
                                             {/* <span>Recovery</span> */}
+                                            <i className="fas fa-arrow-right-long" />
+                                        </Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/iv_drip_therapy_pro/detoxify_cleanse/post_party_hangover_recovery">
+                                           Male  PERFORMANCE 
                                             <i className="fas fa-arrow-right-long" />
                                         </Link>
                                         </li>
@@ -110,7 +116,7 @@ export default function MobileMenu() {
                                         </Link>
                                        </li>
                                         <li>
-                                        <Link href="/iv_drip_therapy_pro/munjaro_ozempic/munjaro" >
+                                        <Link href="/iv_drip_therapy_pro/slim_boost_fat_burner" >
                                            BOOSTER SHOTS
                                             {/* <span>Recovery</span> */}
                                             <i className="fas fa-arrow-right-long" />
