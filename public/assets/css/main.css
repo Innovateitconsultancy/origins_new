@@ -4398,7 +4398,10 @@ span {
   background: var(--theme);
   border-radius: 10px;
 } */
-
+::-webkit-scrollbar {
+  display: block;
+  -webkit-overflow-scrolling: touch;
+}
 .fix {
   overflow: hidden;
 }
