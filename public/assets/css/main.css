@@ -4398,10 +4398,7 @@ span {
   background: var(--theme);
   border-radius: 10px;
 } */
-::-webkit-scrollbar {
-  display: block;
-  -webkit-overflow-scrolling: touch;
-}
+
 .fix {
   overflow: hidden;
 }
@@ -10263,6 +10260,9 @@ h6 {
 body {
     overflow-x: initial;
 }
+.swiper-wrapper {
+    justify-content: left;
+}
 @media (max-width: 767px) {
 .footer-widgets-wrapper .col-xl-3.col-lg-3.col-md-6.ps-lg-5.wow.fadeInUp .single-footer-widget .widget-head {
     display: none;
@@ -10477,4 +10477,5 @@ section.hero-section.fix.bg-cover.otherBanner {
    
     text-transform: lowercase;
 }
+
 }
